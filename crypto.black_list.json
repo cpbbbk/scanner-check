@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "BINANCE:BLZUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BNBBUSD_PREMIUM",
         "f": [
           "price null"
@@ -44,12 +50,6 @@
       },
       {
         "s": "BINANCE:COMPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:COTIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -127,7 +127,7 @@
         ]
       },
       {
-        "s": "BINANCE:LUNAUSDT_PREMIUM",
+        "s": "BINANCE:KSMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5042,12 +5042,6 @@
       },
       {
         "s": "HITBTC:POADAI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:POAETH",
         "f": [
           "no longer trading"
         ]
