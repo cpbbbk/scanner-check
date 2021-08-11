@@ -571,6 +571,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:DEVA11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:DOVL11B",
         "f": [
           "no longer trading"
@@ -946,6 +952,12 @@
         "s": "BMFBOVESPA:HBTS6F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:HCTR11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
