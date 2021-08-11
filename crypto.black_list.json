@@ -25,18 +25,6 @@
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BCHUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BNBBUSD_PREMIUM",
         "f": [
           "price null"
@@ -73,19 +61,7 @@
         ]
       },
       {
-        "s": "BINANCE:EGLDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ENJUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FILUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -115,13 +91,7 @@
         ]
       },
       {
-        "s": "BINANCE:LINAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LINKUSDT_PREMIUM",
+        "s": "BINANCE:OCEANUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -146,12 +116,6 @@
       },
       {
         "s": "BINANCE:STMXUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:THETAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -188,12 +152,6 @@
       },
       {
         "s": "BINANCE:ZECUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ZENUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4842,12 +4800,6 @@
         ]
       },
       {
-        "s": "COINBASE:IOTXUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COINBASE:IOTXUSDT",
         "f": [
           "empty symbol"
@@ -4855,12 +4807,6 @@
       },
       {
         "s": "COINBASE:ORNBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:ORNUSD",
         "f": [
           "empty symbol"
         ]
@@ -4878,19 +4824,7 @@
         ]
       },
       {
-        "s": "COINBASE:TRIBEUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COINBASE:USTEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:USTUSD",
         "f": [
           "empty symbol"
         ]
