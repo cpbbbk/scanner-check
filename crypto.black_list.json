@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "BINANCE:BTCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:CRVUSDT_PREMIUM",
         "f": [
           "price null"
@@ -91,6 +85,12 @@
         ]
       },
       {
+        "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ONEUSDT_PREMIUM",
         "f": [
           "price null"
@@ -116,12 +116,6 @@
       },
       {
         "s": "BINANCE:TOMOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:UNFIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4674,30 +4668,6 @@
         ]
       },
       {
-        "s": "BITSTAMP:MATICEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:MATICUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:SUSHIEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITSTAMP:SUSHIUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:ARIA20USDT",
         "f": [
           "empty symbol"
@@ -4807,12 +4777,6 @@
       },
       {
         "s": "HITBTC:ACDBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:APPCETH",
         "f": [
           "no longer trading"
         ]
