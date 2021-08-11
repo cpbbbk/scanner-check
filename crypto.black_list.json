@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BNBBUSD_PREMIUM",
         "f": [
           "price null"
@@ -85,7 +79,19 @@
         ]
       },
       {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ONEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -146,6 +152,12 @@
       },
       {
         "s": "BINANCE:ZILUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4770,19 +4782,7 @@
         ]
       },
       {
-        "s": "COINBASE:BTCUST",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "COINBASE:QUICKUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:USTEUR",
         "f": [
           "empty symbol"
         ]
