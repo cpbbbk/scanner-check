@@ -3871,12 +3871,6 @@
         ]
       },
       {
-        "s": "BSE:KUMAKAIND",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BSE:KUMARWI",
         "f": [
           "no longer trading"
@@ -6049,6 +6043,12 @@
         ]
       },
       {
+        "s": "BSE:SEJAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BSE:SELMCL",
         "f": [
           "no longer trading"
@@ -6098,12 +6098,6 @@
       },
       {
         "s": "BSE:SESL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:SEZAL",
         "f": [
           "no longer trading"
         ]
@@ -8419,13 +8413,13 @@
         ]
       },
       {
-        "s": "NSE:SELMCL",
+        "s": "NSE:SEJAL",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "NSE:SEZAL",
+        "s": "NSE:SELMCL",
         "f": [
           "no longer trading"
         ]
