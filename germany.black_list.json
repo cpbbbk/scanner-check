@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "BER:CTM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BER:FEV",
         "f": [
           "no longer trading"
@@ -49,12 +55,6 @@
         ]
       },
       {
-        "s": "BER:K22",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BER:LTEC",
         "f": [
           "no longer trading"
@@ -62,12 +62,6 @@
       },
       {
         "s": "BER:MEX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BER:N76",
         "f": [
           "no longer trading"
         ]
@@ -86,18 +80,6 @@
       },
       {
         "s": "BER:SR9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BER:TO4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "DUS:27MA",
         "f": [
           "no longer trading"
         ]
@@ -176,12 +158,6 @@
       },
       {
         "s": "FWB:GEY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:IFA",
         "f": [
           "no longer trading"
         ]
@@ -301,12 +277,6 @@
         ]
       },
       {
-        "s": "MUN:IFA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "MUN:IPOK",
         "f": [
           "equal bars"
@@ -368,6 +338,18 @@
       },
       {
         "s": "XETR:3E7",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:579040",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:579043",
         "f": [
           "no longer trading"
         ]
@@ -460,12 +442,6 @@
         "s": "XETR:IBC8",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "XETR:IFA",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -590,12 +566,6 @@
       },
       {
         "s": "XETR:TO2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:US15351109",
         "f": [
           "no longer trading"
         ]
