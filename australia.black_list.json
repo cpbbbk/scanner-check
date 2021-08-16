@@ -127,6 +127,12 @@
         ]
       },
       {
+        "s": "ASX:CAQ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:CCJ",
         "f": [
           "no longer trading"
@@ -301,12 +307,6 @@
         ]
       },
       {
-        "s": "ASX:FNX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:FPL",
         "f": [
           "no longer trading"
@@ -322,6 +322,12 @@
         "s": "ASX:GCR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:GEDN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -391,12 +397,6 @@
         ]
       },
       {
-        "s": "ASX:ICGNF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:ICS",
         "f": [
           "no longer trading"
@@ -452,6 +452,12 @@
       },
       {
         "s": "ASX:IVO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:KBCPA",
         "f": [
           "no longer trading"
         ]
@@ -523,6 +529,12 @@
         ]
       },
       {
+        "s": "ASX:MCX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:MELNA",
         "f": [
           "empty symbol"
@@ -536,12 +548,6 @@
       },
       {
         "s": "ASX:MMR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MPH",
         "f": [
           "no longer trading"
         ]
@@ -703,6 +709,18 @@
         ]
       },
       {
+        "s": "ASX:SFGO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:SI6NC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:SIL",
         "f": [
           "no longer trading"
@@ -799,6 +817,12 @@
         ]
       },
       {
+        "s": "ASX:TTBNA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:TTL",
         "f": [
           "no longer trading"
@@ -880,6 +904,18 @@
         "s": "ASX:WNB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:WOAN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:WRMND",
+        "f": [
+          "empty symbol"
         ]
       },
       {
