@@ -31,6 +31,12 @@
         ]
       },
       {
+        "s": "BINANCE:BTCBUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -98,6 +104,12 @@
       },
       {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:KSMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
