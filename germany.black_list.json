@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BER:ESY",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:FEV",
         "f": [
           "no longer trading"
@@ -46,6 +40,12 @@
         "s": "BER:IFA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BER:IPOK",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -145,6 +145,12 @@
         ]
       },
       {
+        "s": "FWB:49K",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:9TC",
         "f": [
           "no longer trading"
@@ -214,12 +220,6 @@
         "s": "FWB:SR9",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:XSE",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -343,6 +343,12 @@
         ]
       },
       {
+        "s": "MUN:VROS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "XETR:1Q7",
         "f": [
           "no longer trading"
@@ -369,7 +375,7 @@
       {
         "s": "XETR:600190",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
