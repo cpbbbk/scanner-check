@@ -31,13 +31,13 @@
         ]
       },
       {
-        "s": "EURONEXT:2JPM",
+        "s": "EURONEXT:2GS",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "EURONEXT:2MSF",
+        "s": "EURONEXT:2JPM",
         "f": [
           "no longer trading"
         ]
@@ -223,13 +223,19 @@
         ]
       },
       {
+        "s": "EURONEXT:GSPX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:GSSS",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "EURONEXT:HEGA",
+        "s": "EURONEXT:HEGAU",
         "f": [
           "no longer trading"
         ]
@@ -272,12 +278,6 @@
       },
       {
         "s": "EURONEXT:LGUS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:LQDH",
         "f": [
           "no longer trading"
         ]
@@ -332,12 +332,6 @@
       },
       {
         "s": "EURONEXT:SAMZ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:SAPL",
         "f": [
           "empty symbol"
         ]
@@ -451,6 +445,12 @@
         ]
       },
       {
+        "s": "EURONEXT:UBUV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:UCEU",
         "f": [
           "no longer trading"
@@ -463,7 +463,7 @@
         ]
       },
       {
-        "s": "EURONEXT:UE28",
+        "s": "EURONEXT:UEDD",
         "f": [
           "no longer trading"
         ]
@@ -482,12 +482,6 @@
       },
       {
         "s": "EURONEXT:UEF7",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:UEF8",
         "f": [
           "no longer trading"
         ]
@@ -517,7 +511,7 @@
         ]
       },
       {
-        "s": "EURONEXT:V40D",
+        "s": "EURONEXT:V40A",
         "f": [
           "no longer trading"
         ]
@@ -532,12 +526,6 @@
         "s": "EURONEXT:VODS",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:WPAD",
-        "f": [
-          "no longer trading"
         ]
       }
     ]
