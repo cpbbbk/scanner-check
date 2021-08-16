@@ -7,15 +7,15 @@
         ]
       },
       {
-        "s": "NGM:CISH",
+        "s": "NGM:CPE16.PREF.P2",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "NGM:CPE16.PREF.P2",
+        "s": "NGM:HEART.BTU",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -236,12 +236,6 @@
       },
       {
         "s": "OMXSTO:KOMPLO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:MGNO",
         "f": [
           "no longer trading"
         ]
