@@ -205,6 +205,12 @@
         ]
       },
       {
+        "s": "CSE:HAPY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CSE:HHS",
         "f": [
           "no longer trading"
@@ -362,12 +368,6 @@
       },
       {
         "s": "CSE:RCHR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "CSE:RDKO",
         "f": [
           "no longer trading"
         ]
@@ -919,12 +919,6 @@
         ]
       },
       {
-        "s": "NEO:AQR.P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:ARB",
         "f": [
           "no longer trading"
@@ -1276,6 +1270,12 @@
         "s": "NEO:BHAV",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:BILD.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2353,12 +2353,6 @@
         ]
       },
       {
-        "s": "NEO:DAI.H",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:DAR",
         "f": [
           "no longer trading"
@@ -3427,6 +3421,12 @@
         ]
       },
       {
+        "s": "NEO:GHM.P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:GHR",
         "f": [
           "no longer trading"
@@ -3724,6 +3724,12 @@
         "s": "NEO:HANS",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:HAPY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -6361,12 +6367,6 @@
         ]
       },
       {
-        "s": "NEO:RDKO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:RDY",
         "f": [
           "no longer trading"
@@ -7792,12 +7792,6 @@
         "s": "NEO:VKG.H",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:VLCY.P",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -9277,6 +9271,12 @@
         ]
       },
       {
+        "s": "TSXV:BILD.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:BLTC.P",
         "f": [
           "no longer trading"
@@ -9529,12 +9529,6 @@
         ]
       },
       {
-        "s": "TSXV:DAI.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:DAR",
         "f": [
           "no longer trading"
@@ -9760,6 +9754,12 @@
         "s": "TSXV:GHL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:GHM.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -10958,12 +10958,6 @@
       },
       {
         "s": "TSXV:VIC.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:VLCY.P",
         "f": [
           "no longer trading"
         ]
