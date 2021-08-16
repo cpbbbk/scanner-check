@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "NGM:CF1.PREF.P2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NGM:CF2.PREF.P2",
         "f": [
           "no longer trading"
@@ -73,15 +67,15 @@
         ]
       },
       {
-        "s": "OMXSTO:AWDRO",
+        "s": "OMXSTO:ARRO",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OMXSTO:AXXISO",
+        "s": "OMXSTO:AWDRO",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -118,12 +112,6 @@
         "s": "OMXSTO:CLOUDO",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "OMXSTO:CONTXO",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -199,12 +187,6 @@
         ]
       },
       {
-        "s": "OMXSTO:HBCO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:HUGOO",
         "f": [
           "no longer trading"
@@ -218,12 +200,6 @@
       },
       {
         "s": "OMXSTO:HYARDO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:ICEGRO",
         "f": [
           "no longer trading"
         ]
@@ -260,12 +236,6 @@
       },
       {
         "s": "OMXSTO:KOMPLO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:KOMPO",
         "f": [
           "no longer trading"
         ]
@@ -332,12 +302,6 @@
       },
       {
         "s": "OMXSTO:NORTHO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:NPROO",
         "f": [
           "no longer trading"
         ]
@@ -487,6 +451,18 @@
         ]
       },
       {
+        "s": "OMXSTO:SCANAO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SDSDO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:SHLFO",
         "f": [
           "no longer trading"
@@ -541,18 +517,6 @@
         ]
       },
       {
-        "s": "OMXSTO:TRVXO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:VISTNO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:VOLUEO",
         "f": [
           "no longer trading"
@@ -571,13 +535,13 @@
         ]
       },
       {
-        "s": "OMXSTO:WSTEPO",
+        "s": "OMXSTO:WWIBO",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OMXSTO:WWIBO",
+        "s": "OMXSTO:WWIO",
         "f": [
           "no longer trading"
         ]
