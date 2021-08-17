@@ -463,12 +463,6 @@
         ]
       },
       {
-        "s": "UPCOM:DCI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "UPCOM:DDH",
         "f": [
           "no longer trading"
@@ -1881,6 +1875,12 @@
       },
       {
         "s": "UPCOM:XMD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "UPCOM:XMP",
         "f": [
           "empty symbol"
         ]
