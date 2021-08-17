@@ -7,6 +7,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADABUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
@@ -19,13 +25,13 @@
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
+        "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:BELUSDT_PREMIUM",
+        "s": "BINANCE:BANDUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -73,6 +79,12 @@
         ]
       },
       {
+        "s": "BINANCE:BTTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BZRXUSDT_PREMIUM",
         "f": [
           "price null"
@@ -92,6 +104,12 @@
       },
       {
         "s": "BINANCE:COMPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:COTIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -121,6 +139,12 @@
         ]
       },
       {
+        "s": "BINANCE:EGLDUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ETCUSDT_PREMIUM",
         "f": [
           "price null"
@@ -134,12 +158,6 @@
       },
       {
         "s": "BINANCE:GRTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:GTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -163,7 +181,19 @@
         ]
       },
       {
+        "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KEEPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:KSMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -188,12 +218,6 @@
       },
       {
         "s": "BINANCE:MTLUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:NEARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5029,18 +5053,6 @@
       },
       {
         "s": "GEMINI:ZECBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:ACDBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:ATOMBCH",
         "f": [
           "no longer trading"
         ]
