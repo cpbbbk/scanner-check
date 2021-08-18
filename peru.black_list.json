@@ -757,6 +757,12 @@
         ]
       },
       {
+        "s": "BVL:IBM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BVL:ICBCC1",
         "f": [
           "empty symbol"
@@ -1280,6 +1286,12 @@
       },
       {
         "s": "BVL:TELEFCC1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:TGT",
         "f": [
           "no longer trading"
         ]
