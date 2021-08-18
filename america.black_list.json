@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BERZ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:BULZ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:EEH",
         "f": [
           "no longer trading"
@@ -259,12 +247,6 @@
         ]
       },
       {
-        "s": "NASDAQ:BWBBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:CALQU",
         "f": [
           "empty symbol"
@@ -442,12 +424,6 @@
         "s": "NASDAQ:OCEA",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:OXLCO",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1054,12 +1030,6 @@
         "s": "OTC:VYND",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:WCUFF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
