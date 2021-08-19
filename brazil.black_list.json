@@ -913,6 +913,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:HBCR11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:HBTS3",
         "f": [
           "empty symbol"
@@ -1727,6 +1733,12 @@
         "s": "BMFBOVESPA:P1KG34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:P1PG34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
