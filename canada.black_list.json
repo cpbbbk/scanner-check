@@ -487,12 +487,6 @@
         ]
       },
       {
-        "s": "CSE:STAG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CSE:SUN",
         "f": [
           "no longer trading"
@@ -5192,6 +5186,12 @@
       },
       {
         "s": "NEO:MSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:MSCL",
         "f": [
           "no longer trading"
         ]
@@ -10844,12 +10844,6 @@
       },
       {
         "s": "TSXV:STR.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:STUV",
         "f": [
           "no longer trading"
         ]
