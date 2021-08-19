@@ -1,12 +1,6 @@
 {
   "black_list": [
     {
-      "s": "HKEX:8573",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
       "s": "HKEX:8427",
       "f": [
         "change values are higher than limit (auto ban)"
