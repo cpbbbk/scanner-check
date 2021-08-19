@@ -251,6 +251,18 @@
       "f": [
         "manual whitelist ban"
       ]
+    },
+    {
+      "s": "NYSE:MAX",
+      "f": [
+        "manual whitelist ban"
+      ]
+    },
+    {
+      "s": "NASDAQ:GNOG",
+      "f": [
+        "manual whitelist ban"
+      ]
     }
   ]
 }
