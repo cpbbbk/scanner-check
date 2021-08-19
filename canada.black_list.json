@@ -4957,12 +4957,6 @@
         ]
       },
       {
-        "s": "NEO:MSCL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:MSMJ.P",
         "f": [
           "empty symbol"
@@ -9926,6 +9920,12 @@
       },
       {
         "s": "TSXV:MOO.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:MSCL",
         "f": [
           "no longer trading"
         ]
