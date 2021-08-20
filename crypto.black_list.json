@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BINANCE:BNBBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCDOMUSDT_PREMIUM",
         "f": [
           "price null"
@@ -43,7 +37,7 @@
         ]
       },
       {
-        "s": "BINANCE:BZRXUSDT_PREMIUM",
+        "s": "BINANCE:BTSUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -85,19 +79,13 @@
         ]
       },
       {
-        "s": "BINANCE:GTCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "s": "BINANCE:KNCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -110,6 +98,12 @@
       },
       {
         "s": "BINANCE:LITUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -139,7 +133,7 @@
         ]
       },
       {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -152,6 +146,12 @@
       },
       {
         "s": "BINANCE:SKLUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:SXPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4715,6 +4715,30 @@
         ]
       },
       {
+        "s": "BITTREX:DASHBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:DASHETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:DASHUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:DASHUSDT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BITTREX:EVAIETH",
         "f": [
           "empty symbol"
@@ -4766,6 +4790,30 @@
         "s": "BITTREX:TCRUSDT",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ZECBTC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:ZECETH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:ZECUSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:ZECUSDT",
+        "f": [
+          "no longer trading"
         ]
       },
       {
