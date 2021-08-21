@@ -1,268 +1,30 @@
 {
-  "black_list": [
-    {
-      "s": "NASDAQ:ASTS",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "AMEX:GOED",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:DISCB",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:CLEU",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:HESM",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:BMBL",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:BX",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "NASDAQ:FWONA",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "NASDAQ:STEP",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "NYSE:DMS",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "NASDAQ:FWONK",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "NYSE:BIP",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },     
-    {
-      "s": "NYSE:CVNA",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:APO",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:RKT",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:MSGE",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:TLIS",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:PJT",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:LDL",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:STFC",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:AMRX",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "AMEX:KLR",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:KRNLU",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:UONE",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:LKCO",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:GNLN",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:SGFY",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:SCPL",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:CWEN",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:CWEN.A",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:LTRPA",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:INSW",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:EQT",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:LTRPB",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:BBIG",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:IBKR",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:RMR",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:ITHXU",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:TWND",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:EVOP",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:FLMN",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:XELA",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NYSE:MAX",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "NASDAQ:GNOG",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }
-  ]
+    "NASDAQ:ASTS": 30,
+    "NASDAQ:DISCB": 30,
+    "NASDAQ:CLEU": 30,
+    "NYSE:HESM": 30,
+    "NASDAQ:BMBL": 30,
+    "NYSE:BX": 30,
+    "NASDAQ:FWONA": 30,
+    "NASDAQ:STEP": 30,
+    "NASDAQ:FWONK": 30,
+    "NYSE:BIP": 30,
+    "NYSE:APO": 30,
+    "NYSE:RKT": 30,
+    "NASDAQ:TLIS": 30,
+    "NYSE:AMRX": 30,
+    "NASDAQ:KRNLU": 30,
+    "NASDAQ:LKCO": 30,
+    "NASDAQ:GNLN": 30,
+    "NYSE:SGFY": 30,
+    "NASDAQ:SCPL": 30,
+    "NYSE:CWEN": 30,
+    "NYSE:CWEN.A": 30,
+    "NASDAQ:IBKR": 30,
+    "NASDAQ:RMR": 30,
+    "NASDAQ:ITHXU": 30,
+    "NYSE:TWND": 30,
+    "NASDAQ:FLMN": 30,
+    "NYSE:MAX": 30,
+    "NASDAQ:GNOG": 30
 }
