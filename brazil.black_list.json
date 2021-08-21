@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BMFBOVESPA:A1ES34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:A1GN34",
         "f": [
           "no longer trading"
@@ -436,12 +430,6 @@
         "s": "BMFBOVESPA:CHDC34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:CLXC34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -889,12 +877,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:H1AS34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:H1IG34",
         "f": [
           "no longer trading"
@@ -904,6 +886,12 @@
         "s": "BMFBOVESPA:H1II34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:H1RL34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -2057,12 +2045,6 @@
         "s": "BMFBOVESPA:S2QS34",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:SBNY34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
