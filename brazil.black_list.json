@@ -27,7 +27,6 @@
       {
         "s": "BMFBOVESPA:A1OS34",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -545,12 +544,6 @@
         "s": "BMFBOVESPA:CTCA3F",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:D1HI34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1547,6 +1540,7 @@
       {
         "s": "BMFBOVESPA:N1RG34",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -2028,12 +2022,6 @@
         "s": "BMFBOVESPA:S1NN34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:S1SL34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
