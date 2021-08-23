@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "BINANCE:BELUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BNBBUSD_PREMIUM",
         "f": [
           "price null"
@@ -62,12 +68,6 @@
       },
       {
         "s": "BINANCE:ONEUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RAYUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4843,12 +4843,6 @@
         "s": "HITBTC:POADAI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:RENUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
