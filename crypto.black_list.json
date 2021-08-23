@@ -91,19 +91,13 @@
         ]
       },
       {
-        "s": "BINANCE:IOSTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:IOTAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:KNCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -127,7 +121,7 @@
         ]
       },
       {
-        "s": "BINANCE:OMGUSDT_PREMIUM",
+        "s": "BINANCE:MTLUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -152,6 +146,12 @@
       },
       {
         "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -1984,34 +1984,6 @@
       },
       {
         "s": "BITFINEX:EUTUSTSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:EXRDBTCLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:EXRDBTCSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:EXRDUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:EXRDUSDSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
