@@ -13,13 +13,13 @@
         ]
       },
       {
-        "s": "AMEX:ROXA",
+        "s": "AMEX:RSPY",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "AMEX:RSPY",
+        "s": "AMEX:ZECP",
         "f": [
           "empty symbol"
         ]
@@ -278,6 +278,12 @@
         ]
       },
       {
+        "s": "NASDAQ:AGIL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ALACU",
         "f": [
           "no longer trading"
@@ -285,6 +291,12 @@
       },
       {
         "s": "NASDAQ:ATAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AUID",
         "f": [
           "empty symbol"
         ]
@@ -321,6 +333,12 @@
       },
       {
         "s": "NASDAQ:CNAQU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:CNTQ",
         "f": [
           "empty symbol"
         ]
@@ -434,6 +452,12 @@
         ]
       },
       {
+        "s": "NASDAQ:HEXO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:HKIT",
         "f": [
           "empty symbol"
@@ -488,12 +512,6 @@
         ]
       },
       {
-        "s": "NASDAQ:LIVKU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:LVOXU",
         "f": [
           "no longer trading"
@@ -525,6 +543,12 @@
       },
       {
         "s": "NASDAQ:RMGEU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RNW",
         "f": [
           "empty symbol"
         ]
@@ -705,6 +729,12 @@
       },
       {
         "s": "OTC:BADEF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:BHSIF",
         "f": [
           "empty symbol"
         ]
@@ -950,12 +980,6 @@
         ]
       },
       {
-        "s": "OTC:POPRF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:PUFLF",
         "f": [
           "no longer trading"
@@ -977,6 +1001,12 @@
         "s": "OTC:REEEF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SAML",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1049,6 +1079,12 @@
         "s": "OTC:USHAF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:USMT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
