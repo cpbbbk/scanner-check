@@ -7,15 +7,9 @@
         ]
       },
       {
-        "s": "AMEX:GLU/PA",
+        "s": "AMEX:SHUS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:RSPY",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -290,12 +284,6 @@
         ]
       },
       {
-        "s": "NASDAQ:AUID",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:AVACU",
         "f": [
           "empty symbol"
@@ -380,6 +368,12 @@
         ]
       },
       {
+        "s": "NASDAQ:EUCRU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:EVGBC",
         "f": [
           "no longer trading"
@@ -447,12 +441,6 @@
       },
       {
         "s": "NASDAQ:HECC.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:HEXO",
         "f": [
           "empty symbol"
         ]
@@ -686,6 +674,12 @@
         ]
       },
       {
+        "s": "NYSE:WSO.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ACTHF",
         "f": [
           "no longer trading"
@@ -728,12 +722,6 @@
         ]
       },
       {
-        "s": "OTC:BHSIF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:BNIGF",
         "f": [
           "no longer trading"
@@ -746,6 +734,12 @@
         ]
       },
       {
+        "s": "OTC:CFNB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:CLLLF",
         "f": [
           "no longer trading"
@@ -753,6 +747,12 @@
       },
       {
         "s": "OTC:CMGGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:CNBN",
         "f": [
           "no longer trading"
         ]
@@ -885,6 +885,12 @@
       },
       {
         "s": "OTC:IESFY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:INBC",
         "f": [
           "no longer trading"
         ]
@@ -1101,6 +1107,12 @@
       },
       {
         "s": "OTC:VXEL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WECFF",
         "f": [
           "no longer trading"
         ]
