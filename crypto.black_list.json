@@ -175,25 +175,19 @@
         ]
       },
       {
+        "s": "BINANCE:LUNAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:MATICUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:MKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:OGNUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ONEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4853,6 +4847,12 @@
       },
       {
         "s": "BITKUB:AXSTHB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITSTAMP:ENJEUR",
         "f": [
           "empty symbol"
         ]
