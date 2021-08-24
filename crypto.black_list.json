@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "BINANCE:AKROUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ALPHAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -91,7 +85,7 @@
         ]
       },
       {
-        "s": "BINANCE:COTIUSDT_PREMIUM",
+        "s": "BINANCE:CRVUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -254,6 +248,12 @@
       },
       {
         "s": "BINANCE:SRMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5116,12 +5116,6 @@
         ]
       },
       {
-        "s": "HITBTC:SOLHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:TRUEBTC",
         "f": [
           "no longer trading"
@@ -5135,12 +5129,6 @@
       },
       {
         "s": "HITBTC:XLMHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:XTZHIT",
         "f": [
           "no longer trading"
         ]
