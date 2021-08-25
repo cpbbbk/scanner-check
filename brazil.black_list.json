@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "BMFBOVESPA:A1EE34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:A1EN34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:A1GN34",
         "f": [
           "no longer trading"
@@ -139,12 +151,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:BBSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:BDRX11",
         "f": [
           "no longer trading"
@@ -259,6 +265,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:C1ER34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:C1FI34",
         "f": [
           "no longer trading"
@@ -284,6 +296,12 @@
       },
       {
         "s": "BMFBOVESPA:C1HT34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:C1MS34",
         "f": [
           "no longer trading"
         ]
@@ -535,6 +553,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:CSAB4",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:CSAB4F",
         "f": [
           "no longer trading"
@@ -620,12 +644,6 @@
       },
       {
         "s": "BMFBOVESPA:E1XP34",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:ECOO",
         "f": [
           "no longer trading"
         ]
@@ -740,6 +758,12 @@
       },
       {
         "s": "BMFBOVESPA:ESUU11F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:EXGR34",
         "f": [
           "no longer trading"
         ]
@@ -886,6 +910,12 @@
         "s": "BMFBOVESPA:GRAO3F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:H1ES34",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1123,12 +1153,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:ISUS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:ITAG11",
         "f": [
           "no longer trading"
@@ -1183,6 +1207,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:JOPA4F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:JPPC11",
         "f": [
           "no longer trading"
@@ -1208,6 +1238,12 @@
       },
       {
         "s": "BMFBOVESPA:K1MX34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:KEVE11",
         "f": [
           "no longer trading"
         ]
@@ -1387,6 +1423,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:MERC3",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:MGEL3",
         "f": [
           "equal bars",
@@ -1395,6 +1437,12 @@
       },
       {
         "s": "BMFBOVESPA:MGEL3F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:MINT11",
         "f": [
           "no longer trading"
         ]
@@ -1946,6 +1994,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:R1FC34",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:R1HI34",
         "f": [
           "no longer trading"
@@ -2090,7 +2144,7 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:SMAL",
+        "s": "BMFBOVESPA:SLBC34",
         "f": [
           "no longer trading"
         ]
