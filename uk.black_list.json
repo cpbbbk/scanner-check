@@ -175,12 +175,6 @@
         ]
       },
       {
-        "s": "LSE:0UP5",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0V5G",
         "f": [
           "no longer trading"
@@ -890,6 +884,12 @@
         ]
       },
       {
+        "s": "LSE:DVT",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:ENDV",
         "f": [
           "no longer trading"
@@ -1056,6 +1056,12 @@
         "s": "LSE:ICON",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:INTO",
+        "f": [
+          "equal bars"
         ]
       },
       {
