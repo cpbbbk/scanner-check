@@ -1017,7 +1017,6 @@
       {
         "s": "BMFBOVESPA:ICON11",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1090,7 +1089,6 @@
       {
         "s": "BMFBOVESPA:INDX11",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1744,12 +1742,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:P1HC34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:P1KG34",
         "f": [
           "no longer trading"
@@ -2323,7 +2315,6 @@
       {
         "s": "BMFBOVESPA:VPSI11",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
