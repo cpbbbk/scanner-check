@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "BINANCE:ADABUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
@@ -44,12 +38,6 @@
       },
       {
         "s": "BINANCE:ANKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ATOMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -109,12 +97,6 @@
         ]
       },
       {
-        "s": "BINANCE:BTCBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -139,6 +121,12 @@
         ]
       },
       {
+        "s": "BINANCE:C98USDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -146,12 +134,6 @@
       },
       {
         "s": "BINANCE:CHZUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -277,12 +259,6 @@
         ]
       },
       {
-        "s": "BINANCE:IOSTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -325,12 +301,6 @@
         ]
       },
       {
-        "s": "BINANCE:LRCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:LUNAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -338,6 +308,12 @@
       },
       {
         "s": "BINANCE:MANAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -368,6 +344,18 @@
       },
       {
         "s": "BINANCE:NEOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:OCEANUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -416,6 +404,12 @@
       },
       {
         "s": "BINANCE:RSRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -487,6 +481,12 @@
         ]
       },
       {
+        "s": "BINANCE:TLMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:TOMOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -511,18 +511,6 @@
         ]
       },
       {
-        "s": "BINANCE:UNIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:VETUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:WAVESUSDT_PREMIUM",
         "f": [
           "price null"
@@ -541,19 +529,7 @@
         ]
       },
       {
-        "s": "BINANCE:XRPBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:XTZUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:YFIIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -566,6 +542,12 @@
       },
       {
         "s": "BINANCE:ZECUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZENUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5365,6 +5347,12 @@
         ]
       },
       {
+        "s": "HUOBI:EPIKHT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "KORBIT:BTGKRW",
         "f": [
           "no longer trading"
@@ -5422,6 +5410,24 @@
         "s": "POLONIEX:DEXTUSDT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:LUMITRX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:OSKTRX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:OSKUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
