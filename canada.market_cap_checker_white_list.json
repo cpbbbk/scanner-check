@@ -1,94 +1,13 @@
 {
-  "black_list": [
-    {
-      "s": "CSE:VRNO",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "TSXV:SOIL",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "CSE:HBOR",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "TSX:GLXY",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "CSE:MCUR",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "CSE:AWLI",
-      "f": [
-        "manual whitelist ban"
-      ]
-    },
-    {
-      "s": "TSX:TSU",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:BILZ",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:VEXT",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:TIUM.U",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:MMEN",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:XOP",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "TSX:FFH.U",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "CSE:TRIP",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }, 
-    {
-      "s": "TSXV:JK",
-      "f": [
-        "manual whitelist ban"
-      ]
-    }
-  ]
+    "CSE:VRNO": 30,
+    "CSE:HBOR": 30,
+    "TSX:GLXY": 30,
+    "CSE:MCUR": 30,
+    "CSE:AWLI": 30,
+    "CSE:BILZ": 30,
+    "CSE:TIUM.U": 30,
+    "CSE:XOP": 30,
+    "TSX:FFH.U": 30,
+    "CSE:CL": 30,
+    "TSXV:GFP": 30
 }
