@@ -2287,6 +2287,12 @@
         ]
       },
       {
+        "s": "NEO:CTH.H",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:CTN",
         "f": [
           "no longer trading"
@@ -4792,6 +4798,12 @@
         "s": "NEO:MICH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:MILL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -9115,6 +9127,12 @@
         ]
       },
       {
+        "s": "TSXV:CTH.H",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSXV:CTI.H",
         "f": [
           "no longer trading"
@@ -9808,6 +9826,12 @@
         "s": "TSXV:MFS.H",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:MILL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
