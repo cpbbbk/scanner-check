@@ -55,12 +55,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:ALUP3",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:ANCR11B",
         "f": [
           "no longer trading"
@@ -100,6 +94,12 @@
         "s": "BMFBOVESPA:AWII34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:B1KR34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
