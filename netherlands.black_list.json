@@ -181,12 +181,6 @@
         ]
       },
       {
-        "s": "EURONEXT:GAGU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:GGOU",
         "f": [
           "no longer trading"
@@ -250,6 +244,12 @@
         "s": "EURONEXT:MPAB",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:NAI",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -464,6 +464,12 @@
       },
       {
         "s": "EURONEXT:V3GF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:VAM",
         "f": [
           "no longer trading"
         ]
