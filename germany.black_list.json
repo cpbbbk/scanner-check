@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "BER:DR1",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:GA4",
         "f": [
           "equal bars",
@@ -134,6 +140,12 @@
         ]
       },
       {
+        "s": "FWB:7TB",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FWB:9TC",
         "f": [
           "no longer trading"
@@ -191,6 +203,12 @@
         "s": "FWB:RITN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:SLT0",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -377,12 +395,6 @@
         "s": "XETR:A14KL7",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:A3E5DF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
