@@ -319,12 +319,6 @@
         ]
       },
       {
-        "s": "CME:WDCQ2021",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "CME:WDCQ2022",
         "f": [
           "equal bars"
@@ -1078,12 +1072,6 @@
         "s": "OTC:NSGCF",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:OLNCF",
-        "f": [
-          "no longer trading"
         ]
       },
       {
