@@ -7,12 +7,6 @@
         ]
       },
       {
-        "s": "BINANCE:1INCHUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ADAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -109,6 +103,12 @@
         ]
       },
       {
+        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DODOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -151,7 +151,19 @@
         ]
       },
       {
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -164,6 +176,12 @@
       },
       {
         "s": "BINANCE:LUNAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -212,6 +230,12 @@
       },
       {
         "s": "BINANCE:TRXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:WAVESUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4933,30 +4957,6 @@
       },
       {
         "s": "COINBASE:DDXUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:RADBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:RADEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:RADGBP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:RADUSDT",
         "f": [
           "empty symbol"
         ]
