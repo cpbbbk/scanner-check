@@ -1087,6 +1087,12 @@
         ]
       },
       {
+        "s": "BMV:DGG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:DIDA/N",
         "f": [
           "no longer trading"
@@ -1363,12 +1369,6 @@
         ]
       },
       {
-        "s": "BMV:EXPD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMV:EXPN/N",
         "f": [
           "empty symbol"
@@ -1468,12 +1468,6 @@
         "s": "BMV:FORION/20",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:FORTALE",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1604,6 +1598,12 @@
       },
       {
         "s": "BMV:GIVN/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:GLB/N",
         "f": [
           "no longer trading"
         ]
@@ -1969,6 +1969,12 @@
         ]
       },
       {
+        "s": "BMV:JEF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:JOBS/N",
         "f": [
           "no longer trading"
@@ -2275,6 +2281,12 @@
         ]
       },
       {
+        "s": "BMV:MRW/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:MT1/N",
         "f": [
           "empty symbol"
@@ -2521,7 +2533,19 @@
         ]
       },
       {
+        "s": "BMV:PSON/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:PSX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:PUB/N",
         "f": [
           "no longer trading"
         ]
@@ -3206,6 +3230,12 @@
       },
       {
         "s": "BMV:URBI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:URW/N",
         "f": [
           "no longer trading"
         ]
