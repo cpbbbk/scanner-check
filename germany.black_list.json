@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "BER:DR1",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:GA4",
         "f": [
           "equal bars",
@@ -98,6 +92,12 @@
         ]
       },
       {
+        "s": "DUS:ERO",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "DUS:GEY",
         "f": [
           "no longer trading"
@@ -128,13 +128,37 @@
         ]
       },
       {
+        "s": "FWB:0JR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:1Q7",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "FWB:3UB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:49K",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:4OR1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:5TJ",
         "f": [
           "no longer trading"
         ]
@@ -153,6 +177,12 @@
       },
       {
         "s": "FWB:ADL0",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:ADWA",
         "f": [
           "no longer trading"
         ]
@@ -188,9 +218,27 @@
         ]
       },
       {
+        "s": "FWB:HDU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:I4L",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:IQL1",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "FWB:KIS",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -206,7 +254,31 @@
         ]
       },
       {
+        "s": "FWB:NOX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:OKU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:PM8",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FWB:RITN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:RJD",
         "f": [
           "no longer trading"
         ]
@@ -219,6 +291,42 @@
       },
       {
         "s": "FWB:TC50",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:TDA1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:TO4",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:TOK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:UTO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:XCD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:YTT",
         "f": [
           "no longer trading"
         ]
