@@ -163,12 +163,6 @@
         ]
       },
       {
-        "s": "BINANCE:IOTXUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:KNCUSDT_PREMIUM",
         "f": [
           "price null"
@@ -182,6 +176,12 @@
       },
       {
         "s": "BINANCE:LUNAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -229,13 +229,19 @@
         ]
       },
       {
-        "s": "BINANCE:TRXUSDT_PREMIUM",
+        "s": "BINANCE:STMXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:WAVESUSDT_PREMIUM",
+        "s": "BINANCE:STORJUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:TRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
