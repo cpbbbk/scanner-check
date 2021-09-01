@@ -4117,6 +4117,12 @@
         ]
       },
       {
+        "s": "SET:TISCO.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TISCO.P",
         "f": [
           "no longer trading"
@@ -4442,6 +4448,12 @@
       },
       {
         "s": "SET:TTA.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TTB.F",
         "f": [
           "no longer trading"
         ]
