@@ -409,6 +409,12 @@
         ]
       },
       {
+        "s": "CSE:STK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CSE:SUN",
         "f": [
           "no longer trading"
@@ -430,6 +436,12 @@
         "s": "CSE:TCC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "CSE:TRAC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
