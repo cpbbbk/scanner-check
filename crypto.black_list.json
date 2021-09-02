@@ -61,7 +61,7 @@
         ]
       },
       {
-        "s": "BINANCE:HBARUSDT_PREMIUM",
+        "s": "BINANCE:IOTAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -73,7 +73,7 @@
         ]
       },
       {
-        "s": "BINANCE:MTLUSDT_PREMIUM",
+        "s": "BINANCE:RLCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -92,6 +92,12 @@
       },
       {
         "s": "BINANCE:STMXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
