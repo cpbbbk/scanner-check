@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BER:27MA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BER:9TC",
         "f": [
           "no longer trading"
@@ -440,6 +434,12 @@
         ]
       },
       {
+        "s": "MUN:PSE",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MUN:PZS",
         "f": [
           "equal bars"
@@ -459,6 +459,18 @@
       },
       {
         "s": "MUN:VROS",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SWB:AE4",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SWB:ERO",
         "f": [
           "equal bars"
         ]
