@@ -199,12 +199,6 @@
         ]
       },
       {
-        "s": "BINANCE:GTCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:HBARUSDT_PREMIUM",
         "f": [
           "price null"
@@ -224,6 +218,12 @@
       },
       {
         "s": "BINANCE:IOSTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -379,19 +379,7 @@
         ]
       },
       {
-        "s": "BINANCE:STORJUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:THETAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:TLMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5247,24 +5235,6 @@
         "s": "HITBTC:USGETH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:VGXBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:VGXETH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:VGXUSD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
