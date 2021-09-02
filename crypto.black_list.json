@@ -109,12 +109,6 @@
         ]
       },
       {
-        "s": "BINANCE:CTKUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:DASHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -290,6 +284,12 @@
       },
       {
         "s": "BINANCE:VETUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:WAVESUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -624,12 +624,6 @@
         "s": "BITFINEX:ATOUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:AVAXF0USTF0",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2151,12 +2145,6 @@
         "s": "BITFINEX:FETUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:FILF0USTF0",
-        "f": [
           "empty symbol"
         ]
       },
