@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:JRNY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PCG/PC",
         "f": [
           "no longer trading"
@@ -1150,6 +1144,12 @@
         "s": "OTC:TMRR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TREIF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
