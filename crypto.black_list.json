@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BINANCE:BCHUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BELUSDT_PREMIUM",
         "f": [
           "price null"
@@ -67,6 +61,12 @@
         ]
       },
       {
+        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:EOSUSDT_PREMIUM",
         "f": [
           "price null"
@@ -91,7 +91,7 @@
         ]
       },
       {
-        "s": "BINANCE:KSMUSDT_PREMIUM",
+        "s": "BINANCE:ICXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "s": "BINANCE:MKRUSDT_PREMIUM",
+        "s": "BINANCE:NEARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
+        "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4787,6 +4787,12 @@
         ]
       },
       {
+        "s": "BITTREX:BNTUSD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CADXBTC",
         "f": [
           "empty symbol"
@@ -4826,6 +4832,12 @@
         "s": "BITTREX:NFTXUSDT",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:RLCUSD",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -5036,12 +5048,6 @@
         "s": "HITBTC:USGETH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:VGXUSD",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
