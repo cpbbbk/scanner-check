@@ -61,12 +61,6 @@
         ]
       },
       {
-        "s": "BINANCE:DENTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:EOSUSDT_PREMIUM",
         "f": [
           "price null"
@@ -85,13 +79,13 @@
         ]
       },
       {
-        "s": "BINANCE:HBARUSDT_PREMIUM",
+        "s": "BINANCE:GTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:KSMUSDT_PREMIUM",
+        "s": "BINANCE:HBARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -115,7 +109,19 @@
         ]
       },
       {
+        "s": "BINANCE:ONEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RAYUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -4764,12 +4770,6 @@
       },
       {
         "s": "BITTREX:CADXUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:DFIETH",
         "f": [
           "empty symbol"
         ]
