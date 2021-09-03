@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "AMEX:RCOR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -403,6 +409,12 @@
         ]
       },
       {
+        "s": "NASDAQ:ASPA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ATAT",
         "f": [
           "empty symbol"
@@ -727,9 +739,21 @@
         ]
       },
       {
+        "s": "NYSE:JATT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:LNFA.U",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:RDW",
+        "f": [
+          "empty symbol"
         ]
       },
       {
