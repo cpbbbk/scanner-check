@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:1000SHIBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:1INCHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -128,6 +122,12 @@
       },
       {
         "s": "BINANCE:GRTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:GTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
