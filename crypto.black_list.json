@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BINANCE:ATAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BAKEUSDT_PREMIUM",
         "f": [
           "price null"
@@ -145,6 +139,12 @@
         ]
       },
       {
+        "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KAVAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -152,12 +152,6 @@
       },
       {
         "s": "BINANCE:KNCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LITUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -176,6 +170,12 @@
       },
       {
         "s": "BINANCE:NEOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
