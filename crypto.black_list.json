@@ -79,6 +79,12 @@
         ]
       },
       {
+        "s": "BINANCE:COTIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DASHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -128,6 +134,12 @@
       },
       {
         "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LUNAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -194,6 +206,12 @@
       },
       {
         "s": "BINANCE:SRMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
