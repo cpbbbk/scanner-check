@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "BINANCE:AKROUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ATOMUSDT_PREMIUM",
         "f": [
           "price null"
@@ -224,12 +218,6 @@
       },
       {
         "s": "BINANCE:RENUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5217,12 +5205,6 @@
         "s": "POLONIEX:BRGUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:COOLUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
