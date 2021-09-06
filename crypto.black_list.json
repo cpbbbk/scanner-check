@@ -13,13 +13,7 @@
         ]
       },
       {
-        "s": "BINANCE:ALGOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -38,12 +32,6 @@
       },
       {
         "s": "BINANCE:AXSUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BAKEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5251,6 +5239,12 @@
         ]
       },
       {
+        "s": "POLONIEX:AGLDUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:BCHABTC",
         "f": [
           "no longer trading"
@@ -5275,9 +5269,27 @@
         ]
       },
       {
+        "s": "POLONIEX:COOLUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:DEXTUSDT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:GLYPHUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "POLONIEX:MASKUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
