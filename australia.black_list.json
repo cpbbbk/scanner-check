@@ -73,9 +73,9 @@
         ]
       },
       {
-        "s": "ASX:ALUCD",
+        "s": "ASX:AMCCD",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -104,12 +104,6 @@
       },
       {
         "s": "ASX:ATRXE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:ATUAAA",
         "f": [
           "empty symbol"
         ]
@@ -146,6 +140,12 @@
       },
       {
         "s": "ASX:BMH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:BSLCD",
         "f": [
           "no longer trading"
         ]
@@ -259,13 +259,13 @@
         ]
       },
       {
-        "s": "ASX:FE8",
+        "s": "ASX:FDM",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:FFC",
+        "s": "ASX:FE8",
         "f": [
           "no longer trading"
         ]
@@ -385,6 +385,12 @@
         ]
       },
       {
+        "s": "ASX:IPC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:ISX",
         "f": [
           "no longer trading"
@@ -416,12 +422,6 @@
       },
       {
         "s": "ASX:KLO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:KNH",
         "f": [
           "no longer trading"
         ]
@@ -487,6 +487,12 @@
         ]
       },
       {
+        "s": "ASX:MM1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:MMR",
         "f": [
           "no longer trading"
@@ -508,6 +514,12 @@
         "s": "ASX:MSRDA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:MSVAL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -538,12 +550,6 @@
         "s": "ASX:NSE",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:NSTCD",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -860,6 +866,12 @@
       },
       {
         "s": "ASX:YTMAPA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:YTMAST",
         "f": [
           "no longer trading"
         ]
