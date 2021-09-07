@@ -193,12 +193,6 @@
         ]
       },
       {
-        "s": "CSE:EOM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:EXM",
         "f": [
           "no longer trading"
@@ -2170,12 +2164,6 @@
         "s": "NEO:COLL.P",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:COMM",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -9187,12 +9175,6 @@
         ]
       },
       {
-        "s": "TSX:SPPP.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:TLF.U",
         "f": [
           "no longer trading"
@@ -9644,12 +9626,6 @@
       },
       {
         "s": "TSXV:CGLD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:COLL.P",
         "f": [
           "no longer trading"
         ]
