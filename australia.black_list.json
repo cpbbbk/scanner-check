@@ -31,12 +31,6 @@
         ]
       },
       {
-        "s": "ASX:AFWN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:AGJ",
         "f": [
           "no longer trading"
@@ -46,6 +40,12 @@
         "s": "ASX:AHN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:AHNN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -128,12 +128,6 @@
       },
       {
         "s": "ASX:BIN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BSLCD",
         "f": [
           "no longer trading"
         ]
@@ -247,12 +241,6 @@
         ]
       },
       {
-        "s": "ASX:FDM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:FE8",
         "f": [
           "no longer trading"
@@ -286,12 +274,6 @@
         "s": "ASX:GMC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GMER",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -344,12 +326,6 @@
       },
       {
         "s": "ASX:ICS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:IDAOA",
         "f": [
           "no longer trading"
         ]
@@ -421,6 +397,12 @@
         ]
       },
       {
+        "s": "ASX:LCLOB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:LHM",
         "f": [
           "no longer trading"
@@ -457,6 +439,12 @@
         ]
       },
       {
+        "s": "ASX:MAUCA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:MAX",
         "f": [
           "no longer trading"
@@ -466,6 +454,12 @@
         "s": "ASX:MAYN",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:MGLDA",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -616,18 +610,6 @@
         "s": "ASX:RES",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RFXN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:RHYN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
