@@ -109,6 +109,12 @@
         ]
       },
       {
+        "s": "CSE:CGII",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CSE:CHV",
         "f": [
           "no longer trading"
@@ -421,12 +427,6 @@
         ]
       },
       {
-        "s": "CSE:SOFT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:SQID",
         "f": [
           "no longer trading"
@@ -478,6 +478,12 @@
         "s": "CSE:URB.A",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "CSE:VRAR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1846,6 +1852,12 @@
         "s": "NEO:CGI.PR.D",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:CGII",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -6979,6 +6991,12 @@
         ]
       },
       {
+        "s": "NEO:SGLD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:SGRO",
         "f": [
           "no longer trading"
@@ -7112,12 +7130,6 @@
       },
       {
         "s": "NEO:SOCK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:SOFT",
         "f": [
           "no longer trading"
         ]
@@ -7435,7 +7447,7 @@
         ]
       },
       {
-        "s": "NEO:TGR",
+        "s": "NEO:TGR.H",
         "f": [
           "empty symbol"
         ]
@@ -7978,6 +7990,12 @@
         "s": "NEO:VQA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:VRAR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -8761,6 +8779,12 @@
         ]
       },
       {
+        "s": "TSX:GOGR.UN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSX:HARB.U",
         "f": [
           "no longer trading"
@@ -8884,6 +8908,18 @@
         "s": "TSX:SCW.UN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:SFI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TSX:SGLD",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -10654,6 +10690,12 @@
         "s": "TSXV:TCK.P",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:TGR.H",
+        "f": [
+          "empty symbol"
         ]
       },
       {
