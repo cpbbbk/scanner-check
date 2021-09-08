@@ -26,6 +26,12 @@
         ]
       },
       {
+        "s": "BER:GUJB",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:IPOK",
         "f": [
           "equal bars"
@@ -441,12 +447,6 @@
       },
       {
         "s": "MUN:OL5",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "MUN:PZS",
         "f": [
           "equal bars"
         ]
