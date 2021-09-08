@@ -169,12 +169,6 @@
         ]
       },
       {
-        "s": "LSE:0DZJ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0DZW",
         "f": [
           "no longer trading"
@@ -1052,12 +1046,6 @@
       },
       {
         "s": "LSE:0RL2",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0ROH",
         "f": [
           "no longer trading"
         ]
@@ -2627,12 +2615,6 @@
         ]
       },
       {
-        "s": "LSE:UHYC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:UOS",
         "f": [
           "no longer trading"
@@ -2787,6 +2769,12 @@
         "f": [
           "equal bars",
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:LKCS",
+        "f": [
+          "equal bars"
         ]
       },
       {
