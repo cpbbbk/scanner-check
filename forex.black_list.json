@@ -235,6 +235,12 @@
         ]
       },
       {
+        "s": "FX_IDC:QARUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:SBDUSD",
         "f": [
           "no longer trading"
@@ -338,6 +344,12 @@
       },
       {
         "s": "FX_IDC:USDMMK",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:USDMVR",
         "f": [
           "equal bars"
         ]
