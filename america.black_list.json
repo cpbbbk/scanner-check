@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:CHLD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:GGO/PA",
         "f": [
           "no longer trading"
@@ -40,18 +34,6 @@
         "s": "AMEX:PHGE.U",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:SUNY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:WLTH",
-        "f": [
-          "empty symbol"
         ]
       },
       {
