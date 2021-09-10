@@ -199,6 +199,12 @@
         ]
       },
       {
+        "s": "FX_IDC:LBPUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:MMKUSD",
         "f": [
           "equal bars"
@@ -206,6 +212,12 @@
       },
       {
         "s": "FX_IDC:MNTUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "FX_IDC:MWKUSD",
         "f": [
           "equal bars"
         ]
