@@ -205,6 +205,12 @@
         ]
       },
       {
+        "s": "FX_IDC:MGAUSD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:MMKUSD",
         "f": [
           "equal bars"
@@ -352,12 +358,6 @@
         "s": "FX_IDC:USDMGA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FX_IDC:USDMMK",
-        "f": [
-          "equal bars"
         ]
       },
       {
