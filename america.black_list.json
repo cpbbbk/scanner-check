@@ -871,6 +871,12 @@
         ]
       },
       {
+        "s": "NASDAQ:NSEC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:OCEA",
         "f": [
           "empty symbol"
@@ -1033,9 +1039,21 @@
         ]
       },
       {
+        "s": "NYSE:ATA.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:FLAG.U",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:GAPA.U",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1201,6 +1219,12 @@
         ]
       },
       {
+        "s": "OTC:ECGFF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ELOAF",
         "f": [
           "no longer trading"
@@ -1232,6 +1256,12 @@
       },
       {
         "s": "OTC:FNAUF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FREJN",
         "f": [
           "no longer trading"
         ]
@@ -1292,6 +1322,18 @@
       },
       {
         "s": "OTC:GPOTF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HANCF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HTPRF",
         "f": [
           "no longer trading"
         ]
@@ -1358,6 +1400,12 @@
       },
       {
         "s": "OTC:MMDDF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MNBO",
         "f": [
           "no longer trading"
         ]
@@ -1544,6 +1592,12 @@
       },
       {
         "s": "OTC:USHAF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:USYNF",
         "f": [
           "no longer trading"
         ]
