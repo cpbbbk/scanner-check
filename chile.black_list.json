@@ -199,6 +199,12 @@
         ]
       },
       {
+        "s": "BCS:CAMPOS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BCS:CANALISTAS",
         "f": [
           "empty symbol"
@@ -544,6 +550,12 @@
         "s": "BCS:EXITOUS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:FCXCL",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -913,6 +925,12 @@
         ]
       },
       {
+        "s": "BCS:MMM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BCS:MMMCL",
         "f": [
           "no longer trading"
@@ -946,6 +964,12 @@
         "s": "BCS:MUELLES",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BCS:NEM",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -992,6 +1016,12 @@
       },
       {
         "s": "BCS:ORCLCL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BCS:PEP",
         "f": [
           "no longer trading"
         ]
