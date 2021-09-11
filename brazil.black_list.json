@@ -181,6 +181,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:BLMG11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:BLMO11",
         "f": [
           "no longer trading"
@@ -2081,6 +2087,12 @@
         "s": "BMFBOVESPA:RBNS11F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:RBRL11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
