@@ -13,6 +13,12 @@
         ]
       },
       {
+        "s": "NGM:TRNSF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -139,6 +145,12 @@
         ]
       },
       {
+        "s": "OMXSTO:ENDURO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:FROYO",
         "f": [
           "no longer trading"
@@ -193,12 +205,6 @@
         ]
       },
       {
-        "s": "OMXSTO:IDEXO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:INSRO",
         "f": [
           "no longer trading"
@@ -224,6 +230,12 @@
       },
       {
         "s": "OMXSTO:KMCPO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:MGNO",
         "f": [
           "no longer trading"
         ]
