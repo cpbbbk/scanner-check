@@ -1,7 +1,7 @@
 {
   "black_list": [
     {
-      "s": "AMEX:SMI",
+      "s": "NASDAQ:AZRX",
       "f": [
         "change values are higher than limit (auto ban)"
       ]
