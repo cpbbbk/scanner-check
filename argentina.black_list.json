@@ -795,7 +795,7 @@
       {
         "s": "BCBA:CADO5",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -879,7 +879,7 @@
       {
         "s": "BCBA:CELU6",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2053,6 +2053,12 @@
         ]
       },
       {
+        "s": "BCBA:NG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCBA:NGC",
         "f": [
           "empty symbol"
@@ -2205,7 +2211,7 @@
       {
         "s": "BCBA:PATA5",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2296,6 +2302,12 @@
         "s": "BCBA:PSXC",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BCBA:PSXD",
+        "f": [
+          "no longer trading"
         ]
       },
       {
