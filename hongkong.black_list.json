@@ -751,6 +751,12 @@
         ]
       },
       {
+        "s": "HKEX:6090",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:6108",
         "f": [
           "no longer trading"
@@ -890,6 +896,12 @@
       },
       {
         "s": "HKEX:8001",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:8003",
         "f": [
           "no longer trading"
         ]
@@ -1220,12 +1232,6 @@
       },
       {
         "s": "HKEX:9169",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:9181",
         "f": [
           "no longer trading"
         ]
