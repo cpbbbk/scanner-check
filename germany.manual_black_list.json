@@ -1,16 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "FWB:YKK",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "FWB:0E1",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    }
-  ]
+  "black_list": []
 }
