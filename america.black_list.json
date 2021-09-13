@@ -355,30 +355,6 @@
         ]
       },
       {
-        "s": "CME:DCG2023",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "CME:DCH2023",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "CME:DCJ2023",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "CME:DCK2023",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "CME:LBSX2022",
         "f": [
           "empty symbol"
@@ -565,6 +541,12 @@
         ]
       },
       {
+        "s": "NASDAQ:APAC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ATAT",
         "f": [
           "empty symbol"
@@ -585,17 +567,11 @@
       {
         "s": "NASDAQ:BLNG",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "NASDAQ:CALQU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:CCEP",
         "f": [
           "empty symbol"
         ]
@@ -680,6 +656,12 @@
       },
       {
         "s": "NASDAQ:FATPU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:FICV",
         "f": [
           "empty symbol"
         ]
@@ -949,6 +931,12 @@
         ]
       },
       {
+        "s": "NASDAQ:WNDY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:ATA.U",
         "f": [
           "no longer trading"
@@ -1009,9 +997,27 @@
         ]
       },
       {
+        "s": "OTC:ALVOF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:ANPCY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:AQSP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:ARHH",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1105,6 +1111,12 @@
         ]
       },
       {
+        "s": "OTC:DMKBA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:DMKBB",
         "f": [
           "no longer trading"
@@ -1114,6 +1126,12 @@
         "s": "OTC:DSBX",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:DXLG",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1255,6 +1273,12 @@
         ]
       },
       {
+        "s": "OTC:LEMLD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:LEOVF",
         "f": [
           "empty symbol"
@@ -1276,6 +1300,12 @@
         "s": "OTC:MBLU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:MIGID",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1303,6 +1333,12 @@
         ]
       },
       {
+        "s": "OTC:NTGSF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:OPVLF",
         "f": [
           "no longer trading"
@@ -1324,6 +1360,12 @@
         "s": "OTC:OSTBP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:PKKFF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1357,6 +1399,24 @@
         ]
       },
       {
+        "s": "OTC:SCON",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:SCTCD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:SGMLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:SHNJF",
         "f": [
           "no longer trading"
@@ -1366,6 +1426,18 @@
         "s": "OTC:SOCGM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SOLVY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:SPVND",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1414,6 +1486,12 @@
         "s": "OTC:TCVNF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TDLAF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
