@@ -700,6 +700,12 @@
         ]
       },
       {
+        "s": "SET:BTS.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BTSGIF.F",
         "f": [
           "no longer trading"
@@ -1725,6 +1731,12 @@
         ]
       },
       {
+        "s": "SET:JAS.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:JCK.F",
         "f": [
           "no longer trading"
@@ -2574,6 +2586,12 @@
         ]
       },
       {
+        "s": "SET:OR.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:ORI.F",
         "f": [
           "no longer trading"
@@ -3272,6 +3290,12 @@
       },
       {
         "s": "SET:SC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SCB.F",
         "f": [
           "no longer trading"
         ]
