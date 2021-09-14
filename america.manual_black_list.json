@@ -1,13 +1,13 @@
 {
   "black_list": [
     {
-      "s": "NASDAQ:AZRX",
+      "s": "OTC:LEMLF",
       "f": [
         "change values are higher than limit (auto ban)"
       ]
     },
     {
-      "s": "OTC:LEMLF",
+      "s": "NASDAQ:APAC",
       "f": [
         "change values are higher than limit (auto ban)"
       ]
