@@ -295,12 +295,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:C1NP34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:C1PB34",
         "f": [
           "no longer trading"
@@ -681,6 +675,7 @@
       {
         "s": "BMFBOVESPA:E1SE34",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1513,6 +1508,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:MDIA3",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:MGEL3",
         "f": [
           "equal bars",
@@ -1583,6 +1584,12 @@
         "s": "BMFBOVESPA:MNZC3B",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:MOAR3F",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -2400,6 +2407,12 @@
         "s": "BMFBOVESPA:UPKP3B",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:UPSS34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
