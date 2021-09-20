@@ -1,16 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "FTX:BTCMOVE0920",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "FTX:BTCMOVE0921",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    }
-  ]
+  "black_list": []
 }
