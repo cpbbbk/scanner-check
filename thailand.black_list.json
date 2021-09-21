@@ -501,6 +501,12 @@
         ]
       },
       {
+        "s": "SET:BDMS.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:BEC.F",
         "f": [
           "no longer trading"
@@ -3320,6 +3326,12 @@
         ]
       },
       {
+        "s": "SET:SCGP.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:SCI.F",
         "f": [
           "no longer trading"
@@ -3737,6 +3749,12 @@
       },
       {
         "s": "SET:SSTRT.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:STA.F",
         "f": [
           "no longer trading"
         ]
@@ -4320,9 +4338,21 @@
         ]
       },
       {
+        "s": "SET:TOPP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TOPP.F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "SET:TOPP.R",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4527,6 +4557,12 @@
       },
       {
         "s": "SET:TVI.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TVO.F",
         "f": [
           "no longer trading"
         ]
