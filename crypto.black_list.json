@@ -121,12 +121,6 @@
         ]
       },
       {
-        "s": "BINANCE:BTSUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTTUSDT_PREMIUM",
         "f": [
           "price null"
@@ -223,7 +217,13 @@
         ]
       },
       {
-        "s": "BINANCE:DOTUSDT_PREMIUM",
+        "s": "BINANCE:DOGEBUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:DYDXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -236,24 +236,6 @@
       },
       {
         "s": "BINANCE:ENJUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ETCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FILUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FTMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -391,6 +373,12 @@
         ]
       },
       {
+        "s": "BINANCE:MATICUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:MKRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -422,12 +410,6 @@
       },
       {
         "s": "BINANCE:OGNUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:OMGUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -571,6 +553,12 @@
         ]
       },
       {
+        "s": "BINANCE:XEMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:XLMUSDT_PREMIUM",
         "f": [
           "price null"
@@ -620,6 +608,12 @@
       },
       {
         "s": "BINANCE:ZENUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZILUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5793,6 +5787,30 @@
         "s": "HITBTC:SRNETH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HITBTC:TXADAI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:TXATUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:TXAUSDC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:TXAUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
