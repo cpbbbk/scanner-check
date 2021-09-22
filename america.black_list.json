@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "AMEX:BIDS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:DOZR",
         "f": [
           "empty symbol"
@@ -28,18 +22,6 @@
         "s": "AMEX:EEH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:HSUN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:RIET",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -601,12 +583,6 @@
         ]
       },
       {
-        "s": "NASDAQ:FWBI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:GFLDU",
         "f": [
           "empty symbol"
@@ -799,12 +775,6 @@
         ]
       },
       {
-        "s": "NASDAQ:VBNK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:VEMCU",
         "f": [
           "empty symbol"
@@ -877,9 +847,9 @@
         ]
       },
       {
-        "s": "NYSE:NRZ/PD",
+        "s": "NYSE:LNFA.U",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1027,6 +997,12 @@
         ]
       },
       {
+        "s": "OTC:CNSC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:CUII",
         "f": [
           "no longer trading"
@@ -1141,9 +1117,9 @@
         ]
       },
       {
-        "s": "OTC:GMGI",
+        "s": "OTC:GMVP",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1273,13 +1249,31 @@
         ]
       },
       {
+        "s": "OTC:QCXGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:QNNTF",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "OTC:RCWDF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:REEEF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:RLYGF",
         "f": [
           "no longer trading"
         ]
@@ -1324,6 +1318,12 @@
         "s": "OTC:TCCR",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:TCNB",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1411,7 +1411,25 @@
         ]
       },
       {
+        "s": "OTC:WECFF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:WLNSF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WSRRF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WTEQF",
         "f": [
           "no longer trading"
         ]
