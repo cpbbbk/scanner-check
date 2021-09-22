@@ -271,6 +271,12 @@
         ]
       },
       {
+        "s": "SET:AP.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:APCO.F",
         "f": [
           "no longer trading"
@@ -2249,6 +2255,12 @@
         ]
       },
       {
+        "s": "SET:MINT.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:MIT.F",
         "f": [
           "no longer trading"
@@ -3284,6 +3296,12 @@
       },
       {
         "s": "SET:SCB.Q",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SCC.F",
         "f": [
           "no longer trading"
         ]
