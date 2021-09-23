@@ -3748,21 +3748,9 @@
         ]
       },
       {
-        "s": "SET:STAR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:STAR.F",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:STAR.R",
-        "f": [
           "no longer trading"
         ]
       },
