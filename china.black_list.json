@@ -1,9 +1,183 @@
 {
     "black_list": [
       {
+        "s": "SSE:600018",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600061",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SSE:600068",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SSE:600110",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600239",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600283",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600391",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600415",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600421",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:600536",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:601598",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:601882",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:603386",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:603861",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:603909",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SSE:605488",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:000078",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:000545",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:000555",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:000682",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002076",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002100",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002219",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002638",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002715",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002763",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002807",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002812",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002817",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:002860",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -44,6 +218,54 @@
       },
       {
         "s": "SZSE:140009",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:200771",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300004",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300109",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300143",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300204",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300304",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300311",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SZSE:300348",
         "f": [
           "empty symbol"
         ]
