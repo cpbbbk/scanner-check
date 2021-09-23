@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "MOEX:AA-RM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:BISV",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "MOEX:CLF-RM",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -14,6 +26,12 @@
       },
       {
         "s": "MOEX:EM44",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:FXKZ",
         "f": [
           "empty symbol"
         ]
@@ -55,6 +73,12 @@
         ]
       },
       {
+        "s": "MOEX:KOGK",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:KRKO",
         "f": [
           "equal bars"
@@ -91,9 +115,33 @@
         ]
       },
       {
+        "s": "MOEX:NNSB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MOEX:NPOF",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "MOEX:NWS-RM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:PYPL-RM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MOEX:RTX-RM",
+        "f": [
+          "empty symbol"
         ]
       },
       {
