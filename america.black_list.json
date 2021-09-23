@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "AMEX:GLU/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -451,6 +457,18 @@
         ]
       },
       {
+        "s": "NASDAQ:ALPA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:APTM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ARBK",
         "f": [
           "empty symbol"
@@ -470,6 +488,12 @@
       },
       {
         "s": "NASDAQ:BRLT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:BSMV",
         "f": [
           "empty symbol"
         ]
@@ -603,7 +627,7 @@
       {
         "s": "NASDAQ:HLTH",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1011,7 +1035,7 @@
       {
         "s": "OTC:EMGDF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1240,12 +1264,6 @@
         "s": "OTC:REEEF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:RXRLF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
