@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "FSE:1771",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "FSE:1802",
         "f": [
           "no longer trading"
@@ -148,12 +142,6 @@
         "s": "FSE:4392",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FSE:4447",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -321,7 +309,7 @@
       {
         "s": "FSE:8053",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -412,12 +400,6 @@
         "s": "FSE:9031",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FSE:9035",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -541,12 +523,6 @@
         ]
       },
       {
-        "s": "NAG:1928",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NAG:1946",
         "f": [
           "no longer trading"
@@ -603,7 +579,7 @@
       {
         "s": "NAG:2485",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -651,25 +627,20 @@
       {
         "s": "NAG:2780",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "NAG:2806",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "NAG:2811",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NAG:3028",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -777,7 +748,7 @@
       {
         "s": "NAG:3947",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -939,6 +910,7 @@
       {
         "s": "NAG:5918",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -975,7 +947,7 @@
       {
         "s": "NAG:6036",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1035,7 +1007,7 @@
       {
         "s": "NAG:6340",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1114,7 +1086,7 @@
       {
         "s": "NAG:6547",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1156,7 +1128,7 @@
       {
         "s": "NAG:6999",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1370,12 +1342,6 @@
         ]
       },
       {
-        "s": "NAG:8145",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NAG:8160",
         "f": [
           "no longer trading"
@@ -1430,12 +1396,6 @@
         ]
       },
       {
-        "s": "NAG:8593",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NAG:8604",
         "f": [
           "no longer trading"
@@ -1486,7 +1446,7 @@
       {
         "s": "NAG:8904",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1594,7 +1554,7 @@
       {
         "s": "NAG:9969",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1630,7 +1590,7 @@
       {
         "s": "SAPSE:1885",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1654,7 +1614,7 @@
       {
         "s": "SAPSE:2503",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1666,7 +1626,7 @@
       {
         "s": "SAPSE:2930",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1762,7 +1722,7 @@
       {
         "s": "SAPSE:8085",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1780,7 +1740,7 @@
       {
         "s": "SAPSE:8377",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1796,12 +1756,6 @@
         ]
       },
       {
-        "s": "SAPSE:9085",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SAPSE:9450",
         "f": [
           "no longer trading"
@@ -1810,7 +1764,7 @@
       {
         "s": "SAPSE:9509",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1886,12 +1840,6 @@
         ]
       },
       {
-        "s": "TSE:1480",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:1490",
         "f": [
           "no longer trading"
@@ -1904,57 +1852,9 @@
         ]
       },
       {
-        "s": "TSE:1773",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:1780",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:1827",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:1828",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:1944",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:1992",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:2229",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:2230",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:2281",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1964,39 +1864,9 @@
         ]
       },
       {
-        "s": "TSE:2370",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:2402",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:2425",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:2452",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:2493",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:2790",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2018,27 +1888,9 @@
         ]
       },
       {
-        "s": "TSE:3002",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3038",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:3039",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:3202",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2066,123 +1918,15 @@
         ]
       },
       {
-        "s": "TSE:3524",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3657",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3662",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3668",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3675",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3710",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3784",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3807",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3834",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3840",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:3891",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:4018",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSE:4056",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4058",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4178",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4182",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4188",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4194",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:4250",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:4367",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2198,97 +1942,7 @@
         ]
       },
       {
-        "s": "TSE:4536",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4544",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4552",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4801",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4809",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4813",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4819",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4820",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4845",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4847",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4887",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:4889",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4921",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4933",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4958",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:4975",
         "f": [
           "empty symbol"
         ]
@@ -2312,63 +1966,15 @@
         ]
       },
       {
-        "s": "TSE:5142",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:5363",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:5458",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:5858",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSE:6018",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6029",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6062",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:6066",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:6085",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6118",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2390,57 +1996,15 @@
         ]
       },
       {
-        "s": "TSE:6231",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:6576",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSE:6592",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:6596",
         "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6626",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6640",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6658",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6659",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6677",
-        "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2450,99 +2014,9 @@
         ]
       },
       {
-        "s": "TSE:6859",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6897",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6902",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6912",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6916",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6924",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6954",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6966",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:6981",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7031",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7045",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7048",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:7056",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:7063",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7065",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7069",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2552,15 +2026,9 @@
         ]
       },
       {
-        "s": "TSE:7096",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:7098",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2576,39 +2044,9 @@
         ]
       },
       {
-        "s": "TSE:7173",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:7176",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:7241",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7250",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7276",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7347",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2627,12 +2065,6 @@
         "s": "TSE:7509",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:7515",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2656,7 +2088,7 @@
       {
         "s": "TSE:7691",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2672,85 +2104,7 @@
         ]
       },
       {
-        "s": "TSE:7931",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7944",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:7965",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8091",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:8108",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8140",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8153",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8163",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8242",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8360",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8363",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8367",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8613",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:8705",
         "f": [
           "empty symbol"
         ]
@@ -2759,18 +2113,6 @@
         "s": "TSE:8921",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:9006",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9173",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2795,90 +2137,6 @@
         "s": "TSE:9465",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:9476",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9539",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9629",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9663",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9720",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9722",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9753",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9799",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9854",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9887",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9890",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9900",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9955",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSE:9969",
-        "f": [
-          "empty symbol"
         ]
       }
     ]
