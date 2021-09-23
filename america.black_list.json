@@ -31,6 +31,12 @@
         ]
       },
       {
+        "s": "AMEX:PCG/PG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -523,12 +529,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CMCTP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:CNAQU",
         "f": [
           "empty symbol"
@@ -634,12 +634,6 @@
         "s": "NASDAQ:HWEL",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:IMRN",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -829,6 +823,12 @@
         ]
       },
       {
+        "s": "NYSE:CPSR.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NYSE:CWAN",
         "f": [
           "empty symbol"
@@ -860,12 +860,6 @@
       },
       {
         "s": "NYSE:LOCC.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ML",
         "f": [
           "empty symbol"
         ]
@@ -943,7 +937,19 @@
         ]
       },
       {
+        "s": "OTC:BATRB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:BBRDF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:BERK",
         "f": [
           "no longer trading"
         ]
@@ -1009,6 +1015,12 @@
         ]
       },
       {
+        "s": "OTC:DJIFF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:DMKBB",
         "f": [
           "no longer trading"
@@ -1052,6 +1064,12 @@
       },
       {
         "s": "OTC:ESKEF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:FALC",
         "f": [
           "no longer trading"
         ]
@@ -1147,13 +1165,19 @@
         ]
       },
       {
-        "s": "OTC:INFT",
+        "s": "OTC:IFHI",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OTC:JDVB",
+        "s": "OTC:INBC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:INFT",
         "f": [
           "no longer trading"
         ]
@@ -1231,6 +1255,12 @@
         ]
       },
       {
+        "s": "OTC:PLHCF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:PPHI",
         "f": [
           "no longer trading"
@@ -1297,6 +1327,12 @@
         ]
       },
       {
+        "s": "OTC:TBLLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:TCNB",
         "f": [
           "no longer trading"
@@ -1358,12 +1394,6 @@
       },
       {
         "s": "OTC:VIVC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:VXEL",
         "f": [
           "no longer trading"
         ]
