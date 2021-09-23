@@ -2103,6 +2103,12 @@
         ]
       },
       {
+        "s": "SET:MAJOR.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:MAKRO.F",
         "f": [
           "no longer trading"
@@ -2964,6 +2970,12 @@
       },
       {
         "s": "SET:PSH.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:PSL.F",
         "f": [
           "no longer trading"
         ]
