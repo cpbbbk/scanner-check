@@ -72,7 +72,7 @@
       {
         "s": "SET:ACG.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -331,12 +331,6 @@
         ]
       },
       {
-        "s": "SET:ARIP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:ARIP.F",
         "f": [
           "no longer trading"
@@ -429,6 +423,7 @@
       {
         "s": "SET:AYUD.F",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
@@ -515,12 +510,6 @@
         "s": "SET:BEC.F",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:BEC.R",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -861,7 +850,8 @@
       {
         "s": "SET:CM.F",
         "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
@@ -1135,12 +1125,6 @@
         "s": "SET:DV8.F",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:DV8.R",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2054,7 +2038,7 @@
       {
         "s": "SET:LHK.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2265,12 +2249,6 @@
         ]
       },
       {
-        "s": "SET:MIPF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:MIT.F",
         "f": [
           "no longer trading"
@@ -2402,12 +2380,6 @@
         "f": [
           "equal bars",
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:NEP.R",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3665,12 +3637,6 @@
         ]
       },
       {
-        "s": "SET:SPC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:SPC.F",
         "f": [
           "no longer trading"
@@ -3699,12 +3665,6 @@
         "s": "SET:SQ.F",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:SR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4162,12 +4122,6 @@
         ]
       },
       {
-        "s": "SET:TIGER.R",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:TIPCO.F",
         "f": [
           "equal bars",
@@ -4330,12 +4284,6 @@
         ]
       },
       {
-        "s": "SET:TOP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:TOP.F",
         "f": [
           "no longer trading"
@@ -4410,7 +4358,7 @@
       {
         "s": "SET:TPP.F",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -4496,12 +4444,6 @@
         "s": "SET:TSF.R",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:TSI",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4718,12 +4660,6 @@
         ]
       },
       {
-        "s": "SET:VARO.R",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SET:VCOM.F",
         "f": [
           "no longer trading"
@@ -4805,12 +4741,6 @@
         "s": "SET:WHABT.F",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:WHART",
-        "f": [
-          "empty symbol"
         ]
       },
       {
