@@ -49,19 +49,19 @@
         ]
       },
       {
-        "s": "BINANCE:ATOMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BAKEUSDT_PREMIUM",
+        "s": "BINANCE:AUDIOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:BALUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BANDUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -109,12 +109,6 @@
         ]
       },
       {
-        "s": "BINANCE:C98USDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:CELRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -157,25 +151,19 @@
         ]
       },
       {
-        "s": "BINANCE:CVCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:DASHUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "s": "BINANCE:DEFIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:DODOUSDT_PREMIUM",
+        "s": "BINANCE:DGBUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -199,19 +187,7 @@
         ]
       },
       {
-        "s": "BINANCE:EGLDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:EOSUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FILUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -283,25 +259,25 @@
         ]
       },
       {
+        "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:KEEPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KNCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:KSMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:LINAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LINKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -325,12 +301,6 @@
         ]
       },
       {
-        "s": "BINANCE:LUNAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:MANAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -344,12 +314,6 @@
       },
       {
         "s": "BINANCE:MKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:NEARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -391,25 +355,13 @@
         ]
       },
       {
-        "s": "BINANCE:RSRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "s": "BINANCE:RLCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:SFPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:SNXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -422,6 +374,12 @@
       },
       {
         "s": "BINANCE:STMXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:SUSHIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -457,7 +415,7 @@
         ]
       },
       {
-        "s": "BINANCE:UNFIUSDT_PREMIUM",
+        "s": "BINANCE:TRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -475,7 +433,7 @@
         ]
       },
       {
-        "s": "BINANCE:XEMUSDT_PREMIUM",
+        "s": "BINANCE:XLMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
