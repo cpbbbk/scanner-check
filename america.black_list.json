@@ -621,7 +621,7 @@
       {
         "s": "NASDAQ:HLTH",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1012,12 +1012,6 @@
         "s": "OTC:ESKEF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ETXPF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
