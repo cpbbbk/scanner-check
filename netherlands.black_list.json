@@ -145,9 +145,9 @@
         ]
       },
       {
-        "s": "EURONEXT:MAJ",
+        "s": "EURONEXT:LGUS",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -217,6 +217,12 @@
         ]
       },
       {
+        "s": "EURONEXT:UBUR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:UBUV",
         "f": [
           "no longer trading"
@@ -271,6 +277,12 @@
         ]
       },
       {
+        "s": "EURONEXT:UIMZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:USPA",
         "f": [
           "empty symbol"
@@ -301,19 +313,7 @@
         ]
       },
       {
-        "s": "EURONEXT:VDOT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:VSOL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:VTRX",
         "f": [
           "empty symbol"
         ]
