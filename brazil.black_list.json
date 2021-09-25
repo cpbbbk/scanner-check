@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:A1MT34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:A1PD34",
         "f": [
           "no longer trading"
@@ -550,12 +544,6 @@
         "s": "BMFBOVESPA:CMSA4F",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:CNES11",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1425,6 +1413,7 @@
       {
         "s": "BMFBOVESPA:L1HX34",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -1955,12 +1944,6 @@
         "s": "BMFBOVESPA:P1NW34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:P1RG34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
