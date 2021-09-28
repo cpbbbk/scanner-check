@@ -223,12 +223,6 @@
         ]
       },
       {
-        "s": "SIX:BAS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SIX:BAS.EUR",
         "f": [
           "empty symbol"
@@ -632,12 +626,6 @@
       },
       {
         "s": "SIX:ERF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:EVK",
         "f": [
           "no longer trading"
         ]
@@ -1489,12 +1477,6 @@
         ]
       },
       {
-        "s": "SIX:SIN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SIX:SIN.EUR",
         "f": [
           "no longer trading"
@@ -1802,12 +1784,6 @@
       },
       {
         "s": "SIX:YUM.USD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SIX:ZAL",
         "f": [
           "no longer trading"
         ]
