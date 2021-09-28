@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BVL:AAL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BVL:ADCOMEC1",
         "f": [
           "empty symbol"
@@ -208,6 +214,12 @@
         "s": "BVL:CARDIFC1",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BVL:CARTAVC1",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -685,6 +697,12 @@
         ]
       },
       {
+        "s": "BVL:FUTURAC1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BVL:GANSALC1",
         "f": [
           "empty symbol"
@@ -926,6 +944,12 @@
       },
       {
         "s": "BVL:MIBANC1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BVL:MICHEI1",
         "f": [
           "no longer trading"
         ]
@@ -1252,6 +1276,12 @@
         "s": "BVL:SOLUCIC1",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BVL:SPCCPI1",
+        "f": [
+          "no longer trading"
         ]
       },
       {
