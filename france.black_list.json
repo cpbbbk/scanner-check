@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "EURONEXT:ALDEV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:ALESE",
         "f": [
           "empty symbol"
@@ -127,13 +133,19 @@
         ]
       },
       {
-        "s": "EURONEXT:CRWE",
+        "s": "EURONEXT:EBPF",
         "f": [
           "no longer trading"
         ]
       },
       {
         "s": "EURONEXT:ECB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:EEEH",
         "f": [
           "no longer trading"
         ]
@@ -200,6 +212,12 @@
       },
       {
         "s": "EURONEXT:GMRC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:GREV",
         "f": [
           "no longer trading"
         ]
@@ -349,7 +367,19 @@
         ]
       },
       {
+        "s": "EURONEXT:MLCMG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:MLCNT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:MLCOU",
         "f": [
           "no longer trading"
         ]
@@ -631,6 +661,12 @@
         ]
       },
       {
+        "s": "EURONEXT:MLPLC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:MLPRO",
         "f": [
           "no longer trading"
@@ -742,6 +778,12 @@
         "s": "EURONEXT:MLVRF",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:MLVST",
+        "f": [
+          "no longer trading"
         ]
       },
       {
