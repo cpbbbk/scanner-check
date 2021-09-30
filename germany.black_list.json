@@ -553,6 +553,12 @@
         ]
       },
       {
+        "s": "XETR:HLE0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:IBC8",
         "f": [
           "equal bars"
@@ -712,6 +718,12 @@
         "s": "XETR:WCM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:WGES",
+        "f": [
+          "empty symbol"
         ]
       },
       {
