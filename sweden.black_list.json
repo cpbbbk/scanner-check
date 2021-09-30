@@ -7,7 +7,19 @@
         ]
       },
       {
+        "s": "NGM:BOSJO.IL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NGM:CNI5.PREF.P2",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:ABGO",
         "f": [
           "no longer trading"
         ]
@@ -67,12 +79,6 @@
         ]
       },
       {
-        "s": "OMXSTO:ATIN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OMXSTO:AWDRO",
         "f": [
           "no longer trading"
@@ -92,6 +98,12 @@
       },
       {
         "s": "OMXSTO:BGBIOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BONHRO",
         "f": [
           "no longer trading"
         ]
@@ -154,12 +166,6 @@
         "s": "OMXSTO:FROYO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:FSPORT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -415,6 +421,12 @@
         ]
       },
       {
+        "s": "OMXSTO:SMCRTO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:SOFFO",
         "f": [
           "no longer trading"
@@ -440,6 +452,12 @@
       },
       {
         "s": "OMXSTO:TIETOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:ULTIO",
         "f": [
           "no longer trading"
         ]
