@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:AVES",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:CTEX",
         "f": [
           "empty symbol"
@@ -523,12 +517,6 @@
         ]
       },
       {
-        "s": "NASDAQ:DWAC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:DYCU",
         "f": [
           "empty symbol"
@@ -631,12 +619,6 @@
         ]
       },
       {
-        "s": "NASDAQ:HPLTU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:JAAC",
         "f": [
           "empty symbol"
@@ -697,12 +679,6 @@
         ]
       },
       {
-        "s": "NASDAQ:RCHGU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:RMGDU",
         "f": [
           "empty symbol"
@@ -730,12 +706,6 @@
         "s": "NASDAQ:SCAN",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:SPQQ",
-        "f": [
-          "no longer trading"
         ]
       },
       {
