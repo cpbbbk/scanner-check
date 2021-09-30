@@ -685,6 +685,18 @@
         ]
       },
       {
+        "s": "NASDAQ:LEGAU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:LVOXU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:MTRYU",
         "f": [
           "empty symbol"
@@ -703,12 +715,6 @@
         ]
       },
       {
-        "s": "NASDAQ:NTRBW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:OCEA",
         "f": [
           "empty symbol"
@@ -716,12 +722,6 @@
       },
       {
         "s": "NASDAQ:OLPX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:PROC",
         "f": [
           "empty symbol"
         ]
@@ -763,9 +763,9 @@
         ]
       },
       {
-        "s": "NASDAQ:SNT",
+        "s": "NASDAQ:SPQQ",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -895,18 +895,6 @@
         ]
       },
       {
-        "s": "NYSE:VLD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:VLN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:VPCC.U",
         "f": [
           "no longer trading"
@@ -979,6 +967,12 @@
         ]
       },
       {
+        "s": "OTC:BLTMF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:BNIGF",
         "f": [
           "no longer trading"
@@ -1009,7 +1003,19 @@
         ]
       },
       {
+        "s": "OTC:CMGGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:CNIGO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:COSO",
         "f": [
           "no longer trading"
         ]
@@ -1138,12 +1144,6 @@
         "s": "OTC:GOCOF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:GOMRF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1285,12 +1285,6 @@
         ]
       },
       {
-        "s": "OTC:RAFFF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:REEEF",
         "f": [
           "no longer trading"
@@ -1388,6 +1382,12 @@
       },
       {
         "s": "OTC:VIVC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:VOBIF",
         "f": [
           "no longer trading"
         ]
