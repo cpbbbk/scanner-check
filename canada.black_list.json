@@ -163,6 +163,12 @@
         ]
       },
       {
+        "s": "CSE:EMRG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "CSE:EXM",
         "f": [
           "no longer trading"
@@ -188,6 +194,12 @@
       },
       {
         "s": "CSE:GCIT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CSE:GFI",
         "f": [
           "no longer trading"
         ]
@@ -247,6 +259,12 @@
         ]
       },
       {
+        "s": "CSE:KWG.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "CSE:LAI",
         "f": [
           "no longer trading"
@@ -254,12 +272,6 @@
       },
       {
         "s": "CSE:LILY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "CSE:LUV",
         "f": [
           "no longer trading"
         ]
@@ -397,6 +409,12 @@
         ]
       },
       {
+        "s": "CSE:SGRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "CSE:SNA",
         "f": [
           "no longer trading"
@@ -410,6 +428,12 @@
       },
       {
         "s": "CSE:SNR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "CSE:SP",
         "f": [
           "no longer trading"
         ]
@@ -668,6 +692,12 @@
       },
       {
         "s": "NEO:AFD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:AFF",
         "f": [
           "no longer trading"
         ]
@@ -1243,6 +1273,18 @@
         ]
       },
       {
+        "s": "NEO:BHAV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:BIK.PR.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:BKL.U",
         "f": [
           "no longer trading"
@@ -1252,6 +1294,12 @@
         "s": "NEO:BKS",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:BLCK",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1663,6 +1711,12 @@
         ]
       },
       {
+        "s": "NEO:CCD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:CCII.P",
         "f": [
           "empty symbol"
@@ -1807,6 +1861,12 @@
         ]
       },
       {
+        "s": "NEO:CHCL.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:CHN",
         "f": [
           "no longer trading"
@@ -1900,6 +1960,12 @@
         "s": "NEO:CINV",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:CIO",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -2491,6 +2557,12 @@
         ]
       },
       {
+        "s": "NEO:DSY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:DUR.P",
         "f": [
           "empty symbol"
@@ -2516,6 +2588,12 @@
       },
       {
         "s": "NEO:DXET",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:DXF",
         "f": [
           "no longer trading"
         ]
@@ -2677,6 +2755,12 @@
         ]
       },
       {
+        "s": "NEO:EL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:ELEM",
         "f": [
           "no longer trading"
@@ -2797,13 +2881,7 @@
         ]
       },
       {
-        "s": "NEO:ESGH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:ESGH.F",
+        "s": "NEO:ESGC",
         "f": [
           "no longer trading"
         ]
@@ -2834,6 +2912,12 @@
       },
       {
         "s": "NEO:ETP.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:EUR",
         "f": [
           "no longer trading"
         ]
@@ -2881,7 +2965,25 @@
         ]
       },
       {
+        "s": "NEO:FBT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:FCA.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:FCCM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:FCII",
         "f": [
           "no longer trading"
         ]
@@ -2995,6 +3097,18 @@
         ]
       },
       {
+        "s": "NEO:FHG.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:FHQ.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:FI.H",
         "f": [
           "empty symbol"
@@ -3056,6 +3170,12 @@
       },
       {
         "s": "NEO:FLUI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:FLYY",
         "f": [
           "no longer trading"
         ]
@@ -3133,13 +3253,31 @@
         ]
       },
       {
+        "s": "NEO:FUND",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:FV.H",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "NEO:FW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:FWM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:FXC",
         "f": [
           "no longer trading"
         ]
@@ -3254,6 +3392,12 @@
       },
       {
         "s": "NEO:GENE.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:GENI",
         "f": [
           "no longer trading"
         ]
@@ -3457,6 +3601,12 @@
         ]
       },
       {
+        "s": "NEO:GRID",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:GRTO.P",
         "f": [
           "empty symbol"
@@ -3506,6 +3656,12 @@
       },
       {
         "s": "NEO:GUN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:GURU",
         "f": [
           "no longer trading"
         ]
@@ -3590,6 +3746,12 @@
       },
       {
         "s": "NEO:HARB.J",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:HARB.U",
         "f": [
           "no longer trading"
         ]
@@ -3733,6 +3895,12 @@
         ]
       },
       {
+        "s": "NEO:HMM.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:HMPS",
         "f": [
           "no longer trading"
@@ -3836,6 +4004,12 @@
       },
       {
         "s": "NEO:HVG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:HWF",
         "f": [
           "no longer trading"
         ]
@@ -4052,6 +4226,12 @@
       },
       {
         "s": "NEO:IXI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:IZZ",
         "f": [
           "no longer trading"
         ]
@@ -4411,6 +4591,12 @@
         ]
       },
       {
+        "s": "NEO:LRA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:LRC.H",
         "f": [
           "no longer trading"
@@ -4693,6 +4879,12 @@
         ]
       },
       {
+        "s": "NEO:MIC.PR.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:MICH",
         "f": [
           "no longer trading"
@@ -4744,6 +4936,12 @@
         "s": "NEO:MIZA.P",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:MKT",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -4870,6 +5068,12 @@
         "s": "NEO:MRVL",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:MRZ",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -5191,6 +5395,12 @@
         ]
       },
       {
+        "s": "NEO:NREA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:NSC",
         "f": [
           "no longer trading"
@@ -5222,6 +5432,12 @@
       },
       {
         "s": "NEO:NTN.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:NUBF",
         "f": [
           "no longer trading"
         ]
@@ -5288,6 +5504,12 @@
       },
       {
         "s": "NEO:NZP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:ODD",
         "f": [
           "no longer trading"
         ]
@@ -6349,6 +6571,12 @@
         ]
       },
       {
+        "s": "NEO:RUEH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:RUN.H",
         "f": [
           "no longer trading"
@@ -6392,6 +6620,12 @@
       },
       {
         "s": "NEO:RWX.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:RXD",
         "f": [
           "no longer trading"
         ]
@@ -6589,12 +6823,6 @@
         ]
       },
       {
-        "s": "NEO:SEC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:SFI",
         "f": [
           "no longer trading"
@@ -6667,6 +6895,12 @@
         ]
       },
       {
+        "s": "NEO:SKLL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:SMA",
         "f": [
           "no longer trading"
@@ -6733,6 +6967,12 @@
         ]
       },
       {
+        "s": "NEO:SOMA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:SOO.P",
         "f": [
           "empty symbol"
@@ -6770,6 +7010,12 @@
       },
       {
         "s": "NEO:SPI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:SPOR",
         "f": [
           "no longer trading"
         ]
@@ -6932,6 +7178,12 @@
       },
       {
         "s": "NEO:SYG.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:SZM",
         "f": [
           "no longer trading"
         ]
@@ -7129,6 +7381,12 @@
         ]
       },
       {
+        "s": "NEO:TMRR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:TMS.H",
         "f": [
           "no longer trading"
@@ -7160,6 +7418,12 @@
       },
       {
         "s": "NEO:TORO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:TORR",
         "f": [
           "no longer trading"
         ]
@@ -7316,6 +7580,12 @@
       },
       {
         "s": "NEO:UDIV.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:UFS",
         "f": [
           "no longer trading"
         ]
@@ -7759,9 +8029,21 @@
         ]
       },
       {
+        "s": "NEO:XAG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:XAGH",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:XAW.U",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -7963,6 +8245,12 @@
         ]
       },
       {
+        "s": "NEO:YOOM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:YTY",
         "f": [
           "no longer trading"
@@ -7984,6 +8272,12 @@
         "s": "NEO:YVR.P",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:YXM",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -8053,7 +8347,7 @@
         ]
       },
       {
-        "s": "NEO:ZTIP.U",
+        "s": "NEO:ZSML.F",
         "f": [
           "no longer trading"
         ]
@@ -8092,12 +8386,6 @@
         "s": "TSX:BIP.W",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:FIL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
