@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:1000SHIBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:1000XECUSDT_PREMIUM",
         "f": [
           "price null"
@@ -25,6 +19,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
@@ -32,6 +32,12 @@
       },
       {
         "s": "BINANCE:ALGOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ALICEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -55,7 +61,7 @@
         ]
       },
       {
-        "s": "BINANCE:ATOMUSDT_PREMIUM",
+        "s": "BINANCE:ATAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -67,7 +73,19 @@
         ]
       },
       {
+        "s": "BINANCE:AVAXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BAKEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -133,7 +151,19 @@
         ]
       },
       {
+        "s": "BINANCE:COMPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CTKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:CVCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -187,6 +217,12 @@
         ]
       },
       {
+        "s": "BINANCE:FTMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:GALAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -206,6 +242,12 @@
       },
       {
         "s": "BINANCE:HNTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:HOTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -235,18 +277,6 @@
         ]
       },
       {
-        "s": "BINANCE:KSMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LINAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:LINKUSDT_PREMIUM",
         "f": [
           "price null"
@@ -266,6 +296,12 @@
       },
       {
         "s": "BINANCE:MANAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MATICUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -385,6 +421,12 @@
         ]
       },
       {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SUSHIUSDT_PREMIUM",
         "f": [
           "price null"
@@ -415,7 +457,25 @@
         ]
       },
       {
+        "s": "BINANCE:TRXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:UNFIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:WAVESUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:XEMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -433,19 +493,13 @@
         ]
       },
       {
-        "s": "BINANCE:XRPBUSD_PREMIUM",
+        "s": "BINANCE:XTZUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:YFIIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:YFIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -464,6 +518,12 @@
       },
       {
         "s": "BINANCE:ZILUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
