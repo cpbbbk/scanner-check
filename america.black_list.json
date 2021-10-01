@@ -49,12 +49,6 @@
         ]
       },
       {
-        "s": "AMEX:QTOC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:RISR",
         "f": [
           "empty symbol"
@@ -74,12 +68,6 @@
       },
       {
         "s": "AMEX:XDOC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:XTOC",
         "f": [
           "empty symbol"
         ]
@@ -931,18 +919,6 @@
         ]
       },
       {
-        "s": "NYSE:KORE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:SLVM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:TDCX",
         "f": [
           "empty symbol"
@@ -1160,12 +1136,6 @@
       },
       {
         "s": "OTC:FWONB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FYIRF",
         "f": [
           "no longer trading"
         ]
@@ -1430,12 +1400,6 @@
       },
       {
         "s": "OTC:TMRR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:TRKUF",
         "f": [
           "no longer trading"
         ]
