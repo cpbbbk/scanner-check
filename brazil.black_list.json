@@ -1081,12 +1081,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:H1OG34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:H1OL34",
         "f": [
           "no longer trading"
@@ -2135,6 +2129,12 @@
         "s": "BMFBOVESPA:Q1UA34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:QCOM34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
