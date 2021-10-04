@@ -925,12 +925,6 @@
         ]
       },
       {
-        "s": "NYSE:XPRO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:YAC.U",
         "f": [
           "no longer trading"
@@ -956,6 +950,12 @@
       },
       {
         "s": "OTC:ALPGF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ALVOF",
         "f": [
           "no longer trading"
         ]
