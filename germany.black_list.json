@@ -109,19 +109,7 @@
         ]
       },
       {
-        "s": "FWB:3C8",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:49K",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:4OR1",
         "f": [
           "no longer trading"
         ]
@@ -140,12 +128,6 @@
       },
       {
         "s": "FWB:ADL0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:ADWA",
         "f": [
           "no longer trading"
         ]
@@ -175,18 +157,6 @@
         ]
       },
       {
-        "s": "FWB:HDU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:I4L",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:IQL1",
         "f": [
           "equal bars"
@@ -199,19 +169,7 @@
         ]
       },
       {
-        "s": "FWB:KIS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:L60",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:L9O",
         "f": [
           "no longer trading"
         ]
@@ -229,27 +187,9 @@
         ]
       },
       {
-        "s": "FWB:NOX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:O5G",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "FWB:OKU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:SJC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -266,24 +206,6 @@
       },
       {
         "s": "FWB:TC1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:TO4",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:TOK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:YTT",
         "f": [
           "no longer trading"
         ]
@@ -445,6 +367,12 @@
         ]
       },
       {
+        "s": "XETR:14D",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:1Q7",
         "f": [
           "no longer trading"
@@ -469,12 +397,6 @@
         ]
       },
       {
-        "s": "XETR:4OR1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "XETR:593700",
         "f": [
           "no longer trading"
@@ -484,6 +406,24 @@
         "s": "XETR:593703",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:A1AQGX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:A1ED2J",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:A1KYN5",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -500,12 +440,6 @@
       },
       {
         "s": "XETR:A3E5DT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "XETR:A3E5EU",
         "f": [
           "empty symbol"
         ]
