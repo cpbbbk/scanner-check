@@ -685,12 +685,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:CVCB9",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:D1TE34",
         "f": [
           "no longer trading"
@@ -2432,6 +2426,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:TECB11",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:TEGA3",
         "f": [
           "empty symbol"
@@ -2686,6 +2686,12 @@
       },
       {
         "s": "BMFBOVESPA:WTCM5L",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:XPBR31",
         "f": [
           "empty symbol"
         ]
