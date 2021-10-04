@@ -1,30 +1,6 @@
 {
   "black_list": [
     {
-      "s": "SWB:XEB",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "FWB:5F9",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "FWB:XEB",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "DUS:XEB",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
       "s": "BER:XEB",
       "f": [
         "change values are higher than limit (auto ban)"
