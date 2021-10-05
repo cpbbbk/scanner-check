@@ -133,6 +133,12 @@
         ]
       },
       {
+        "s": "EURONEXT:FAYE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:FGBL",
         "f": [
           "no longer trading"
@@ -164,12 +170,6 @@
       },
       {
         "s": "EURONEXT:FXWO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:GMRC",
         "f": [
           "no longer trading"
         ]
@@ -763,6 +763,12 @@
         ]
       },
       {
+        "s": "EURONEXT:PEH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:PEU",
         "f": [
           "no longer trading"
@@ -830,6 +836,12 @@
       },
       {
         "s": "EURONEXT:VLED",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:WESE",
         "f": [
           "no longer trading"
         ]
