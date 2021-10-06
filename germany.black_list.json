@@ -43,6 +43,12 @@
         ]
       },
       {
+        "s": "BER:OIZ",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:SR9",
         "f": [
           "no longer trading"
@@ -187,6 +193,12 @@
         ]
       },
       {
+        "s": "FWB:ZO10",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HAM:GEY",
         "f": [
           "no longer trading"
@@ -235,12 +247,6 @@
         ]
       },
       {
-        "s": "MUN:4G3A",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "MUN:DVL",
         "f": [
           "equal bars"
@@ -266,6 +272,12 @@
       },
       {
         "s": "MUN:H9W",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "MUN:IC8",
         "f": [
           "equal bars"
         ]
@@ -314,6 +326,12 @@
       },
       {
         "s": "SWB:ERO",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SWB:HSJA",
         "f": [
           "equal bars"
         ]
