@@ -1,30 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:FCLD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:FDHT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:FDRV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:FRNW",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:GLU/PA",
         "f": [
           "no longer trading"
@@ -892,12 +868,6 @@
         "s": "NYSE:SBII.U",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:TCN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
