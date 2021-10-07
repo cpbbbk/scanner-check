@@ -25,25 +25,7 @@
         ]
       },
       {
-        "s": "BINANCE:BELUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BNBBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -97,7 +79,13 @@
         ]
       },
       {
-        "s": "BINANCE:ENJUSDT_PREMIUM",
+        "s": "BINANCE:FTMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:GRTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -128,6 +116,12 @@
       },
       {
         "s": "BINANCE:KSMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -169,7 +163,7 @@
         ]
       },
       {
-        "s": "BINANCE:QTUMUSDT_PREMIUM",
+        "s": "BINANCE:ONTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -193,19 +187,31 @@
         ]
       },
       {
+        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SANDUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:STORJUSDT_PREMIUM",
+        "s": "BINANCE:STMXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:SXPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:TLMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -230,6 +236,12 @@
       },
       {
         "s": "BINANCE:XMRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:XTZUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -642,6 +654,18 @@
       },
       {
         "s": "BITFINEX:AVAXUSTSHORTS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:AXSF0USTF0LONGS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:AXSF0USTF0SHORTS",
         "f": [
           "crypto skip longs shorts"
         ]
@@ -1276,6 +1300,18 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:COMPF0USTF0LONGS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:COMPF0USTF0SHORTS",
+        "f": [
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -3433,20 +3469,6 @@
         ]
       },
       {
-        "s": "BITFINEX:NECUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:NECUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:NEOBTCLONGS",
         "f": [
           "crypto skip longs shorts"
@@ -3989,20 +4011,6 @@
         ]
       },
       {
-        "s": "BITFINEX:RINGXUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RINGXUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITFINEX:ROSEUSDLONGS",
         "f": [
           "crypto skip longs shorts",
@@ -4025,34 +4033,6 @@
       },
       {
         "s": "BITFINEX:ROSEUSTSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RRBUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RRBUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RRBUSTLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:RRBUSTSHORTS",
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
@@ -4106,20 +4086,6 @@
         "s": "BITFINEX:SANUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITFINEX:SNGUSDLONGS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITFINEX:SNGUSDSHORTS",
-        "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
         ]
       },
       {
@@ -4388,6 +4354,18 @@
         "f": [
           "crypto skip longs shorts",
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BITFINEX:TRXF0USTF0LONGS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:TRXF0USTF0SHORTS",
+        "f": [
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5136,6 +5114,18 @@
       },
       {
         "s": "BITFINEX:XTZBTCSHORTS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:XTZF0USTF0LONGS",
+        "f": [
+          "crypto skip longs shorts"
+        ]
+      },
+      {
+        "s": "BITFINEX:XTZF0USTF0SHORTS",
         "f": [
           "crypto skip longs shorts"
         ]
