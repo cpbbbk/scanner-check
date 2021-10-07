@@ -427,6 +427,12 @@
         ]
       },
       {
+        "s": "XETR:AVE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:CCME",
         "f": [
           "equal bars"
@@ -460,6 +466,12 @@
         "s": "XETR:DC6B",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:DH6V",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -598,6 +610,12 @@
         "s": "XETR:TC1",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:TUAG1D",
+        "f": [
+          "empty symbol"
         ]
       },
       {
