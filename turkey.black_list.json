@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BIST:AKSEN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BIST:ISATR",
         "f": [
           "no longer trading"
