@@ -13,6 +13,18 @@
         ]
       },
       {
+        "s": "NGM:DICOT.BTU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NGM:DICOT.UR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -193,6 +205,12 @@
         ]
       },
       {
+        "s": "OMXSTO:ICEGRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:INSRO",
         "f": [
           "no longer trading"
@@ -308,6 +326,12 @@
       },
       {
         "s": "OMXSTO:PARBO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:PHLYO",
         "f": [
           "no longer trading"
         ]
@@ -430,12 +454,6 @@
         "s": "OMXSTO:TIETOO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:TRUE_B",
-        "f": [
-          "empty symbol"
         ]
       },
       {
