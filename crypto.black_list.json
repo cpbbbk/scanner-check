@@ -13,6 +13,12 @@
         ]
       },
       {
+        "s": "BINANCE:AKROUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ALGOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -43,7 +49,7 @@
         ]
       },
       {
-        "s": "BINANCE:BTTUSDT_PREMIUM",
+        "s": "BINANCE:CHRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -73,7 +79,13 @@
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "s": "BINANCE:DENTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:DODOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -97,7 +109,31 @@
         ]
       },
       {
+        "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:NEOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:OGNUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ONEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -109,13 +145,13 @@
         ]
       },
       {
-        "s": "BINANCE:RSRUSDT_PREMIUM",
+        "s": "BINANCE:RLCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -133,13 +169,37 @@
         ]
       },
       {
+        "s": "BINANCE:TLMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:UNFIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:WAVESUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:XMRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:YFIIUSDT_PREMIUM",
+        "s": "BINANCE:XRPBUSD_PREMIUM",
         "f": [
           "price null"
         ]
