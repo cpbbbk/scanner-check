@@ -259,15 +259,15 @@
         ]
       },
       {
-        "s": "MUN:KWG",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "MUN:LO24",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "MUN:MLL",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -574,12 +574,6 @@
         "s": "XETR:LYXT",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "XETR:NL969022",
-        "f": [
-          "empty symbol"
         ]
       },
       {
