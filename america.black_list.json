@@ -733,6 +733,12 @@
         ]
       },
       {
+        "s": "NASDAQ:ROSEU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:RVAC",
         "f": [
           "empty symbol"
@@ -932,12 +938,6 @@
       },
       {
         "s": "OTC:BGPPF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:BHWB",
         "f": [
           "no longer trading"
         ]
