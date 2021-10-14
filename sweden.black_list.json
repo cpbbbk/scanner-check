@@ -19,6 +19,18 @@
         ]
       },
       {
+        "s": "NGM:MODI.BTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NGM:MODI.TR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -56,6 +68,12 @@
       },
       {
         "s": "OMXSTO:ARRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:AWDRO",
         "f": [
           "no longer trading"
         ]
@@ -212,6 +230,12 @@
       },
       {
         "s": "OMXSTO:KCCO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:KIDO",
         "f": [
           "no longer trading"
         ]
