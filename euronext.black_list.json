@@ -217,6 +217,12 @@
         ]
       },
       {
+        "s": "EURONEXT:EDIV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:EEM",
         "f": [
           "no longer trading"
@@ -260,6 +266,12 @@
       },
       {
         "s": "EURONEXT:ESGT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:EUDIV",
         "f": [
           "empty symbol"
         ]
@@ -1106,12 +1118,6 @@
       },
       {
         "s": "EURONEXT:RX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:SGQA",
         "f": [
           "no longer trading"
         ]
