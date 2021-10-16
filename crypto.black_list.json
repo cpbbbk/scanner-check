@@ -49,13 +49,31 @@
         ]
       },
       {
+        "s": "BINANCE:BNBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "BINANCE:BTSUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BZRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -151,7 +169,7 @@
         ]
       },
       {
-        "s": "BINANCE:KEEPUSDT_PREMIUM",
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -211,12 +229,6 @@
         ]
       },
       {
-        "s": "BINANCE:OMGUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ONTUSDT_PREMIUM",
         "f": [
           "price null"
@@ -241,13 +253,13 @@
         ]
       },
       {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "s": "BINANCE:SANDUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:SANDUSDT_PREMIUM",
+        "s": "BINANCE:SKLUSDT_PREMIUM",
         "f": [
           "price null"
         ]
