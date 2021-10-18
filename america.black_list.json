@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "AMEX:GLU/PA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "AMEX:PCG/PC",
         "f": [
           "no longer trading"
@@ -1142,12 +1136,6 @@
         ]
       },
       {
-        "s": "OTC:DMKBB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:DSBX",
         "f": [
           "no longer trading"
@@ -1197,12 +1185,6 @@
       },
       {
         "s": "OTC:ESKEF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FCIC",
         "f": [
           "no longer trading"
         ]
@@ -1667,12 +1649,6 @@
         "s": "OTC:WLNSF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:ZCSH",
-        "f": [
-          "empty symbol"
         ]
       }
     ]
