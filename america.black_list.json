@@ -1177,9 +1177,21 @@
         ]
       },
       {
+        "s": "OTC:GXLM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:HANCF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HZEN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1498,6 +1510,12 @@
         "s": "OTC:WSCO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ZCSH",
+        "f": [
+          "empty symbol"
         ]
       }
     ]
