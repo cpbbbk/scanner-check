@@ -1286,6 +1286,18 @@
         ]
       },
       {
+        "s": "OTC:LMLLF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:LTES",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:MDNWF",
         "f": [
           "no longer trading"
@@ -1485,12 +1497,6 @@
       },
       {
         "s": "OTC:TJBH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:TKGBF",
         "f": [
           "no longer trading"
         ]
