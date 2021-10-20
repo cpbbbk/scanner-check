@@ -7,6 +7,18 @@
         ]
       },
       {
+        "s": "NGM:IMS.BTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NGM:IMS.TR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NGM:MLTR.BT",
         "f": [
           "empty symbol"
@@ -14,6 +26,12 @@
       },
       {
         "s": "NGM:MODI.BTA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NGM:THINC",
         "f": [
           "empty symbol"
         ]
@@ -52,6 +70,12 @@
         "s": "OMXSTO:ANORAO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:AQUAO",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -121,6 +145,12 @@
         ]
       },
       {
+        "s": "OMXSTO:DLTXO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:EAMO",
         "f": [
           "no longer trading"
@@ -154,12 +184,6 @@
         "s": "OMXSTO:ENSUO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:FLAT_B",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -200,6 +224,12 @@
       },
       {
         "s": "OMXSTO:HUGOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:HUNTO",
         "f": [
           "no longer trading"
         ]
@@ -385,13 +415,13 @@
         ]
       },
       {
-        "s": "OMXSTO:RAKPO",
+        "s": "OMXSTO:QFRO",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "OMXSTO:RECSIO",
+        "s": "OMXSTO:RAKPO",
         "f": [
           "no longer trading"
         ]
@@ -416,6 +446,12 @@
       },
       {
         "s": "OMXSTO:SATSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SBANKO",
         "f": [
           "no longer trading"
         ]
