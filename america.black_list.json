@@ -1154,6 +1154,12 @@
         ]
       },
       {
+        "s": "OTC:DMTTF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:DSBX",
         "f": [
           "no longer trading"
@@ -1259,6 +1265,12 @@
         "s": "OTC:GOCOF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:GZIC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1496,7 +1508,19 @@
         ]
       },
       {
+        "s": "OTC:SXOOF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:TJBH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TKGBF",
         "f": [
           "no longer trading"
         ]
