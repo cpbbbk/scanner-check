@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "BER:IS8",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:LO24",
         "f": [
           "no longer trading"
@@ -55,9 +61,21 @@
         ]
       },
       {
+        "s": "DUS:AV3",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "DUS:ED4",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "DUS:ETY",
+        "f": [
+          "equal bars"
         ]
       },
       {
@@ -248,6 +266,12 @@
       },
       {
         "s": "MUN:SBW",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "MUN:SL1",
         "f": [
           "equal bars"
         ]
