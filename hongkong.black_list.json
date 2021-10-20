@@ -1021,6 +1021,12 @@
         ]
       },
       {
+        "s": "HKEX:7374",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HKEX:754",
         "f": [
           "no longer trading"
@@ -1334,12 +1340,6 @@
       },
       {
         "s": "HKEX:8523",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HKEX:8582",
         "f": [
           "no longer trading"
         ]
