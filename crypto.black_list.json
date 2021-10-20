@@ -49,6 +49,18 @@
         ]
       },
       {
+        "s": "BINANCE:BLZUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -73,18 +85,6 @@
         ]
       },
       {
-        "s": "BINANCE:COTIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:CRVUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:CVCUSDT_PREMIUM",
         "f": [
           "price null"
@@ -98,6 +98,12 @@
       },
       {
         "s": "BINANCE:DEFIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:DENTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -121,13 +127,13 @@
         ]
       },
       {
-        "s": "BINANCE:GTCUSDT_PREMIUM",
+        "s": "BINANCE:GRTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:HNTUSDT_PREMIUM",
+        "s": "BINANCE:GTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -140,6 +146,12 @@
       },
       {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:KAVAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -272,6 +284,12 @@
       },
       {
         "s": "BINANCE:YFIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZILUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5823,12 +5841,6 @@
       },
       {
         "s": "KUCOIN:INJUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:MATIC3LUSDT",
         "f": [
           "empty symbol"
         ]
