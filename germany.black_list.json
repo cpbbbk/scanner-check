@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BER:IS8",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:LO24",
         "f": [
           "no longer trading"
@@ -248,18 +242,6 @@
       },
       {
         "s": "MUN:OTA",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "MUN:SBW",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "MUN:SL1",
         "f": [
           "equal bars"
         ]
@@ -580,12 +562,6 @@
         "s": "XETR:WCM",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:XUHE",
-        "f": [
-          "empty symbol"
         ]
       },
       {
