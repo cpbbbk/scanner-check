@@ -560,7 +560,7 @@
         ]
       },
       {
-        "s": "NASDAQ:BTFD",
+        "s": "NASDAQ:BTF",
         "f": [
           "empty symbol"
         ]
@@ -752,6 +752,12 @@
         ]
       },
       {
+        "s": "NASDAQ:NHICU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:OBAS",
         "f": [
           "no longer trading"
@@ -776,6 +782,12 @@
         ]
       },
       {
+        "s": "NASDAQ:REVE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:RMGDU",
         "f": [
           "empty symbol"
@@ -783,6 +795,12 @@
       },
       {
         "s": "NASDAQ:RMGEU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:RWAY",
         "f": [
           "empty symbol"
         ]
@@ -825,6 +843,12 @@
       },
       {
         "s": "NASDAQ:TEAD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:THACU",
         "f": [
           "empty symbol"
         ]
@@ -896,6 +920,12 @@
         ]
       },
       {
+        "s": "NASDAQ:XFINU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:XLO",
         "f": [
           "empty symbol"
@@ -950,9 +980,21 @@
         ]
       },
       {
+        "s": "NYSE:GOGN.U",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:LDL",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:MIR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -969,6 +1011,12 @@
       },
       {
         "s": "NYSE:WBEV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:WE",
         "f": [
           "empty symbol"
         ]
