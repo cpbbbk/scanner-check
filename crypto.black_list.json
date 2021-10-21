@@ -55,6 +55,12 @@
         ]
       },
       {
+        "s": "BINANCE:BTSUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHZUSDT_PREMIUM",
         "f": [
           "price null"
@@ -641,8 +647,7 @@
       {
         "s": "BITFINEX:AXSUSDLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5793,12 +5798,6 @@
         "s": "KUCOIN:MTCETH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "KUCOIN:NFTBUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
