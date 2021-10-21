@@ -97,6 +97,12 @@
         ]
       },
       {
+        "s": "EURONEXT:BTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:CBR",
         "f": [
           "no longer trading"
@@ -104,12 +110,6 @@
       },
       {
         "s": "EURONEXT:CDANV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:EBUS",
         "f": [
           "empty symbol"
         ]
