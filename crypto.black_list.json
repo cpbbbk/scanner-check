@@ -1,39 +1,9 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:ANKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ARUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BINANCE:CHRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:CRVUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:CTKUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -55,7 +25,7 @@
         ]
       },
       {
-        "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -73,31 +43,7 @@
         ]
       },
       {
-        "s": "BINANCE:MATICUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:NUUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:OGNUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RAYUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -109,25 +55,13 @@
         ]
       },
       {
-        "s": "BINANCE:SCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:SNXUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:ZRXUSDT_PREMIUM",
+        "s": "BINANCE:XMRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -203,8 +137,7 @@
       {
         "s": "BITFINEX:ADABTCLONGS",
         "f": [
-          "crypto skip longs shorts",
-          "empty symbol"
+          "crypto skip longs shorts"
         ]
       },
       {
