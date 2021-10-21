@@ -1,18 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:EQUL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "AMEX:OCEN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PCG/PC",
         "f": [
           "no longer trading"
