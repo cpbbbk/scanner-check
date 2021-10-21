@@ -85,12 +85,6 @@
         ]
       },
       {
-        "s": "LSE:0IF3",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0IJ2",
         "f": [
           "no longer trading"
@@ -865,6 +859,12 @@
         ]
       },
       {
+        "s": "LSE:D4G",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:DAT",
         "f": [
           "no longer trading"
@@ -1492,12 +1492,6 @@
         ]
       },
       {
-        "s": "LSE:SVCT",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSE:SWC",
         "f": [
           "no longer trading"
@@ -1730,6 +1724,12 @@
         "s": "LSIN:OCP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:OIH",
+        "f": [
+          "equal bars"
         ]
       },
       {
