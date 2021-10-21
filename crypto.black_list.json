@@ -85,7 +85,7 @@
         ]
       },
       {
-        "s": "BINANCE:DODOUSDT_PREMIUM",
+        "s": "BINANCE:DGBUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -116,6 +116,12 @@
       },
       {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5403,6 +5409,30 @@
         "s": "BITTREX:GLXYBTC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:MARS4BTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MARS4ETH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MARS4USD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MARS4USDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
