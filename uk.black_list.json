@@ -79,12 +79,6 @@
         ]
       },
       {
-        "s": "LSE:0HCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0HFU",
         "f": [
           "no longer trading"
@@ -200,12 +194,6 @@
       },
       {
         "s": "LSE:0KPB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0LI9",
         "f": [
           "no longer trading"
         ]
@@ -1621,6 +1609,12 @@
         "s": "LSE:VCBC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:VND",
+        "f": [
+          "equal bars"
         ]
       },
       {
