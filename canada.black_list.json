@@ -43,6 +43,12 @@
         ]
       },
       {
+        "s": "CSE:ARS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CSE:BETS",
         "f": [
           "no longer trading"
@@ -298,6 +304,12 @@
         "s": "CSE:NC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "CSE:NDAT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2068,12 +2080,6 @@
         "s": "NEO:CRSS.P",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:CRV",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5101,6 +5107,12 @@
         ]
       },
       {
+        "s": "NEO:NDAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:NDIV",
         "f": [
           "no longer trading"
@@ -5986,6 +5998,12 @@
         "s": "NEO:QDXH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:QFOR",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -7165,6 +7183,12 @@
         ]
       },
       {
+        "s": "NEO:TFM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:TG",
         "f": [
           "no longer trading"
@@ -7303,9 +7327,9 @@
         ]
       },
       {
-        "s": "NEO:TOM",
+        "s": "NEO:TOM.H",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -8257,6 +8281,12 @@
         ]
       },
       {
+        "s": "TSX:QFOR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSX:SCW.UN",
         "f": [
           "no longer trading"
@@ -8282,12 +8312,6 @@
       },
       {
         "s": "TSXV:AQR.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:ARS",
         "f": [
           "no longer trading"
         ]
@@ -8671,6 +8695,12 @@
         ]
       },
       {
+        "s": "TSXV:TFM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSXV:TGR.H",
         "f": [
           "no longer trading"
@@ -8678,6 +8708,12 @@
       },
       {
         "s": "TSXV:TLC.P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TSXV:TOM.H",
         "f": [
           "empty symbol"
         ]
@@ -8704,6 +8740,12 @@
         "s": "TSXV:WAV.H",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:WLCO",
+        "f": [
+          "empty symbol"
         ]
       },
       {
