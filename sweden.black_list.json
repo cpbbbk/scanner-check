@@ -7,12 +7,6 @@
         ]
       },
       {
-        "s": "NGM:ACUC.TR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NGM:CNI5.PREF.P2",
         "f": [
           "no longer trading"
@@ -122,6 +116,12 @@
       },
       {
         "s": "OMXSTO:BORRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BRGO",
         "f": [
           "no longer trading"
         ]
@@ -373,12 +373,6 @@
         ]
       },
       {
-        "s": "OMXSTO:PAGERO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OMXSTO:PHLYO",
         "f": [
           "no longer trading"
@@ -458,6 +452,12 @@
       },
       {
         "s": "OMXSTO:SCANAO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SDRLO",
         "f": [
           "no longer trading"
         ]
