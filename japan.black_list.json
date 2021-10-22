@@ -571,12 +571,6 @@
         ]
       },
       {
-        "s": "NAG:1892",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NAG:1893",
         "f": [
           "no longer trading"
@@ -1780,6 +1774,12 @@
         ]
       },
       {
+        "s": "SAPSE:4502",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SAPSE:5351",
         "f": [
           "no longer trading"
@@ -2014,6 +2014,12 @@
         ]
       },
       {
+        "s": "TSE:4378",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSE:4383",
         "f": [
           "no longer trading"
@@ -2075,6 +2081,12 @@
       },
       {
         "s": "TSE:6596",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSE:6648",
         "f": [
           "no longer trading"
         ]
@@ -2165,6 +2177,12 @@
       },
       {
         "s": "TSE:8921",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSE:9146",
         "f": [
           "no longer trading"
         ]
