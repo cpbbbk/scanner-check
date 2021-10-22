@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "BER:GTK",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:IPOK",
         "f": [
           "equal bars"
@@ -238,6 +244,12 @@
         "s": "MUN:LO24",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "MUN:OBS",
+        "f": [
+          "equal bars"
         ]
       },
       {
