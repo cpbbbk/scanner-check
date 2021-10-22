@@ -1,15 +1,15 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:BTCSTUSDTPERP",
+        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
         "f": [
-          "no longer trading"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:BTSUSDT_PREMIUM",
+        "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
-          "price null"
+          "no longer trading"
         ]
       },
       {
@@ -38,6 +38,18 @@
       },
       {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:QTUMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
