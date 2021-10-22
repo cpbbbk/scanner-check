@@ -37,19 +37,19 @@
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:KEEPUSDT_PREMIUM",
+        "s": "BINANCE:MTLUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RAYUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -62,6 +62,18 @@
       },
       {
         "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:UNFIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:YFIIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
