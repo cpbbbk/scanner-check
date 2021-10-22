@@ -685,6 +685,12 @@
         ]
       },
       {
+        "s": "BSE:AURUM",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BSE:AUSTRAL",
         "f": [
           "no longer trading"
@@ -1555,24 +1561,6 @@
         ]
       },
       {
-        "s": "BSE:D3YRCEEDG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BSE:D3YRCEERDP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:D3YRCEERG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BSE:DACE2DDP",
         "f": [
           "empty symbol"
@@ -1592,30 +1580,6 @@
       },
       {
         "s": "BSE:DACE2RG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:DACEFDDP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:DACEFDG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:DACEFRDP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:DACEFRG",
         "f": [
           "no longer trading"
         ]
@@ -2678,6 +2642,12 @@
       },
       {
         "s": "BSE:HVL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BSE:HYBRIDFIN",
         "f": [
           "empty symbol"
         ]
@@ -3892,12 +3862,6 @@
         "s": "BSE:MADHUSE",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BSE:MAFATLAFIN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -7813,6 +7777,12 @@
         ]
       },
       {
+        "s": "NSE:3IINFOLTD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NSE:3IINFOTECH",
         "f": [
           "no longer trading"
@@ -7882,6 +7852,12 @@
         "s": "NSE:ATNINTER",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:AURUM",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -8264,6 +8240,12 @@
       },
       {
         "s": "NSE:SICAGEN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:SIKKO",
         "f": [
           "no longer trading"
         ]
