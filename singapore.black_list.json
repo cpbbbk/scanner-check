@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "SGX:1B6",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SGX:1C0",
         "f": [
           "no longer trading"
@@ -242,6 +248,12 @@
       },
       {
         "s": "SGX:5UN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:5UO",
         "f": [
           "no longer trading"
         ]
@@ -541,6 +553,12 @@
         ]
       },
       {
+        "s": "SGX:H1N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SGX:HKB",
         "f": [
           "no longer trading"
@@ -679,6 +697,12 @@
         ]
       },
       {
+        "s": "SGX:QSD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SGX:R14",
         "f": [
           "no longer trading"
@@ -716,6 +740,12 @@
       },
       {
         "s": "SGX:S2D",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:S7P",
         "f": [
           "no longer trading"
         ]
@@ -770,6 +800,12 @@
       },
       {
         "s": "SGX:ZHD",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:ZHY",
         "f": [
           "no longer trading"
         ]
