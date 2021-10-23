@@ -1880,6 +1880,7 @@
       {
         "s": "SET:KC",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
