@@ -283,7 +283,25 @@
         ]
       },
       {
+        "s": "OMXSTO:NODLO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:NOLO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:NOMO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:NORO",
         "f": [
           "no longer trading"
         ]
@@ -373,6 +391,12 @@
         ]
       },
       {
+        "s": "OMXSTO:PRSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:PSEO",
         "f": [
           "no longer trading"
@@ -400,6 +424,12 @@
         "s": "OMXSTO:ROMO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "OMXSTO:SAGAO",
+        "f": [
+          "no longer trading"
         ]
       },
       {
