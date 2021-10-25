@@ -598,12 +598,6 @@
         ]
       },
       {
-        "s": "SET:BLAND",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "SET:BLAND.F",
         "f": [
           "no longer trading"
@@ -3809,12 +3803,6 @@
         ]
       },
       {
-        "s": "SET:STEC",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "SET:STEC.F",
         "f": [
           "no longer trading"
@@ -4208,12 +4196,6 @@
       },
       {
         "s": "SET:TIPH.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:TISCO.F",
         "f": [
           "no longer trading"
         ]
@@ -4661,6 +4643,7 @@
       {
         "s": "SET:UEC.F",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
