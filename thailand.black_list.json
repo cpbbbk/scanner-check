@@ -265,12 +265,6 @@
         ]
       },
       {
-        "s": "SET:AP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:APCO.F",
         "f": [
           "no longer trading"
@@ -601,6 +595,12 @@
         "s": "SET:BLA.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:BLAND",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1203,7 +1203,6 @@
       {
         "s": "SET:EFORL.F",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -3807,6 +3806,12 @@
         "s": "SET:STC.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:STEC",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
