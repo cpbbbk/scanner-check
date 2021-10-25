@@ -1451,6 +1451,12 @@
         ]
       },
       {
+        "s": "SET:GLD",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:GLOBAL.F",
         "f": [
           "no longer trading"
@@ -1880,7 +1886,6 @@
       {
         "s": "SET:KC",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
