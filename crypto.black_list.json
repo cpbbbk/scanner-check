@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "BINANCE:BATUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BCHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -187,12 +181,6 @@
         ]
       },
       {
-        "s": "BINANCE:IOTAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
@@ -235,12 +223,6 @@
         ]
       },
       {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:OMGUSDT_PREMIUM",
         "f": [
           "price null"
@@ -254,6 +236,12 @@
       },
       {
         "s": "BINANCE:QTUMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -301,13 +289,13 @@
         ]
       },
       {
-        "s": "BINANCE:UNFIUSDT_PREMIUM",
+        "s": "BINANCE:TRXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:VETUSDT_PREMIUM",
+        "s": "BINANCE:UNFIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5585,12 +5573,6 @@
         "s": "BITTREX:SPYUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:TFBXUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
