@@ -241,6 +241,18 @@
         ]
       },
       {
+        "s": "BINANCE:RENUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RLCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RVNUSDT_PREMIUM",
         "f": [
           "price null"
@@ -5918,21 +5930,9 @@
         ]
       },
       {
-        "s": "KUCOIN:BADGERBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "KUCOIN:MTCETH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "KUCOIN:UNOBTC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
