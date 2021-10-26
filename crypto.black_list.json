@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BATUSDT_PREMIUM",
         "f": [
           "price null"
@@ -38,12 +32,6 @@
       },
       {
         "s": "BINANCE:BNBBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -68,12 +56,6 @@
       },
       {
         "s": "BINANCE:CELOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:CTKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -121,19 +103,7 @@
         ]
       },
       {
-        "s": "BINANCE:HBARUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:HNTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:HOTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -193,12 +163,6 @@
         ]
       },
       {
-        "s": "BINANCE:OMGUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:RENUSDT_PREMIUM",
         "f": [
           "price null"
@@ -206,12 +170,6 @@
       },
       {
         "s": "BINANCE:RLCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -230,12 +188,6 @@
       },
       {
         "s": "BINANCE:STORJUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:UNIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -2560,12 +2512,6 @@
         ]
       },
       {
-        "s": "BITFINEX:GERMANY40IXF0USTF0",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITFINEX:GERMANY40IXF0USTF0LONGS",
         "f": [
           "crypto skip longs shorts"
@@ -2899,8 +2845,7 @@
       {
         "s": "BITFINEX:IOTJPYSHORTS",
         "f": [
-          "crypto skip longs shorts",
-          "no longer trading"
+          "crypto skip longs shorts"
         ]
       },
       {
@@ -5390,36 +5335,6 @@
         ]
       },
       {
-        "s": "BITTREX:ABNBBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:APHABTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:APHAUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:ARKKUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:BANDEUR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITTREX:CADXBTC",
         "f": [
           "empty symbol"
@@ -5432,18 +5347,6 @@
         ]
       },
       {
-        "s": "BITTREX:CRONUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:CRONUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITTREX:DUCATOBTC",
         "f": [
           "no longer trading"
@@ -5453,42 +5356,6 @@
         "s": "BITTREX:FXSUSDT",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:GDXJBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:GDXJUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:GLXYBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:GLXYUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:MSTRBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:MSTRUSD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5516,63 +5383,9 @@
         ]
       },
       {
-        "s": "BITTREX:NIOBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:NVDABTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:NVDAUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:PENNBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:PENNUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITTREX:RTHUSDT",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:SPYUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:TSMBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:TSMUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:TSMUSDT",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5582,37 +5395,7 @@
         ]
       },
       {
-        "s": "BITTREX:UPUSDUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:USOBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:USOUSD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BITTREX:VILBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:ZMBTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BITTREX:ZMUSD",
         "f": [
           "no longer trading"
         ]
@@ -5738,37 +5521,7 @@
         ]
       },
       {
-        "s": "HITBTC:CHATETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:CUTEEOS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:CVTETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:DASHHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:DATAETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:DOTHIT",
         "f": [
           "no longer trading"
         ]
@@ -5792,43 +5545,13 @@
         ]
       },
       {
-        "s": "HITBTC:FLEXUSDT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:FTTHIT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:GVTETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MATICHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:MDABTC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MTHETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MTXETH",
         "f": [
           "no longer trading"
         ]
@@ -5846,55 +5569,13 @@
         ]
       },
       {
-        "s": "HITBTC:OMGBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:PTOYETH",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:SAIBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:TRXHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:TXADAI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "HITBTC:TXAUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:VETHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:VGXETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:VITAEBTC",
         "f": [
           "no longer trading"
         ]
@@ -5924,24 +5605,6 @@
         ]
       },
       {
-        "s": "KUCOIN:XVSBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:XVSUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:ZKTUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "MERCADO:ACORDO01BRL",
         "f": [
           "empty symbol"
@@ -5955,12 +5618,6 @@
       },
       {
         "s": "MERCADO:IMOB01BRL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MERCADO:IMOB02BRL",
         "f": [
           "empty symbol"
         ]
