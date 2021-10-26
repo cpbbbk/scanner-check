@@ -13,18 +13,6 @@
         ]
       },
       {
-        "s": "BINANCE:ARPAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ATOMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
@@ -122,12 +110,6 @@
       },
       {
         "s": "BINANCE:NEOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5620,12 +5602,6 @@
         "s": "MERCADO:MBPRK03BRL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "MERCADO:MBSANTOS01BRL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
