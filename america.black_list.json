@@ -561,7 +561,7 @@
       {
         "s": "NASDAQ:BSMV",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -759,7 +759,7 @@
       {
         "s": "NASDAQ:RENT",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -829,6 +829,12 @@
         ]
       },
       {
+        "s": "NASDAQ:TSVTV",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:TWCGU",
         "f": [
           "empty symbol"
@@ -885,7 +891,7 @@
       {
         "s": "NYSE:INFA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1029,7 +1035,7 @@
       {
         "s": "OTC:DLPRF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1317,7 +1323,7 @@
       {
         "s": "OTC:SCRSF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1359,7 +1365,7 @@
       {
         "s": "OTC:STUPF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1376,6 +1382,12 @@
       },
       {
         "s": "OTC:SVYSF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TBIXF",
         "f": [
           "no longer trading"
         ]
