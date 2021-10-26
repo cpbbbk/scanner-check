@@ -13,6 +13,18 @@
         ]
       },
       {
+        "s": "BINANCE:ARPAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ATOMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
@@ -110,6 +122,12 @@
       },
       {
         "s": "BINANCE:NEOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5318,12 +5336,6 @@
       },
       {
         "s": "BITTREX:NFTXUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:RTHUSDT",
         "f": [
           "empty symbol"
         ]
