@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "BINANCE:AXSUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
@@ -62,6 +68,12 @@
       },
       {
         "s": "BINANCE:BTSUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BTTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5531,6 +5543,12 @@
         "s": "BITTREX:PENNUSD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BITTREX:RTHUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
