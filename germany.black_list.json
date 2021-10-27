@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "BER:RCMN",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:SBX",
         "f": [
           "no longer trading"
@@ -64,12 +58,6 @@
         "s": "DUS:GEY",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "DUS:GTK",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -385,6 +373,12 @@
         ]
       },
       {
+        "s": "XETR:IEBL6K6H9",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:IECOQKPO",
         "f": [
           "empty symbol"
@@ -478,6 +472,12 @@
         "s": "XETR:LYXT",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:N1ES",
+        "f": [
+          "empty symbol"
         ]
       },
       {
