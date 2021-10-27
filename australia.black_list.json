@@ -169,6 +169,12 @@
         ]
       },
       {
+        "s": "ASX:CRM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:CWL",
         "f": [
           "no longer trading"
@@ -433,6 +439,12 @@
         ]
       },
       {
+        "s": "ASX:LVE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:MAX",
         "f": [
           "no longer trading"
@@ -586,6 +598,12 @@
         "s": "ASX:RF1AB",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:RHP",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -932,12 +950,6 @@
       },
       {
         "s": "ASX:YTMTCL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMTL1",
         "f": [
           "no longer trading"
         ]
