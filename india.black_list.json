@@ -379,6 +379,12 @@
         ]
       },
       {
+        "s": "BSE:AIML",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:AIPCL",
         "f": [
           "no longer trading"
@@ -1399,6 +1405,12 @@
         ]
       },
       {
+        "s": "BSE:CIL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:CIMMCO",
         "f": [
           "no longer trading"
@@ -2215,6 +2227,12 @@
         ]
       },
       {
+        "s": "BSE:GANONPRO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:GARBIFIN",
         "f": [
           "no longer trading"
@@ -2498,6 +2516,12 @@
       },
       {
         "s": "BSE:GVKPIL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:GYTRIPA",
         "f": [
           "no longer trading"
         ]
@@ -3871,6 +3895,12 @@
         ]
       },
       {
+        "s": "BSE:LEADFIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:LEEL",
         "f": [
           "no longer trading"
@@ -4099,6 +4129,12 @@
         ]
       },
       {
+        "s": "BSE:MEDICO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:MEENST",
         "f": [
           "empty symbol"
@@ -4243,6 +4279,12 @@
         ]
       },
       {
+        "s": "BSE:MNPLFIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:MNYRPLA_B",
         "f": [
           "empty symbol"
@@ -4304,6 +4346,12 @@
       },
       {
         "s": "BSE:MOUNT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:MOUNTSHIQ",
         "f": [
           "no longer trading"
         ]
@@ -4921,6 +4969,12 @@
         ]
       },
       {
+        "s": "BSE:OCTAVE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:OCTAWARE",
         "f": [
           "no longer trading"
@@ -5203,6 +5257,12 @@
         ]
       },
       {
+        "s": "BSE:PRADIP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:PRATIBHA",
         "f": [
           "no longer trading"
@@ -5228,6 +5288,12 @@
       },
       {
         "s": "BSE:PRESHAMET",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:PRESOFI",
         "f": [
           "no longer trading"
         ]
@@ -5324,6 +5390,12 @@
       },
       {
         "s": "BSE:PYXISFIN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:QUANTDIA",
         "f": [
           "no longer trading"
         ]
@@ -5641,6 +5713,12 @@
         ]
       },
       {
+        "s": "BSE:RSTL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:RUBY",
         "f": [
           "no longer trading"
@@ -5857,6 +5935,18 @@
         ]
       },
       {
+        "s": "BSE:SAVFI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:SAVINFOCO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:SBECSYS",
         "f": [
           "empty symbol"
@@ -5900,6 +5990,12 @@
       },
       {
         "s": "BSE:SCINDIA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:SDC",
         "f": [
           "no longer trading"
         ]
@@ -6187,6 +6283,12 @@
         ]
       },
       {
+        "s": "BSE:SHRINIWAS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:SHRSHATEX",
         "f": [
           "no longer trading"
@@ -6284,6 +6386,12 @@
       },
       {
         "s": "BSE:SINNAR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:SIPIND",
         "f": [
           "no longer trading"
         ]
@@ -6614,6 +6722,12 @@
       },
       {
         "s": "BSE:SRUSTEELS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:STANCAP",
         "f": [
           "no longer trading"
         ]
@@ -7615,6 +7729,12 @@
         ]
       },
       {
+        "s": "BSE:WELLNESS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:WELTI",
         "f": [
           "no longer trading"
@@ -8149,12 +8269,6 @@
         ]
       },
       {
-        "s": "NSE:HEALTHY",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NSE:IGRID_RE.ID",
         "f": [
           "empty symbol"
@@ -8182,12 +8296,6 @@
         "s": "NSE:KGL",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NSE:KILPP.E1",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8318,6 +8426,12 @@
       },
       {
         "s": "NSE:PRABHAT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:PRADIP",
         "f": [
           "no longer trading"
         ]
