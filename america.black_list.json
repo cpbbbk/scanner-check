@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:BUFT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:CKX",
         "f": [
           "no longer trading"
@@ -661,12 +655,6 @@
         ]
       },
       {
-        "s": "NASDAQ:FIACU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:FINW",
         "f": [
           "empty symbol"
@@ -778,12 +766,6 @@
         "s": "NASDAQ:OTRAU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:PCCTU",
-        "f": [
-          "empty symbol"
         ]
       },
       {
