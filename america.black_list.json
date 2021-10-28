@@ -535,7 +535,19 @@
         ]
       },
       {
+        "s": "NASDAQ:AIRS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:ATAT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:AURA",
         "f": [
           "empty symbol"
         ]
@@ -841,6 +853,12 @@
         ]
       },
       {
+        "s": "NASDAQ:TRDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:TSVTV",
         "f": [
           "empty symbol"
@@ -913,9 +931,21 @@
         ]
       },
       {
+        "s": "NYSE:HRT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NYSE:ONE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NYSE:SONX",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -952,6 +982,12 @@
         "s": "OTC:ATXG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:AUCCF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
