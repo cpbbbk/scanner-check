@@ -43,6 +43,12 @@
         ]
       },
       {
+        "s": "BER:SMWN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:SR9",
         "f": [
           "no longer trading"
@@ -187,6 +193,12 @@
         ]
       },
       {
+        "s": "HAM:MDN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "HAM:SR9",
         "f": [
           "no longer trading"
@@ -196,6 +208,12 @@
         "s": "HAN:HLG",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "HAN:MDN",
+        "f": [
+          "equal bars"
         ]
       },
       {
