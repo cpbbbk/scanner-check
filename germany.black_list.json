@@ -205,12 +205,6 @@
         ]
       },
       {
-        "s": "MUN:CSG",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "MUN:DVL",
         "f": [
           "equal bars"
@@ -226,12 +220,6 @@
         "s": "MUN:LO24",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "MUN:MAK",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -349,6 +337,18 @@
         ]
       },
       {
+        "s": "XETR:BIO0",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:BIO1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:BRH",
         "f": [
           "no longer trading"
@@ -358,6 +358,18 @@
         "s": "XETR:BTBB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:CBUH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:CBUI",
+        "f": [
+          "empty symbol"
         ]
       },
       {
