@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "BER:SMWN",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:SR9",
         "f": [
           "no longer trading"
@@ -248,6 +242,12 @@
       },
       {
         "s": "SWB:ERO",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "SWB:MNK",
         "f": [
           "equal bars"
         ]
