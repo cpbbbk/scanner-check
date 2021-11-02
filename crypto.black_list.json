@@ -19,6 +19,18 @@
         ]
       },
       {
+        "s": "BINANCE:ANKRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AVAXUSDT_PREMIUM",
         "f": [
           "price null"
@@ -109,6 +121,12 @@
         ]
       },
       {
+        "s": "BINANCE:GALAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:HNTUSDT_PREMIUM",
         "f": [
           "price null"
@@ -140,12 +158,6 @@
       },
       {
         "s": "BINANCE:MASKUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -187,13 +199,13 @@
         ]
       },
       {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "s": "BINANCE:RVNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "s": "BINANCE:SANDUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -206,6 +218,12 @@
       },
       {
         "s": "BINANCE:SNXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -254,6 +272,12 @@
       },
       {
         "s": "BINANCE:ZECUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ZENUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5557,6 +5581,18 @@
         ]
       },
       {
+        "s": "BITTREX:ARTIIBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:ARTIIUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BITTREX:CADXBTC",
         "f": [
           "empty symbol"
@@ -5570,6 +5606,12 @@
       },
       {
         "s": "BITTREX:FXSUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BITTREX:MPTUSDT",
         "f": [
           "empty symbol"
         ]
@@ -6007,27 +6049,9 @@
         ]
       },
       {
-        "s": "POLONIEX:ILVUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "POLONIEX:OGNUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "POLONIEX:RUNEUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:SLPUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6040,18 +6064,6 @@
         "s": "POLONIEX:SUNUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:SUPERUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "POLONIEX:TLMUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
