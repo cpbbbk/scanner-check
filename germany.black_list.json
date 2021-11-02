@@ -211,6 +211,18 @@
         ]
       },
       {
+        "s": "MUN:NWDA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "MUN:OLL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MUN:OTA",
         "f": [
           "equal bars"
@@ -224,12 +236,6 @@
       },
       {
         "s": "SWB:ERO",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "SWB:MNK",
         "f": [
           "equal bars"
         ]
@@ -410,12 +416,6 @@
       },
       {
         "s": "XETR:LTD0",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "XETR:LU129110066",
         "f": [
           "empty symbol"
         ]
