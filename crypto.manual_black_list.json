@@ -1,28 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "BINANCE:XLMDOWNUSDT",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "BINANCE:SUSHIDOWNUSDT",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "BINANCE:XTZDOWNUSDT",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "HITBTC:DDRTDDRST",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    }
-  ]
+  "black_list": []
 }
