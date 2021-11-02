@@ -7,12 +7,6 @@
         ]
       },
       {
-        "s": "BINANCE:1000XECUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:AAVEUSDT_PREMIUM",
         "f": [
           "price null"
@@ -25,13 +19,13 @@
         ]
       },
       {
-        "s": "BINANCE:ANKRUSDT_PREMIUM",
+        "s": "BINANCE:ALICEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:AUDIOUSDT_PREMIUM",
+        "s": "BINANCE:ATAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -43,13 +37,13 @@
         ]
       },
       {
-        "s": "BINANCE:BALUSDT_PREMIUM",
+        "s": "BINANCE:AXSUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
+        "s": "BINANCE:BALUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -79,12 +73,6 @@
         ]
       },
       {
-        "s": "BINANCE:BTTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BZRXUSDT_PREMIUM",
         "f": [
           "price null"
@@ -92,12 +80,6 @@
       },
       {
         "s": "BINANCE:CELOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:CELRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -169,19 +151,7 @@
         ]
       },
       {
-        "s": "BINANCE:IOTAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:KLAYUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LINAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -193,13 +163,19 @@
         ]
       },
       {
-        "s": "BINANCE:LTCUSDT_PREMIUM",
+        "s": "BINANCE:MANAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:MASKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -212,12 +188,6 @@
       },
       {
         "s": "BINANCE:OGNUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ONEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -259,19 +229,25 @@
         ]
       },
       {
+        "s": "BINANCE:SCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SFPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:SKLUSDT_PREMIUM",
+        "s": "BINANCE:SNXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:SNXUSDT_PREMIUM",
+        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5557,12 +5533,6 @@
         ]
       },
       {
-        "s": "BITKUB:SUSHITHB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITSTAMP:RGTEUR",
         "f": [
           "empty symbol"
@@ -5584,12 +5554,6 @@
         "s": "BITTREX:CADXUSD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:DUCATOBTC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5620,12 +5584,6 @@
         "s": "BITTREX:NFTXUSDT",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "BITTREX:UPUSDBTC",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -5779,25 +5737,7 @@
         ]
       },
       {
-        "s": "GEMINI:ZECBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:AAVEHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:ACDBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:BCHHIT",
         "f": [
           "no longer trading"
         ]
@@ -5833,31 +5773,13 @@
         ]
       },
       {
-        "s": "HITBTC:FDZETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:FILHIT",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "HITBTC:FLEXBCH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:FTTHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:HMQETH",
         "f": [
           "no longer trading"
         ]
@@ -5887,12 +5809,6 @@
         ]
       },
       {
-        "s": "HITBTC:NEOEURS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:NEOHIT",
         "f": [
           "no longer trading"
@@ -5900,12 +5816,6 @@
       },
       {
         "s": "HITBTC:NEUETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:PTOYETH",
         "f": [
           "no longer trading"
         ]
@@ -5953,12 +5863,6 @@
         ]
       },
       {
-        "s": "HITBTC:XLMHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:XTZHIT",
         "f": [
           "no longer trading"
@@ -5977,18 +5881,6 @@
         ]
       },
       {
-        "s": "KUCOIN:QUICKBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:QUICKUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "KUCOIN:TRUBTC",
         "f": [
           "empty symbol"
@@ -6003,7 +5895,7 @@
       {
         "s": "MERCADO:ACORDO01BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -6015,7 +5907,7 @@
       {
         "s": "MERCADO:IMOB01BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -6033,31 +5925,31 @@
       {
         "s": "MERCADO:MBFP01BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "MERCADO:MBFP02BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "MERCADO:MBFP03BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "MERCADO:MBFP04BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
         "s": "MERCADO:MBFP05BRL",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
