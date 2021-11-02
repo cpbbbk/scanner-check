@@ -100,6 +100,12 @@
         ]
       },
       {
+        "s": "SET:ADVANC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:AEONTS.F",
         "f": [
           "no longer trading"
@@ -514,6 +520,12 @@
       },
       {
         "s": "SET:BEC.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:BEM.F",
         "f": [
           "no longer trading"
         ]
@@ -1974,6 +1986,12 @@
         ]
       },
       {
+        "s": "SET:KTB.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:KTB.P",
         "f": [
           "no longer trading"
@@ -3324,9 +3342,21 @@
         ]
       },
       {
+        "s": "SET:SAWANG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:SAWANG.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:SAWANG.R",
+        "f": [
           "no longer trading"
         ]
       },
@@ -4631,7 +4661,6 @@
       {
         "s": "SET:UEC.F",
         "f": [
-          "equal bars",
           "no longer trading"
         ]
       },
