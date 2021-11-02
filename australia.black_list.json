@@ -85,6 +85,12 @@
         ]
       },
       {
+        "s": "ASX:AR1",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:ARLXF",
         "f": [
           "empty symbol"
@@ -100,6 +106,12 @@
         "s": "ASX:AV1NA",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:AV1O",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -169,6 +181,12 @@
         ]
       },
       {
+        "s": "ASX:CGM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:CGN",
         "f": [
           "no longer trading"
@@ -206,12 +224,6 @@
       },
       {
         "s": "ASX:DCL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:DET",
         "f": [
           "no longer trading"
         ]
@@ -349,6 +361,12 @@
         ]
       },
       {
+        "s": "ASX:IMSDA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:IPC",
         "f": [
           "no longer trading"
@@ -397,6 +415,12 @@
         ]
       },
       {
+        "s": "ASX:LHM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:LKO",
         "f": [
           "no longer trading"
@@ -404,6 +428,18 @@
       },
       {
         "s": "ASX:LML",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:LRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:LSH",
         "f": [
           "no longer trading"
         ]
@@ -445,6 +481,12 @@
         ]
       },
       {
+        "s": "ASX:MSI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "ASX:MSM",
         "f": [
           "no longer trading"
@@ -463,9 +505,21 @@
         ]
       },
       {
+        "s": "ASX:NVUN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:OECN",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:OLH",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -596,6 +650,12 @@
       },
       {
         "s": "ASX:SO4",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:SOLN",
         "f": [
           "no longer trading"
         ]
@@ -734,12 +794,6 @@
       },
       {
         "s": "ASX:WHFPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:WJA",
         "f": [
           "no longer trading"
         ]
