@@ -7,6 +7,12 @@
         ]
       },
       {
+        "s": "AMEX:GLU/PA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "AMEX:HEQT",
         "f": [
           "empty symbol"
@@ -488,6 +494,12 @@
         ]
       },
       {
+        "s": "NASDAQ:BHSEU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:BIRD",
         "f": [
           "empty symbol"
@@ -872,12 +884,6 @@
         ]
       },
       {
-        "s": "NYSE:CIVI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NYSE:CMTG",
         "f": [
           "empty symbol"
@@ -986,6 +992,18 @@
         ]
       },
       {
+        "s": "OTC:BICTF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:BNKL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:BVHBB",
         "f": [
           "no longer trading"
@@ -993,12 +1011,6 @@
       },
       {
         "s": "OTC:CAPS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:CBDHF",
         "f": [
           "no longer trading"
         ]
@@ -1076,6 +1088,12 @@
         ]
       },
       {
+        "s": "OTC:EMMLF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:EPGNY",
         "f": [
           "no longer trading"
@@ -1148,6 +1166,24 @@
         ]
       },
       {
+        "s": "OTC:GMVP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:GRFXY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:HCBC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:INBC",
         "f": [
           "no longer trading"
@@ -1172,6 +1208,12 @@
         ]
       },
       {
+        "s": "OTC:KGFHF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:LEOVF",
         "f": [
           "empty symbol"
@@ -1179,6 +1221,12 @@
       },
       {
         "s": "OTC:LMSQF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:LOGN",
         "f": [
           "no longer trading"
         ]
@@ -1268,6 +1316,12 @@
         ]
       },
       {
+        "s": "OTC:SABK",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:SCRSF",
         "f": [
           "no longer trading"
@@ -1317,6 +1371,12 @@
       },
       {
         "s": "OTC:TATYF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:TIMCF",
         "f": [
           "no longer trading"
         ]
@@ -1377,12 +1437,6 @@
       },
       {
         "s": "OTC:VIVC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:VOBIF",
         "f": [
           "no longer trading"
         ]
