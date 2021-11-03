@@ -1900,6 +1900,12 @@
         ]
       },
       {
+        "s": "TSE:2066",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSE:2069",
         "f": [
           "no longer trading"
@@ -1975,6 +1981,12 @@
         "s": "TSE:4250",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSE:4379",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -2087,6 +2099,12 @@
       },
       {
         "s": "TSE:7364",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSE:7565",
         "f": [
           "no longer trading"
         ]
