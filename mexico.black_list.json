@@ -1009,6 +1009,12 @@
         ]
       },
       {
+        "s": "BMV:CLNX/N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMV:CLR",
         "f": [
           "no longer trading"
@@ -2167,12 +2173,6 @@
         ]
       },
       {
-        "s": "BMV:MAC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMV:MAQC",
         "f": [
           "empty symbol"
@@ -3128,6 +3128,12 @@
       },
       {
         "s": "BMV:SYY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMV:TAP1",
         "f": [
           "no longer trading"
         ]
