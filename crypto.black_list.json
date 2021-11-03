@@ -13,6 +13,18 @@
         ]
       },
       {
+        "s": "BINANCE:ARPAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:ARUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ATOMUSDT_PREMIUM",
         "f": [
           "price null"
@@ -73,7 +85,25 @@
         ]
       },
       {
+        "s": "BINANCE:DENTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:EGLDUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:GTCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -115,12 +145,6 @@
         ]
       },
       {
-        "s": "BINANCE:MASKUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:NEOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -145,19 +169,7 @@
         ]
       },
       {
-        "s": "BINANCE:RAYUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:RENUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -176,12 +188,6 @@
       },
       {
         "s": "BINANCE:SANDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:STMXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5944,12 +5950,6 @@
         "s": "POLONIEX:DEXTUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:LEASHUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
