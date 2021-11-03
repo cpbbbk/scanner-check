@@ -7,12 +7,6 @@
         ]
       },
       {
-        "s": "BINANCE:BNBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -31,19 +25,7 @@
         ]
       },
       {
-        "s": "BINANCE:DENTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:DODOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:HNTUSDT_PREMIUM",
+        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -91,6 +73,18 @@
         ]
       },
       {
+        "s": "BINANCE:RENUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:RSRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RUNEUSDT_PREMIUM",
         "f": [
           "price null"
@@ -98,18 +92,6 @@
       },
       {
         "s": "BINANCE:SANDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:STMXUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:XEMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5430,6 +5412,18 @@
         ]
       },
       {
+        "s": "COINBASE:ATOMGBP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:AVAXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COINBASE:CROEUR",
         "f": [
           "empty symbol"
@@ -5442,7 +5436,19 @@
         ]
       },
       {
+        "s": "COINBASE:FARMUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COINBASE:LCXUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:LOOMUSD",
         "f": [
           "empty symbol"
         ]
@@ -5455,6 +5461,12 @@
       },
       {
         "s": "COINBASE:TRACUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINBASE:UNIGBP",
         "f": [
           "empty symbol"
         ]
