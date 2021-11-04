@@ -19,7 +19,7 @@
         ]
       },
       {
-        "s": "ASX:A1M",
+        "s": "ASX:ABL",
         "f": [
           "no longer trading"
         ]
@@ -301,6 +301,12 @@
         ]
       },
       {
+        "s": "ASX:GT1",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:HGL",
         "f": [
           "no longer trading"
@@ -316,6 +322,12 @@
         "s": "ASX:HHY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:HMG",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -452,12 +464,6 @@
       },
       {
         "s": "ASX:MIH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:MLT",
         "f": [
           "no longer trading"
         ]
@@ -601,18 +607,6 @@
         ]
       },
       {
-        "s": "ASX:RF1AB",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:RHP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:RMG",
         "f": [
           "no longer trading"
@@ -626,6 +620,12 @@
       },
       {
         "s": "ASX:RPG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:SAN",
         "f": [
           "no longer trading"
         ]
