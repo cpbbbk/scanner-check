@@ -7,13 +7,13 @@
         ]
       },
       {
-        "s": "BINANCE:ARUSDT_PREMIUM",
+        "s": "BINANCE:ANKRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:BNBBUSD_PREMIUM",
+        "s": "BINANCE:AUDIOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -25,9 +25,21 @@
         ]
       },
       {
+        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BINANCE:CHRUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -49,19 +61,13 @@
         ]
       },
       {
+        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:FLMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FTTBUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:GALAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -79,19 +85,13 @@
         ]
       },
       {
-        "s": "BINANCE:RAYUSDT_PREMIUM",
+        "s": "BINANCE:KEEPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:REEFUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:RENUSDT_PREMIUM",
         "f": [
           "price null"
         ]
