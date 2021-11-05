@@ -961,12 +961,6 @@
         ]
       },
       {
-        "s": "BMV:CLR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMV:CM/N",
         "f": [
           "empty symbol"
@@ -3152,12 +3146,6 @@
       },
       {
         "s": "BMV:TRI/N",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMV:TRN",
         "f": [
           "no longer trading"
         ]
