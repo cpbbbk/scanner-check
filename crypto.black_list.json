@@ -109,12 +109,6 @@
         ]
       },
       {
-        "s": "BINANCE:ENJUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:EOSUSDT_PREMIUM",
         "f": [
           "price null"
@@ -122,6 +116,12 @@
       },
       {
         "s": "BINANCE:ETCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:FTMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -152,12 +152,6 @@
       },
       {
         "s": "BINANCE:IOTAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:IOTXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -230,12 +224,6 @@
       },
       {
         "s": "BINANCE:QTUMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:REEFUSDT_PREMIUM",
         "f": [
           "price null"
         ]
