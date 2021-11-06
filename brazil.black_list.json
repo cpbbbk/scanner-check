@@ -901,6 +901,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:FCXO34",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:FIGE3",
         "f": [
           "no longer trading"
@@ -2122,7 +2128,6 @@
       {
         "s": "BMFBOVESPA:RBTS11",
         "f": [
-          "invalid symbol",
           "no longer trading"
         ]
       },
