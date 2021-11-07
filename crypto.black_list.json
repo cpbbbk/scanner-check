@@ -31,6 +31,12 @@
         ]
       },
       {
+        "s": "BINANCE:BZRXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -43,12 +49,6 @@
         ]
       },
       {
-        "s": "BINANCE:CTSIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:DASHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -56,12 +56,6 @@
       },
       {
         "s": "BINANCE:DEFIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
         "f": [
           "price null"
         ]
