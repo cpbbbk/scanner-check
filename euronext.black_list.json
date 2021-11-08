@@ -1,24 +1,6 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:2HCA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:2WME",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "EURONEXT:2WVE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:AAC",
         "f": [
           "no longer trading"
@@ -418,12 +400,6 @@
         "s": "EURONEXT:LIT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:MAAT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1138,6 +1114,12 @@
         "s": "EURONEXT:TRAN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:TRODS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
