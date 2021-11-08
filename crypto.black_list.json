@@ -55,12 +55,6 @@
         ]
       },
       {
-        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -86,6 +80,18 @@
       },
       {
         "s": "BINANCE:DASHUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:DENTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:DGBUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -134,12 +140,6 @@
       },
       {
         "s": "BINANCE:IOSTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LRCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
