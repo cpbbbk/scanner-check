@@ -625,12 +625,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CLAYU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:CLOEU",
         "f": [
           "no longer trading"
@@ -710,12 +704,6 @@
       },
       {
         "s": "NASDAQ:FLXE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:FOSLL",
         "f": [
           "empty symbol"
         ]
@@ -891,7 +879,7 @@
       {
         "s": "NASDAQ:STRN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -1279,12 +1267,6 @@
         ]
       },
       {
-        "s": "OTC:EMMLF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:EPGNY",
         "f": [
           "no longer trading"
@@ -1315,12 +1297,6 @@
         ]
       },
       {
-        "s": "OTC:FLCX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:FRSAF",
         "f": [
           "no longer trading"
@@ -1345,27 +1321,9 @@
         ]
       },
       {
-        "s": "OTC:IMPHF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:IQAIF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:JMPHF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:KASHF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1418,12 +1376,6 @@
       },
       {
         "s": "OTC:OAMCF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:OCEL",
         "f": [
           "empty symbol"
         ]
@@ -1570,12 +1522,6 @@
         "s": "OTC:UNTN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:USBL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
