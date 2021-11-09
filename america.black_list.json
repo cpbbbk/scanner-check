@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:AQGX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:ELQD",
         "f": [
           "empty symbol"
@@ -14,18 +8,6 @@
       },
       {
         "s": "AMEX:GLU/PA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:OILD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:OILU",
         "f": [
           "no longer trading"
         ]
@@ -847,12 +829,6 @@
         ]
       },
       {
-        "s": "NASDAQ:SARK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:SCAN",
         "f": [
           "empty symbol"
@@ -1453,12 +1429,6 @@
         ]
       },
       {
-        "s": "OTC:SNNSF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:STXMF",
         "f": [
           "no longer trading"
@@ -1484,12 +1454,6 @@
       },
       {
         "s": "OTC:TMRFF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:TOGOF",
         "f": [
           "no longer trading"
         ]
