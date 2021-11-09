@@ -121,6 +121,12 @@
         ]
       },
       {
+        "s": "BINANCE:DENTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DODOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -206,12 +212,6 @@
       },
       {
         "s": "BINANCE:LINKUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LRCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -6045,12 +6045,6 @@
       },
       {
         "s": "POLONIEX:AVAXUSDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "POLONIEX:AVAXUSDT",
         "f": [
           "empty symbol"
         ]
