@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:1INCHUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
@@ -61,13 +67,19 @@
         ]
       },
       {
-        "s": "BINANCE:CHRUSDT_PREMIUM",
+        "s": "BINANCE:COMPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
+        "s": "BINANCE:CTKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:CTSIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -86,12 +98,6 @@
       },
       {
         "s": "BINANCE:EGLDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FILUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5507,12 +5513,6 @@
         "s": "BITFINEX:ZRXUSDSHORTS",
         "f": [
           "crypto skip longs shorts"
-        ]
-      },
-      {
-        "s": "BITPANDAPRO:AAVEEUR",
-        "f": [
-          "empty symbol"
         ]
       },
       {
