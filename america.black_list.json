@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "AMEX:HFGO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -553,12 +547,6 @@
         ]
       },
       {
-        "s": "NASDAQ:AACI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:AACOU",
         "f": [
           "empty symbol"
@@ -1033,12 +1021,6 @@
         ]
       },
       {
-        "s": "NYSE:CINT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:CPSR.U",
         "f": [
           "no longer trading"
@@ -1111,12 +1093,6 @@
         ]
       },
       {
-        "s": "NYSE:RCF.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:RPAI",
         "f": [
           "no longer trading"
@@ -1132,12 +1108,6 @@
         "s": "NYSE:WEAV",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "OTC:AAUGF",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1418,12 +1388,6 @@
       },
       {
         "s": "OTC:PAFRY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:PEMSF",
         "f": [
           "no longer trading"
         ]
