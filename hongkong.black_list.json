@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "HKEX:1002",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1004",
         "f": [
           "no longer trading"
@@ -139,6 +145,12 @@
         ]
       },
       {
+        "s": "HKEX:1221",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:1227",
         "f": [
           "no longer trading"
@@ -224,6 +236,12 @@
       },
       {
         "s": "HKEX:1443",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:1452",
         "f": [
           "no longer trading"
         ]
@@ -577,6 +595,12 @@
         ]
       },
       {
+        "s": "HKEX:356",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:3639",
         "f": [
           "no longer trading"
@@ -799,6 +823,12 @@
         ]
       },
       {
+        "s": "HKEX:529",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "HKEX:557",
         "f": [
           "no longer trading"
@@ -830,6 +860,12 @@
       },
       {
         "s": "HKEX:608",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HKEX:6090",
         "f": [
           "no longer trading"
         ]
@@ -1204,6 +1240,12 @@
         "s": "HKEX:83125",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "HKEX:8331",
+        "f": [
+          "no longer trading"
         ]
       },
       {
