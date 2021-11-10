@@ -7,6 +7,12 @@
         ]
       },
       {
+        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -49,7 +55,13 @@
         ]
       },
       {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
+        "s": "BINANCE:LRCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5370,12 +5382,6 @@
         ]
       },
       {
-        "s": "BITSTAMP:RGTUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITSTAMP:SXPEUR",
         "f": [
           "empty symbol"
@@ -5607,24 +5613,6 @@
         "s": "HITBTC:MATICHIT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "HITBTC:MIMOBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:MIMOUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:MIMOUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
