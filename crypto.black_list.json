@@ -73,12 +73,6 @@
         ]
       },
       {
-        "s": "BINANCE:MASKUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:NEOUSDT_PREMIUM",
         "f": [
           "price null"
@@ -5646,12 +5640,6 @@
         ]
       },
       {
-        "s": "HITBTC:DASHHIT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:EMRXBTC",
         "f": [
           "no longer trading"
@@ -5736,12 +5724,6 @@
         ]
       },
       {
-        "s": "HITBTC:SBDETH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HITBTC:SOLHIT",
         "f": [
           "no longer trading"
@@ -5797,18 +5779,6 @@
       },
       {
         "s": "KUCOIN:AAVE3SUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:AUDIOBTC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "KUCOIN:AUDIOUSDT",
         "f": [
           "empty symbol"
         ]
@@ -5937,12 +5907,6 @@
         "s": "POLONIEX:DEXTUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "POLONIEX:DOEUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
