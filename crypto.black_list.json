@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "BINANCE:CHRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:COMPUSDT_PREMIUM",
         "f": [
           "price null"
@@ -26,12 +20,6 @@
       },
       {
         "s": "BINANCE:DGBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:GTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -67,6 +55,12 @@
         ]
       },
       {
+        "s": "BINANCE:RENUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -74,12 +68,6 @@
       },
       {
         "s": "BINANCE:SKLUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:STORJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5580,13 +5568,37 @@
         ]
       },
       {
+        "s": "HITBTC:BNXBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HITBTC:BNXUSD",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "HITBTC:BNXUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:DARBTC",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "HITBTC:DARUSD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "HITBTC:DARUSDT",
         "f": [
           "empty symbol"
         ]
