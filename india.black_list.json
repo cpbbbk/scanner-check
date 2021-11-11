@@ -1123,6 +1123,12 @@
         ]
       },
       {
+        "s": "BSE:BLFL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:BLUBLND_B",
         "f": [
           "no longer trading"
@@ -1160,6 +1166,12 @@
       },
       {
         "s": "BSE:BONINDL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:BONLON",
         "f": [
           "no longer trading"
         ]
@@ -3463,6 +3475,12 @@
         ]
       },
       {
+        "s": "BSE:JINAAM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:JJEXPO",
         "f": [
           "no longer trading"
@@ -3542,6 +3560,12 @@
       },
       {
         "s": "BSE:JYOTIOVR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:KAARYAFSL",
         "f": [
           "no longer trading"
         ]
@@ -4237,6 +4261,12 @@
         ]
       },
       {
+        "s": "BSE:MESPHAR_B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:METKORE",
         "f": [
           "no longer trading"
@@ -4562,6 +4592,12 @@
       },
       {
         "s": "BSE:NAVIGANT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:NAVKETAN",
         "f": [
           "no longer trading"
         ]
@@ -5302,6 +5338,12 @@
         "s": "BSE:PINKCHM",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BSE:PIONAGR",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -7729,6 +7771,12 @@
         ]
       },
       {
+        "s": "BSE:VIVIDM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:VJTFEDU",
         "f": [
           "no longer trading"
@@ -8173,12 +8221,6 @@
         ]
       },
       {
-        "s": "NSE:ANGELONE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NSE:ARCOTECH",
         "f": [
           "no longer trading"
@@ -8452,6 +8494,12 @@
         "s": "NSE:KIL_RE",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NSE:KKVAPOW",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -8828,6 +8876,12 @@
       },
       {
         "s": "NSE:UNIPLY",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:UNITEDPOLY",
         "f": [
           "no longer trading"
         ]
