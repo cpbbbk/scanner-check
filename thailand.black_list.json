@@ -1121,6 +1121,12 @@
         ]
       },
       {
+        "s": "SET:DPAINT.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:DREIT.F",
         "f": [
           "no longer trading"
@@ -4049,6 +4055,12 @@
         ]
       },
       {
+        "s": "SET:TFM.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:TFMAMA.F",
         "f": [
           "empty symbol"
@@ -4178,6 +4190,12 @@
       },
       {
         "s": "SET:TIPH.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TISCO.F",
         "f": [
           "no longer trading"
         ]
@@ -4509,6 +4527,12 @@
       },
       {
         "s": "SET:TTA.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:TTB.F",
         "f": [
           "no longer trading"
         ]
