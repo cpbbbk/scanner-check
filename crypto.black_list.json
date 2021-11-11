@@ -1,25 +1,7 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:1000XECUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:AAVEUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ADABUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ADAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -38,12 +20,6 @@
       },
       {
         "s": "BINANCE:ALICEUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ANKRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -121,12 +97,6 @@
         ]
       },
       {
-        "s": "BINANCE:CELOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:CELRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -163,6 +133,12 @@
         ]
       },
       {
+        "s": "BINANCE:CTKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CVCUSDT_PREMIUM",
         "f": [
           "price null"
@@ -175,19 +151,7 @@
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:DODOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:DOTUSDT_PREMIUM",
+        "s": "BINANCE:DENTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -205,19 +169,7 @@
         ]
       },
       {
-        "s": "BINANCE:EOSUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:FLMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:FTMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -253,12 +205,6 @@
         ]
       },
       {
-        "s": "BINANCE:KAVAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:KEEPUSDT_PREMIUM",
         "f": [
           "price null"
@@ -272,6 +218,12 @@
       },
       {
         "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LINKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -301,6 +253,12 @@
         ]
       },
       {
+        "s": "BINANCE:MATICUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:MKRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -314,12 +272,6 @@
       },
       {
         "s": "BINANCE:NEOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -361,13 +313,19 @@
         ]
       },
       {
+        "s": "BINANCE:RAYUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:REEFUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
+        "s": "BINANCE:RENUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -397,13 +355,13 @@
         ]
       },
       {
-        "s": "BINANCE:SFPUSDT_PREMIUM",
+        "s": "BINANCE:SNXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:SNXUSDT_PREMIUM",
+        "s": "BINANCE:STMXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -421,7 +379,7 @@
         ]
       },
       {
-        "s": "BINANCE:SXPUSDT_PREMIUM",
+        "s": "BINANCE:THETAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -445,7 +403,7 @@
         ]
       },
       {
-        "s": "BINANCE:VETUSDT_PREMIUM",
+        "s": "BINANCE:WAVESUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -5989,12 +5947,6 @@
       },
       {
         "s": "HITBTC:PLIUSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "HITBTC:PLIXDC",
         "f": [
           "empty symbol"
         ]
