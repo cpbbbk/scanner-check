@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "EURONEXT:AAC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:ACNV",
         "f": [
           "no longer trading"
@@ -248,12 +242,6 @@
       },
       {
         "s": "EURONEXT:MLABO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:MLAEM",
         "f": [
           "no longer trading"
         ]
