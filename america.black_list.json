@@ -85,12 +85,6 @@
         ]
       },
       {
-        "s": "AMEX:SAEF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -529,12 +523,6 @@
         ]
       },
       {
-        "s": "NASDAQ:BITS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:BRZE",
         "f": [
           "empty symbol"
@@ -772,12 +760,6 @@
         "s": "NASDAQ:OTRAU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:PFXNZ",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1081,12 +1063,6 @@
         ]
       },
       {
-        "s": "OTC:CFNB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:CLLLF",
         "f": [
           "no longer trading"
@@ -1159,21 +1135,9 @@
         ]
       },
       {
-        "s": "OTC:FNICF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:FRSAF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FUAPF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1336,12 +1300,6 @@
         "s": "OTC:PAFRY",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:PLMNF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
