@@ -49,21 +49,9 @@
         ]
       },
       {
-        "s": "AMEX:MSMR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PCG/PC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "AMEX:PSDN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1063,12 +1051,6 @@
         ]
       },
       {
-        "s": "NYSE:ATA.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NYSE:CPSR.U",
         "f": [
           "no longer trading"
@@ -1166,12 +1148,6 @@
       },
       {
         "s": "OTC:BNIGF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:BNVIF",
         "f": [
           "no longer trading"
         ]
@@ -1306,12 +1282,6 @@
         "s": "OTC:GPOTF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:GSHRF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
