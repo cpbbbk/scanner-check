@@ -1537,6 +1537,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:MGCR11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:MGEL3",
         "f": [
           "equal bars",
@@ -1877,6 +1883,12 @@
         "s": "BMFBOVESPA:ORPD11",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:OURE11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
