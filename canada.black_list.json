@@ -43,12 +43,6 @@
         ]
       },
       {
-        "s": "CSE:ATHA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:BETS",
         "f": [
           "no longer trading"
@@ -2059,12 +2053,6 @@
         ]
       },
       {
-        "s": "NEO:CVGR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:CVI.P",
         "f": [
           "no longer trading"
@@ -2090,12 +2078,6 @@
       },
       {
         "s": "NEO:CYBR.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:CYH",
         "f": [
           "no longer trading"
         ]
@@ -5077,12 +5059,6 @@
         ]
       },
       {
-        "s": "NEO:OSP.PR.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:OTS.H",
         "f": [
           "no longer trading"
@@ -6577,12 +6553,6 @@
         ]
       },
       {
-        "s": "NEO:TBK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:TBLZ.P",
         "f": [
           "empty symbol"
@@ -7904,6 +7874,12 @@
       },
       {
         "s": "TSXV:HAND",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:HMRK",
         "f": [
           "no longer trading"
         ]
