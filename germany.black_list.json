@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "BER:11H",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:2QU",
         "f": [
           "equal bars"
@@ -100,12 +94,6 @@
         "s": "DUS:WAH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:11H",
-        "f": [
-          "equal bars"
         ]
       },
       {
@@ -268,6 +256,12 @@
         "s": "MUN:GEY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "MUN:MLL",
+        "f": [
+          "equal bars"
         ]
       },
       {
