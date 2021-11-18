@@ -7,12 +7,6 @@
         ]
       },
       {
-        "s": "EURONEXT:ALECP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:ALMBG",
         "f": [
           "no longer trading"
@@ -433,6 +427,12 @@
         ]
       },
       {
+        "s": "EURONEXT:MLHPE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:MLHYD",
         "f": [
           "no longer trading"
@@ -736,6 +736,12 @@
         "s": "EURONEXT:SLCO",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:TAYN",
+        "f": [
+          "no longer trading"
         ]
       },
       {
