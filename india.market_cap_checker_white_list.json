@@ -1,10 +1,6 @@
 {
-    "NSE:RHIM": 30,
-    "BSE:RHIM": 30,
     "NSE:XPROINDIA": 30,
     "BSE:XPROINDIA": 30,
-    "NSE:HMT": 30,
-    "BSE:HMT": 30,
     "BSE:SANINFRA": 30,
     "BSE:KHODAY": 30,
     "BSE:TATAMTRDVR": 30,
@@ -12,5 +8,12 @@
     "BSE:JISLDVREQS": 30,
     "BSE:JAYNECOIND": 30,
     "NSE:JAYNECOIND": 30,
-    "NSE:JISLDVREQS": 30
+    "NSE:JISLDVREQS": 30,
+    "BSE:NATCAPSUQ": 30,
+    "NSE:ABFRL": 30,
+    "BSE:ESCORTS": 30,
+    "BSE:SSWL": 30,
+    "NSE:ESCORTS": 30,
+    "NSE:SSWL": 30,
+    "BSE:ABFRL": 30
 }
