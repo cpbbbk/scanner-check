@@ -415,6 +415,12 @@
         ]
       },
       {
+        "s": "COMEX:LEDQ2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:LEDX2021",
         "f": [
           "equal bars"
@@ -632,12 +638,6 @@
       },
       {
         "s": "NASDAQ:LGTOU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:LITM",
         "f": [
           "empty symbol"
         ]
