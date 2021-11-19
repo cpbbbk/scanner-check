@@ -37,6 +37,12 @@
         ]
       },
       {
+        "s": "BER:IS8",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:OIZ",
         "f": [
           "equal bars"
@@ -256,12 +262,6 @@
         "s": "MUN:GEY",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "MUN:MLL",
-        "f": [
-          "equal bars"
         ]
       },
       {
