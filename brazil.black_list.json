@@ -649,12 +649,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:COWC34",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:CRPG3",
         "f": [
           "no longer trading"
@@ -1537,6 +1531,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:M1MC34",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:M1TB34",
         "f": [
           "no longer trading"
@@ -2153,12 +2153,6 @@
         "s": "BMFBOVESPA:R1HI34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:R1IN34",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
