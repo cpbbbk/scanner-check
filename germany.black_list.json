@@ -607,12 +607,6 @@
         ]
       },
       {
-        "s": "XETR:IVSD",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "XETR:KUW8",
         "f": [
           "equal bars"
@@ -661,6 +655,12 @@
         ]
       },
       {
+        "s": "XETR:O5H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "XETR:OEMA",
         "f": [
           "empty symbol"
@@ -668,12 +668,6 @@
       },
       {
         "s": "XETR:OUTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:P4N",
         "f": [
           "no longer trading"
         ]
@@ -734,12 +728,6 @@
       },
       {
         "s": "XETR:SK3",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "XETR:SOH1",
         "f": [
           "empty symbol"
         ]
