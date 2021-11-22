@@ -1291,6 +1291,18 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:IGTI3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:IGTI3F",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:IMAT11",
         "f": [
           "no longer trading"
@@ -2114,12 +2126,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:QIFF11",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:QUSW3",
         "f": [
           "empty symbol"
@@ -2163,12 +2169,6 @@
       },
       {
         "s": "BMFBOVESPA:R2DF34",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:RBIV11",
         "f": [
           "no longer trading"
         ]
