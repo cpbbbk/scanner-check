@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "HNX:ATS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "HNX:HCT",
         "f": [
           "no longer trading"
@@ -331,6 +325,12 @@
         ]
       },
       {
+        "s": "UPCOM:DMN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "UPCOM:DNB",
         "f": [
           "no longer trading"
@@ -368,12 +368,6 @@
       },
       {
         "s": "UPCOM:DTB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "UPCOM:DTC",
         "f": [
           "no longer trading"
         ]
@@ -820,12 +814,6 @@
         "s": "UPCOM:NDW",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "UPCOM:NHT",
-        "f": [
-          "no longer trading"
         ]
       },
       {
