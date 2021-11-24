@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "NGM:ABI.BTU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NGM:ABI.UR",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NGM:CALMA.BTA.B",
         "f": [
           "empty symbol"
@@ -67,12 +79,6 @@
         ]
       },
       {
-        "s": "OMXSTO:ALPCOT_B",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OMXSTO:AQUAO",
         "f": [
           "no longer trading"
@@ -110,6 +116,12 @@
       },
       {
         "s": "OMXSTO:BGBIOO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BMAO",
         "f": [
           "no longer trading"
         ]
@@ -466,12 +478,6 @@
         "s": "OMXSTO:SHLFO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:SIGNUP",
-        "f": [
-          "empty symbol"
         ]
       },
       {
