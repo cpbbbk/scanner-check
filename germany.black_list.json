@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BER:4JP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:9TC",
         "f": [
           "no longer trading"
@@ -68,6 +74,12 @@
       },
       {
         "s": "DUS:KEI",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "DUS:NUVA",
         "f": [
           "equal bars"
         ]
@@ -158,12 +170,6 @@
       },
       {
         "s": "FWB:ERO",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FWB:FCV",
         "f": [
           "equal bars"
         ]
@@ -280,6 +286,12 @@
         "s": "MUN:SR9",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "MUN:V0Y",
+        "f": [
+          "equal bars"
         ]
       },
       {
