@@ -25,15 +25,21 @@
         ]
       },
       {
-        "s": "TPEX:2254",
+        "s": "TPEX:2255",
         "f": [
           "empty symbol"
         ]
       },
       {
-        "s": "TPEX:2255",
+        "s": "TPEX:4419",
         "f": [
-          "empty symbol"
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TPEX:6806",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -100,12 +106,6 @@
         "s": "TWSE:020007",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TWSE:020030",
-        "f": [
-          "empty symbol"
         ]
       }
     ]
