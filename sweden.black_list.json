@@ -181,6 +181,12 @@
         ]
       },
       {
+        "s": "OMXSTO:GEGO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:GENTO",
         "f": [
           "empty symbol"
@@ -427,12 +433,6 @@
         ]
       },
       {
-        "s": "OMXSTO:RESQ",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OMXSTO:RISHO",
         "f": [
           "no longer trading"
@@ -446,6 +446,18 @@
       },
       {
         "s": "OMXSTO:SACAMO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SATSO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:SBANKO",
         "f": [
           "no longer trading"
         ]
@@ -524,6 +536,12 @@
       },
       {
         "s": "OMXSTO:WWIBO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:WWIO",
         "f": [
           "no longer trading"
         ]
