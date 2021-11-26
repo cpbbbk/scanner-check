@@ -541,12 +541,6 @@
         ]
       },
       {
-        "s": "EURONEXT:MLNEI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "EURONEXT:MLORB",
         "f": [
           "empty symbol"
@@ -754,6 +748,12 @@
         "s": "EURONEXT:SMRU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:SPAC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
