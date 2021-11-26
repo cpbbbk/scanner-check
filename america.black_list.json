@@ -1161,7 +1161,7 @@
       {
         "s": "OTC:ARRNF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1316,12 +1316,6 @@
       },
       {
         "s": "OTC:FUST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:FWONB",
         "f": [
           "no longer trading"
         ]
