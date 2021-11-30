@@ -1,19 +1,7 @@
 {
     "black_list": [
       {
-        "s": "BINANCE:1000SHIBUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ADABUSD_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ADAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -25,13 +13,7 @@
         ]
       },
       {
-        "s": "BINANCE:ANKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "s": "BINANCE:ARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -43,13 +25,13 @@
         ]
       },
       {
-        "s": "BINANCE:BAKEUSDT_PREMIUM",
+        "s": "BINANCE:AUDIOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
+        "s": "BINANCE:BAKEUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -79,6 +61,12 @@
         ]
       },
       {
+        "s": "BINANCE:BNBBUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -91,19 +79,25 @@
         ]
       },
       {
-        "s": "BINANCE:CELOUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:CELRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
+        "s": "BINANCE:CHZUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:COMPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:CRVUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -133,25 +127,19 @@
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "s": "BINANCE:DODOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:DOTUSDT_PREMIUM",
+        "s": "BINANCE:ENJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:ENSUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:ETCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -199,7 +187,7 @@
         ]
       },
       {
-        "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "s": "BINANCE:KEEPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -211,7 +199,19 @@
         ]
       },
       {
+        "s": "BINANCE:KSMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:LINAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:LINKUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -277,13 +277,19 @@
         ]
       },
       {
-        "s": "BINANCE:OGNUSDT_PREMIUM",
+        "s": "BINANCE:OMGUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
         "s": "BINANCE:ONEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:REEFUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -307,7 +313,25 @@
         ]
       },
       {
+        "s": "BINANCE:SCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SFPUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:SKLUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:SOLBUSD_PREMIUM",
         "f": [
           "price null"
         ]
@@ -331,7 +355,13 @@
         ]
       },
       {
-        "s": "BINANCE:TRXUSDT_PREMIUM",
+        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:TRBUSDT_PREMIUM",
         "f": [
           "price null"
         ]
