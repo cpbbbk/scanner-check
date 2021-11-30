@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "AMEX:GLU/PA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CBOT:EH1!",
         "f": [
           "equal bars"
@@ -517,12 +511,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CNGLU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:CRZNU",
         "f": [
           "no longer trading"
@@ -530,12 +518,6 @@
       },
       {
         "s": "NASDAQ:DILAU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NASDAQ:DWAT",
         "f": [
           "no longer trading"
         ]
@@ -1424,12 +1406,6 @@
       },
       {
         "s": "OTC:SVTPF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:SWDAF",
         "f": [
           "no longer trading"
         ]
