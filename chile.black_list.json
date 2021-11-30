@@ -859,6 +859,12 @@
         ]
       },
       {
+        "s": "BCS:NAVARIN_SD",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCS:NEM",
         "f": [
           "no longer trading"
@@ -1075,6 +1081,12 @@
         ]
       },
       {
+        "s": "BCS:SACAM_OSA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BCS:SANTANA",
         "f": [
           "no longer trading"
@@ -1096,12 +1108,6 @@
         "s": "BCS:SECURI_OSA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BCS:SGOVCL",
-        "f": [
-          "empty symbol"
         ]
       },
       {
