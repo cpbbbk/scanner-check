@@ -19,9 +19,9 @@
         ]
       },
       {
-        "s": "EURONEXT:ALEMK",
+        "s": "EURONEXT:ALGRO",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -262,6 +262,12 @@
         "s": "EURONEXT:FXIT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:FXRE",
+        "f": [
+          "empty symbol"
         ]
       },
       {
