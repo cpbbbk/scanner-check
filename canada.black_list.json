@@ -4201,12 +4201,6 @@
         ]
       },
       {
-        "s": "NEO:IZN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:IZZ",
         "f": [
           "no longer trading"
@@ -7315,12 +7309,6 @@
         ]
       },
       {
-        "s": "NEO:USB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:UVN",
         "f": [
           "no longer trading"
@@ -7447,12 +7435,6 @@
         ]
       },
       {
-        "s": "NEO:VONE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:VOTI",
         "f": [
           "no longer trading"
@@ -7538,12 +7520,6 @@
       },
       {
         "s": "NEO:WAT.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:WATR",
         "f": [
           "no longer trading"
         ]
@@ -8170,6 +8146,12 @@
         "s": "TSX:FCUV.U",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "TSX:FFH.U",
+        "f": [
+          "no longer trading"
         ]
       },
       {
