@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "EURONEXT:ALISP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:ALMBG",
         "f": [
           "no longer trading"
@@ -151,12 +157,6 @@
         ]
       },
       {
-        "s": "EURONEXT:HOVE",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:HPAU",
         "f": [
           "no longer trading"
@@ -178,6 +178,12 @@
         "s": "EURONEXT:ITXT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:MATIC",
+        "f": [
+          "empty symbol"
         ]
       },
       {
