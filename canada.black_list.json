@@ -7903,12 +7903,6 @@
         ]
       },
       {
-        "s": "TSX:ALA.PR.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:BC.U",
         "f": [
           "no longer trading"
@@ -7916,12 +7910,6 @@
       },
       {
         "s": "TSX:BIP.W",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:BKL.U",
         "f": [
           "no longer trading"
         ]
@@ -7936,12 +7924,6 @@
         "s": "TSX:BTCY.U",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:CBND",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -7969,48 +7951,6 @@
         ]
       },
       {
-        "s": "TSX:FCGB.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FCIQ.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FCRR.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FCUL.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FCUQ.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FCUV.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:FFH.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:HBUG",
         "f": [
           "empty symbol"
@@ -8023,18 +7963,6 @@
         ]
       },
       {
-        "s": "TSX:HIG.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:HPF.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:KDC",
         "f": [
           "empty symbol"
@@ -8042,18 +7970,6 @@
       },
       {
         "s": "TSX:NAC.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:PBI.B",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:PSY.U",
         "f": [
           "no longer trading"
         ]
@@ -8071,37 +7987,13 @@
         ]
       },
       {
-        "s": "TSX:UNC.PR.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:ZMMK",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSXV:AKC.H",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSXV:ALTN.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:AMH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:APMI",
         "f": [
           "no longer trading"
         ]
@@ -8125,12 +8017,6 @@
         ]
       },
       {
-        "s": "TSXV:AVII.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:AXV",
         "f": [
           "no longer trading"
@@ -8149,19 +8035,7 @@
         ]
       },
       {
-        "s": "TSXV:BLTC.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:BN.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:BSH",
         "f": [
           "no longer trading"
         ]
@@ -8174,12 +8048,6 @@
       },
       {
         "s": "TSXV:BUZ.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:BYM.H",
         "f": [
           "no longer trading"
         ]
@@ -8215,18 +8083,6 @@
         ]
       },
       {
-        "s": "TSXV:CRX.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:CSOC.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:CUDA.H",
         "f": [
           "empty symbol"
@@ -8245,18 +8101,6 @@
         ]
       },
       {
-        "s": "TSXV:CZ.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:DURO.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:DVC.H",
         "f": [
           "no longer trading"
@@ -8269,12 +8113,6 @@
         ]
       },
       {
-        "s": "TSXV:EESH.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:ENER",
         "f": [
           "no longer trading"
@@ -8282,12 +8120,6 @@
       },
       {
         "s": "TSXV:EPO.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:EPX.H",
         "f": [
           "no longer trading"
         ]
@@ -8323,25 +8155,7 @@
         ]
       },
       {
-        "s": "TSXV:GHR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:GLAD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:GLIN.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:GPCC.P",
         "f": [
           "no longer trading"
         ]
@@ -8395,19 +8209,7 @@
         ]
       },
       {
-        "s": "TSXV:IL.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:JWCA.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:KAPA.P",
         "f": [
           "no longer trading"
         ]
@@ -8425,37 +8227,13 @@
         ]
       },
       {
-        "s": "TSXV:LILL.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:LWR",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSXV:MCG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:MCM.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:MFS.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:MMO.H",
         "f": [
           "no longer trading"
         ]
@@ -8479,12 +8257,6 @@
         ]
       },
       {
-        "s": "TSXV:NLTA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:NWE",
         "f": [
           "no longer trading"
@@ -8492,12 +8264,6 @@
       },
       {
         "s": "TSXV:OLT.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:ORCS.P",
         "f": [
           "no longer trading"
         ]
@@ -8516,12 +8282,6 @@
       },
       {
         "s": "TSXV:PEH.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:PHI",
         "f": [
           "no longer trading"
         ]
@@ -8557,21 +8317,9 @@
         ]
       },
       {
-        "s": "TSXV:RRM.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:RTN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:SAAS.P",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8581,19 +8329,7 @@
         ]
       },
       {
-        "s": "TSXV:SBS.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:SHM.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:SKK",
         "f": [
           "no longer trading"
         ]
@@ -8635,12 +8371,6 @@
         ]
       },
       {
-        "s": "TSXV:TCO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:TGR.H",
         "f": [
           "no longer trading"
@@ -8659,18 +8389,6 @@
         ]
       },
       {
-        "s": "TSXV:TRAD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:VDKA.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:VIC.P",
         "f": [
           "no longer trading"
@@ -8678,12 +8396,6 @@
       },
       {
         "s": "TSXV:VLU.P",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:VLV",
         "f": [
           "no longer trading"
         ]
@@ -8726,12 +8438,6 @@
       },
       {
         "s": "TSXV:ZMS.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:ZNC.H",
         "f": [
           "no longer trading"
         ]
