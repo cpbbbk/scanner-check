@@ -427,6 +427,12 @@
         ]
       },
       {
+        "s": "SET:B-WORK.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:B.F",
         "f": [
           "equal bars",
@@ -738,6 +744,7 @@
       {
         "s": "SET:CCP.F",
         "f": [
+          "equal bars",
           "no longer trading"
         ]
       },
