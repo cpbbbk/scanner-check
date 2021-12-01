@@ -2077,12 +2077,6 @@
         ]
       },
       {
-        "s": "NEO:CQR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:CRAN.P",
         "f": [
           "empty symbol"
@@ -4228,12 +4222,6 @@
         "s": "NEO:JAB.P",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:JADE",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -6877,12 +6865,6 @@
         ]
       },
       {
-        "s": "NEO:SUI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:SUN",
         "f": [
           "no longer trading"
@@ -8492,6 +8474,12 @@
       },
       {
         "s": "TSXV:GENE.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:GHR",
         "f": [
           "no longer trading"
         ]
