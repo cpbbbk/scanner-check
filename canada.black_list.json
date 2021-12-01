@@ -505,12 +505,6 @@
         ]
       },
       {
-        "s": "NEO:ACD",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:ACE.H",
         "f": [
           "no longer trading"
@@ -2162,12 +2156,6 @@
       },
       {
         "s": "NEO:CSGE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:CSL",
         "f": [
           "no longer trading"
         ]
@@ -4354,12 +4342,6 @@
         "s": "NEO:KAC.P",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:KALO",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -8420,6 +8402,12 @@
       },
       {
         "s": "TSXV:BUZ.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:BYM.H",
         "f": [
           "no longer trading"
         ]
