@@ -523,12 +523,6 @@
         ]
       },
       {
-        "s": "NEO:ACO.Y",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:ACOP",
         "f": [
           "no longer trading"
@@ -8608,6 +8602,12 @@
         "s": "TSXV:RTN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:SAAS.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
