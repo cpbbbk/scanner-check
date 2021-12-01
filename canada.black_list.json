@@ -6013,12 +6013,6 @@
         ]
       },
       {
-        "s": "NEO:QCE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:QDXB",
         "f": [
           "no longer trading"
@@ -8467,6 +8461,12 @@
         ]
       },
       {
+        "s": "TSXV:CRX.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:CUDA.H",
         "f": [
           "empty symbol"
@@ -8660,6 +8660,12 @@
       },
       {
         "s": "TSXV:MCG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:MCM.A",
         "f": [
           "no longer trading"
         ]
