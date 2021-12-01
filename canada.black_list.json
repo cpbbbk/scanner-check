@@ -3451,12 +3451,6 @@
         ]
       },
       {
-        "s": "NEO:GOM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:GOOD",
         "f": [
           "no longer trading"
@@ -5642,12 +5636,6 @@
       },
       {
         "s": "NEO:POKO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:POOL",
         "f": [
           "no longer trading"
         ]
@@ -8600,6 +8588,12 @@
       },
       {
         "s": "TSXV:SBEL.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:SBS.H",
         "f": [
           "no longer trading"
         ]
