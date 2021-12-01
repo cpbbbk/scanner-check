@@ -697,12 +697,6 @@
         ]
       },
       {
-        "s": "NEO:AJN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:AKH.H",
         "f": [
           "no longer trading"
@@ -7381,12 +7375,6 @@
         ]
       },
       {
-        "s": "NEO:VOTI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:VOY",
         "f": [
           "no longer trading"
@@ -8065,12 +8053,6 @@
         ]
       },
       {
-        "s": "TSX:FCUD.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSX:FCUL.U",
         "f": [
           "empty symbol"
@@ -8300,6 +8282,12 @@
       },
       {
         "s": "TSXV:CRX.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:CSOC.A",
         "f": [
           "no longer trading"
         ]
