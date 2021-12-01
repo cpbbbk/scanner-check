@@ -1653,7 +1653,7 @@
       {
         "s": "NEO:CBOX.X",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2104,12 +2104,6 @@
         "s": "NEO:CRES",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:CRM",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -4069,12 +4063,6 @@
         ]
       },
       {
-        "s": "NEO:IBM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:IC",
         "f": [
           "no longer trading"
@@ -4340,12 +4328,6 @@
       },
       {
         "s": "NEO:JJJJ.P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:JPM",
         "f": [
           "empty symbol"
         ]
@@ -8354,6 +8336,12 @@
       },
       {
         "s": "TSX:NAC.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:PSY.U",
         "f": [
           "no longer trading"
         ]
