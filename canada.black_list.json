@@ -4081,12 +4081,6 @@
         ]
       },
       {
-        "s": "NEO:IKNK.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:IL.P",
         "f": [
           "empty symbol"
@@ -8017,12 +8011,6 @@
         ]
       },
       {
-        "s": "NEO:ZDC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:ZENI.P",
         "f": [
           "empty symbol"
@@ -8575,6 +8563,12 @@
         ]
       },
       {
+        "s": "TSXV:IL.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:JWCA.H",
         "f": [
           "no longer trading"
@@ -8828,6 +8822,12 @@
       },
       {
         "s": "TSXV:VLU.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:VLV",
         "f": [
           "no longer trading"
         ]
