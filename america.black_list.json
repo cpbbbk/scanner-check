@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "AMEX:INNO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -1039,12 +1033,6 @@
         ]
       },
       {
-        "s": "OTC:KDKGF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "OTC:LCHD",
         "f": [
           "no longer trading"
@@ -1148,12 +1136,6 @@
       },
       {
         "s": "OTC:OSBK",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:OVATF",
         "f": [
           "no longer trading"
         ]
