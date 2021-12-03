@@ -31,12 +31,6 @@
         ]
       },
       {
-        "s": "BER:NWJ",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "BER:SCA",
         "f": [
           "no longer trading"
@@ -478,6 +472,12 @@
         "s": "XETR:LU129110066",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:LYMI",
+        "f": [
+          "equal bars"
         ]
       },
       {
