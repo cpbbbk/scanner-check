@@ -2611,12 +2611,6 @@
         ]
       },
       {
-        "s": "NEO:EFF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:EGA",
         "f": [
           "no longer trading"
@@ -6139,12 +6133,6 @@
         ]
       },
       {
-        "s": "NEO:RAIL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:RAIN",
         "f": [
           "no longer trading"
@@ -8636,6 +8624,12 @@
       },
       {
         "s": "TSXV:QIT.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:R.P",
         "f": [
           "no longer trading"
         ]
