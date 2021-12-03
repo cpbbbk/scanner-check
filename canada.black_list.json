@@ -127,12 +127,6 @@
         ]
       },
       {
-        "s": "CSE:CRCL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CSE:CSQ",
         "f": [
           "no longer trading"
@@ -184,12 +178,6 @@
         "s": "CSE:GBLK",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "CSE:GCA.X",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8269,6 +8257,12 @@
         ]
       },
       {
+        "s": "TSX:PFMS",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:PVS.PR.B",
         "f": [
           "no longer trading"
@@ -8629,6 +8623,12 @@
         ]
       },
       {
+        "s": "TSXV:NIS.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:NWE",
         "f": [
           "no longer trading"
@@ -8678,6 +8678,12 @@
       },
       {
         "s": "TSXV:QIT.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:RENT.P",
         "f": [
           "no longer trading"
         ]
