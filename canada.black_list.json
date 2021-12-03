@@ -4255,12 +4255,6 @@
         ]
       },
       {
-        "s": "NEO:JDN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:JES.P",
         "f": [
           "empty symbol"
@@ -8239,6 +8233,12 @@
         ]
       },
       {
+        "s": "TSX:VMH.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:XDLR",
         "f": [
           "no longer trading"
@@ -8642,6 +8642,12 @@
       },
       {
         "s": "TSXV:RENT.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:RGM.H",
         "f": [
           "no longer trading"
         ]
