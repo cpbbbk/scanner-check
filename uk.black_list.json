@@ -205,12 +205,6 @@
         ]
       },
       {
-        "s": "LSE:0FBM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0FCK",
         "f": [
           "no longer trading"
@@ -838,12 +832,6 @@
         "s": "LSE:0QU0",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:0QWE",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -2479,6 +2467,12 @@
         "s": "LSE:TGBA",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:TPOA",
+        "f": [
+          "equal bars"
         ]
       },
       {
