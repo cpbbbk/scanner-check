@@ -118,6 +118,12 @@
         ]
       },
       {
+        "s": "SET:AH.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:AHC.F",
         "f": [
           "empty symbol"
@@ -1683,6 +1689,12 @@
         ]
       },
       {
+        "s": "SET:INSURE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:INSURE.F",
         "f": [
           "empty symbol"
@@ -1957,6 +1969,12 @@
       },
       {
         "s": "SET:KSL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:KTB.F",
         "f": [
           "no longer trading"
         ]
@@ -2280,6 +2298,12 @@
       },
       {
         "s": "SET:MILL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:MIPF",
         "f": [
           "no longer trading"
         ]
@@ -3002,7 +3026,7 @@
       {
         "s": "SET:PSG.F",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
