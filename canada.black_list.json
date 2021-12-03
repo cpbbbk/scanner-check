@@ -769,12 +769,6 @@
         ]
       },
       {
-        "s": "NEO:AMS.X",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:AMU.P",
         "f": [
           "empty symbol"
@@ -1952,12 +1946,6 @@
       },
       {
         "s": "NEO:CO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:COG",
         "f": [
           "no longer trading"
         ]
@@ -5029,12 +5017,6 @@
         ]
       },
       {
-        "s": "NEO:NCF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:NCG",
         "f": [
           "empty symbol"
@@ -8072,6 +8054,12 @@
       },
       {
         "s": "TSXV:ALBA.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ALCC.P",
         "f": [
           "no longer trading"
         ]
