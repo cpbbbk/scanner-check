@@ -2411,6 +2411,12 @@
         ]
       },
       {
+        "s": "SET:NCAP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:NCAP.F",
         "f": [
           "no longer trading"
@@ -4043,6 +4049,12 @@
         ]
       },
       {
+        "s": "SET:TCMC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SET:TCMC.F",
         "f": [
           "no longer trading"
@@ -4925,6 +4937,12 @@
         "s": "SET:ZIGA.F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:ZIGA.R",
+        "f": [
+          "invalid symbol"
         ]
       }
     ]
