@@ -3523,12 +3523,6 @@
         ]
       },
       {
-        "s": "NEO:GMV",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:GNOM",
         "f": [
           "no longer trading"
@@ -3704,12 +3698,6 @@
       },
       {
         "s": "NEO:HBF.B",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:HBGD",
         "f": [
           "no longer trading"
         ]
@@ -8234,6 +8222,12 @@
       },
       {
         "s": "TSXV:AKC.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ALBA.P",
         "f": [
           "no longer trading"
         ]
