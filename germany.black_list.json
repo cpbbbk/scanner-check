@@ -31,12 +31,6 @@
         ]
       },
       {
-        "s": "BER:M12",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BER:SCA",
         "f": [
           "no longer trading"
@@ -46,12 +40,6 @@
         "s": "BER:SR9",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BER:SWA",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -187,12 +175,6 @@
         ]
       },
       {
-        "s": "FWB:TKA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "HAM:BCLN",
         "f": [
           "no longer trading"
@@ -265,12 +247,6 @@
         ]
       },
       {
-        "s": "MUN:GS7",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "MUN:O5H",
         "f": [
           "equal bars"
@@ -298,12 +274,6 @@
         "s": "XETR:1Q7",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:2B78",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -532,12 +502,6 @@
         "s": "XETR:OUTA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:PES",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
