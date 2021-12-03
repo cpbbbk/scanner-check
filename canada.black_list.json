@@ -7633,12 +7633,6 @@
         ]
       },
       {
-        "s": "NEO:WCE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:WCM.A",
         "f": [
           "no longer trading"
@@ -8510,6 +8504,12 @@
       },
       {
         "s": "TSXV:LBL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:LNE.H",
         "f": [
           "no longer trading"
         ]
