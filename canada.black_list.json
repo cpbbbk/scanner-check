@@ -1003,12 +1003,6 @@
         ]
       },
       {
-        "s": "NEO:AUL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:AUOZ",
         "f": [
           "empty symbol"
@@ -8299,6 +8293,12 @@
         ]
       },
       {
+        "s": "TSXV:GFM.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:GLIN.P",
         "f": [
           "no longer trading"
@@ -8498,6 +8498,12 @@
       },
       {
         "s": "TSXV:PEH.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:PLO.H",
         "f": [
           "no longer trading"
         ]
