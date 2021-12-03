@@ -43,12 +43,6 @@
         ]
       },
       {
-        "s": "CSE:BEE",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "CSE:BETS",
         "f": [
           "no longer trading"
@@ -3019,12 +3013,6 @@
         ]
       },
       {
-        "s": "NEO:FLJA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "NEO:FLOT.B",
         "f": [
           "no longer trading"
@@ -5815,12 +5803,6 @@
         ]
       },
       {
-        "s": "NEO:PWF.PR.E",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "NEO:PWI.PR.A",
         "f": [
           "no longer trading"
@@ -7993,39 +7975,15 @@
         ]
       },
       {
-        "s": "TSX:BTO",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "TSX:CMDO.U",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "TSX:FDE.A",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "TSX:GCBD",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "TSX:HARB.U",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:IAG",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8041,12 +7999,6 @@
         ]
       },
       {
-        "s": "TSX:NVEI",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "TSX:PVS.PR.B",
         "f": [
           "no longer trading"
@@ -8056,12 +8008,6 @@
         "s": "TSX:SCW.UN",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSX:ZZZD",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8239,12 +8185,6 @@
         ]
       },
       {
-        "s": "TSXV:GCN",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "TSXV:GENE.H",
         "f": [
           "no longer trading"
@@ -8254,12 +8194,6 @@
         "s": "TSXV:GLIN.P",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSXV:GRSL",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -8288,6 +8222,12 @@
       },
       {
         "s": "TSXV:HPL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:HRL",
         "f": [
           "no longer trading"
         ]
