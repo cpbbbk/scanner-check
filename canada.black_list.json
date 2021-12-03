@@ -961,12 +961,6 @@
         ]
       },
       {
-        "s": "NEO:ATOM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:ATSX",
         "f": [
           "no longer trading"
@@ -3979,12 +3973,6 @@
         ]
       },
       {
-        "s": "NEO:HXDM.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:HYDR",
         "f": [
           "no longer trading"
@@ -5245,12 +5233,6 @@
         ]
       },
       {
-        "s": "NEO:NKW.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:NL",
         "f": [
           "no longer trading"
@@ -5306,12 +5288,6 @@
       },
       {
         "s": "NEO:NSX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:NTM",
         "f": [
           "no longer trading"
         ]
@@ -6212,12 +6188,6 @@
       },
       {
         "s": "NEO:REE",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:REKO",
         "f": [
           "no longer trading"
         ]
@@ -8576,6 +8546,12 @@
       },
       {
         "s": "TSXV:OLT.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ORC.A",
         "f": [
           "no longer trading"
         ]
