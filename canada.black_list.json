@@ -7957,6 +7957,12 @@
         ]
       },
       {
+        "s": "TSX:FDE.A",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:KDC",
         "f": [
           "empty symbol"
@@ -8312,6 +8318,12 @@
       },
       {
         "s": "TSXV:RTN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:SAWC.P",
         "f": [
           "no longer trading"
         ]
