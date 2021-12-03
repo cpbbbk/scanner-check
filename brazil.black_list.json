@@ -559,6 +559,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:CMIN3",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:CMSA3",
         "f": [
           "empty symbol"
@@ -1519,6 +1525,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:LGCP11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:LLBI3",
         "f": [
           "empty symbol"
@@ -2201,6 +2213,12 @@
         "s": "BMFBOVESPA:R2HH34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:RADL3",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
