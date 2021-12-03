@@ -43,12 +43,6 @@
         ]
       },
       {
-        "s": "CSE:ATHA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:BETS",
         "f": [
           "no longer trading"
@@ -1801,12 +1795,6 @@
         ]
       },
       {
-        "s": "NEO:CGRA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:CHCL.B",
         "f": [
           "no longer trading"
@@ -2863,12 +2851,6 @@
         ]
       },
       {
-        "s": "NEO:EVNI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:EVX",
         "f": [
           "no longer trading"
@@ -3602,12 +3584,6 @@
       },
       {
         "s": "NEO:GPO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:GRC",
         "f": [
           "no longer trading"
         ]
@@ -4693,12 +4669,6 @@
         ]
       },
       {
-        "s": "NEO:MAYB.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:MAZ.H",
         "f": [
           "no longer trading"
@@ -4868,12 +4838,6 @@
       },
       {
         "s": "NEO:MGSB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:MGW",
         "f": [
           "no longer trading"
         ]
@@ -5404,12 +5368,6 @@
         "s": "NEO:NVR",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:NVRO",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -7687,12 +7645,6 @@
         ]
       },
       {
-        "s": "NEO:WAR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:WAT.P",
         "f": [
           "no longer trading"
@@ -8155,12 +8107,6 @@
         ]
       },
       {
-        "s": "NEO:ZMID.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:ZMMK",
         "f": [
           "empty symbol"
@@ -8222,6 +8168,12 @@
       },
       {
         "s": "TSX:BIP.W",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:BNK.PR.A",
         "f": [
           "no longer trading"
         ]
@@ -8564,6 +8516,12 @@
       },
       {
         "s": "TSXV:KHA.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:KYS.H",
         "f": [
           "no longer trading"
         ]
