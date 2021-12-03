@@ -13,7 +13,13 @@
       ]
     },
     {
-      "s": "NASDAQ:ENER",
+      "s": "NASDAQ:SGII",
+      "f": [
+        "change values are higher than limit (auto ban)"
+      ]
+    },
+    {
+      "s": "AMEX:INNO",
       "f": [
         "change values are higher than limit (auto ban)"
       ]
