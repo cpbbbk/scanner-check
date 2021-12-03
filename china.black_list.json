@@ -1,9 +1,21 @@
 {
     "black_list": [
       {
+        "s": "SZSE:002067",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "SZSE:002265",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SZSE:002932",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
