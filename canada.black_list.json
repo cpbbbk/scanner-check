@@ -259,12 +259,6 @@
         ]
       },
       {
-        "s": "CSE:MY.X",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:MYR",
         "f": [
           "no longer trading"
@@ -1724,12 +1718,6 @@
       },
       {
         "s": "NEO:CEP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:CF.PR.C",
         "f": [
           "no longer trading"
         ]
@@ -3694,12 +3682,6 @@
         "s": "NEO:HCON",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:HDOC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -8011,6 +7993,12 @@
         ]
       },
       {
+        "s": "TSX:CINC.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:FDE.A",
         "f": [
           "no longer trading"
@@ -8198,6 +8186,12 @@
       },
       {
         "s": "TSXV:CDC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:CEN",
         "f": [
           "no longer trading"
         ]
