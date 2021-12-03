@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "EURONEXT:ALGRO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:ALKEM",
         "f": [
           "empty symbol"
@@ -235,7 +229,31 @@
         ]
       },
       {
+        "s": "EURONEXT:EUCR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:FAYE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:FGBL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:FLRG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:FLXG",
         "f": [
           "no longer trading"
         ]
@@ -307,7 +325,19 @@
         ]
       },
       {
+        "s": "EURONEXT:HEGAU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:HPAW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:HPJP",
         "f": [
           "no longer trading"
         ]
@@ -350,12 +380,6 @@
       },
       {
         "s": "EURONEXT:LGEU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "EURONEXT:LGGL",
         "f": [
           "no longer trading"
         ]
