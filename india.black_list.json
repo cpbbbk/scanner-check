@@ -385,6 +385,12 @@
         ]
       },
       {
+        "s": "BSE:ALEXANDER",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BSE:ALKADIA",
         "f": [
           "no longer trading"
@@ -1972,6 +1978,12 @@
         "s": "BSE:ERABUILD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:ERIS",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -3601,6 +3613,12 @@
         ]
       },
       {
+        "s": "BSE:KILPP",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BSE:KIL_RE",
         "f": [
           "no longer trading"
@@ -5077,6 +5095,12 @@
         ]
       },
       {
+        "s": "BSE:PARKERAC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BSE:PARMSILK",
         "f": [
           "empty symbol"
@@ -5452,6 +5476,12 @@
         "s": "BSE:RAJVIR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:RAMINFO",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -7789,6 +7819,12 @@
         ]
       },
       {
+        "s": "BSE:YASHRAJC",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BSE:YASTF",
         "f": [
           "no longer trading"
@@ -8071,6 +8107,12 @@
         ]
       },
       {
+        "s": "NSE:ANDHRSUGAR",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "NSE:ARCOTECH",
         "f": [
           "no longer trading"
@@ -8103,6 +8145,7 @@
       {
         "s": "NSE:BABAFOOD",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -8206,6 +8249,12 @@
         "s": "NSE:DRSDILIP",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:EASUNREYRL",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -8635,6 +8684,12 @@
         ]
       },
       {
+        "s": "NSE:SHREEPUSHK",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "NSE:SICAGEN",
         "f": [
           "no longer trading"
@@ -8716,6 +8771,12 @@
         "s": "NSE:THIRUSUGAR",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:TINPLATE",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
