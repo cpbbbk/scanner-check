@@ -49,6 +49,18 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:AESO3",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:AESO3F",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:AFCR11",
         "f": [
           "no longer trading"
@@ -556,12 +568,6 @@
         "s": "BMFBOVESPA:CHDC34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:CMIN3",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
@@ -1525,12 +1531,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:LGCP11",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:LLBI3",
         "f": [
           "empty symbol"
@@ -2213,12 +2213,6 @@
         "s": "BMFBOVESPA:R2HH34",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "BMFBOVESPA:RADL3",
-        "f": [
-          "invalid symbol"
         ]
       },
       {
