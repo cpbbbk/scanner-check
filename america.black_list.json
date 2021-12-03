@@ -583,24 +583,6 @@
         ]
       },
       {
-        "s": "NASDAQ:PCAR",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:PFTA",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:QQQJ",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:RMGDU",
         "f": [
           "empty symbol"
@@ -709,12 +691,6 @@
         ]
       },
       {
-        "s": "NASDAQ:VJET",
-        "f": [
-          "invalid symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:VMACU",
         "f": [
           "no longer trading"
@@ -745,7 +721,7 @@
         ]
       },
       {
-        "s": "NYSE:CTA/PA",
+        "s": "NYSE:FDEU",
         "f": [
           "invalid symbol"
         ]
