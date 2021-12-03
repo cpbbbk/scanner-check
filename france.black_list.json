@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "EURONEXT:ALGRO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "EURONEXT:ALKEM",
         "f": [
           "empty symbol"
@@ -133,6 +127,18 @@
         ]
       },
       {
+        "s": "EURONEXT:FAYE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:FGBL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:FORE",
         "f": [
           "no longer trading"
@@ -164,6 +170,12 @@
       },
       {
         "s": "EURONEXT:HPAW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:HPJP",
         "f": [
           "no longer trading"
         ]
