@@ -1729,12 +1729,6 @@
         ]
       },
       {
-        "s": "SET:JAK.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:JCK.F",
         "f": [
           "no longer trading"
@@ -4583,8 +4577,7 @@
       {
         "s": "SET:UMI.F",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
