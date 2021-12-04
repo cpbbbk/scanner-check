@@ -165,6 +165,7 @@
       {
         "s": "BMFBOVESPA:BBIM11",
         "f": [
+          "invalid symbol",
           "no longer trading"
         ]
       },
@@ -718,6 +719,12 @@
         "s": "BMFBOVESPA:CTCA3F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:D1OM34",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
