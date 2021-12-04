@@ -1481,12 +1481,6 @@
         ]
       },
       {
-        "s": "SET:GREEN.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:GROREIT.F",
         "f": [
           "no longer trading"
@@ -1832,12 +1826,6 @@
         "s": "SET:JUTHA.P.R",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:JUTHA.Q",
-        "f": [
           "no longer trading"
         ]
       },
