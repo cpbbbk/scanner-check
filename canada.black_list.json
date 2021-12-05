@@ -2163,7 +2163,7 @@
       {
         "s": "NEO:CUDA.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -8662,6 +8662,12 @@
         "s": "TSXV:SSX.P",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:STAK.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
