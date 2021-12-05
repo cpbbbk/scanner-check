@@ -1979,8 +1979,7 @@
       {
         "s": "SET:L\u0026E.F",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
@@ -3575,12 +3574,6 @@
         "s": "SET:SNP.F",
         "f": [
           "equal bars",
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:SO.F",
-        "f": [
           "no longer trading"
         ]
       },
