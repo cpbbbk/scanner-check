@@ -1303,12 +1303,6 @@
         ]
       },
       {
-        "s": "NEO:BOLT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:BPO.PR.W",
         "f": [
           "no longer trading"
@@ -2035,12 +2029,6 @@
         ]
       },
       {
-        "s": "NEO:CRS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:CRSS.P",
         "f": [
           "empty symbol"
@@ -2582,12 +2570,6 @@
       },
       {
         "s": "NEO:EIT.PR.B",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:EKG",
         "f": [
           "no longer trading"
         ]
@@ -4412,12 +4394,6 @@
       },
       {
         "s": "NEO:LDI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:LEAD.B",
         "f": [
           "no longer trading"
         ]
@@ -8330,6 +8306,12 @@
       },
       {
         "s": "TSX:UNC.PR.C",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:WCM.A",
         "f": [
           "no longer trading"
         ]
