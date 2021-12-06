@@ -3531,7 +3531,7 @@
       {
         "s": "NEO:HAND.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3680,12 +3680,6 @@
       },
       {
         "s": "NEO:HIH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:HIRE",
         "f": [
           "no longer trading"
         ]
@@ -4340,12 +4334,6 @@
       },
       {
         "s": "NEO:LGT.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:LGT.B",
         "f": [
           "no longer trading"
         ]
