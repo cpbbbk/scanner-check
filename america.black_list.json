@@ -1429,12 +1429,6 @@
         ]
       },
       {
-        "s": "OTC:NRIS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:OCTHF",
         "f": [
           "empty symbol"
@@ -1598,6 +1592,12 @@
       },
       {
         "s": "OTC:VOBIF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:VXEL",
         "f": [
           "no longer trading"
         ]
