@@ -3301,12 +3301,6 @@
         ]
       },
       {
-        "s": "NEO:GGA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:GGAC",
         "f": [
           "no longer trading"
@@ -4952,12 +4946,6 @@
       },
       {
         "s": "NEO:MPH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:MPXI",
         "f": [
           "no longer trading"
         ]
@@ -8353,12 +8341,6 @@
         ]
       },
       {
-        "s": "TSX:VB.PR.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:WCM.B",
         "f": [
           "no longer trading"
@@ -8630,6 +8612,12 @@
       },
       {
         "s": "TSXV:DAC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:DCX.P",
         "f": [
           "no longer trading"
         ]
