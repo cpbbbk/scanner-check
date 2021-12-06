@@ -4891,12 +4891,6 @@
         ]
       },
       {
-        "s": "NEO:MRVL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:MSC",
         "f": [
           "no longer trading"
@@ -5822,12 +5816,6 @@
       },
       {
         "s": "NEO:PVF.PR.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:PWI.PR.A",
         "f": [
           "no longer trading"
         ]
@@ -8203,12 +8191,6 @@
         ]
       },
       {
-        "s": "TSX:PDV.PR.A",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSX:PHW",
         "f": [
           "no longer trading"
@@ -8918,6 +8900,12 @@
       },
       {
         "s": "TSXV:NAP.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:NAQ.P",
         "f": [
           "no longer trading"
         ]
