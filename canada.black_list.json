@@ -1507,12 +1507,6 @@
         ]
       },
       {
-        "s": "NEO:CARS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:CARS.B",
         "f": [
           "no longer trading"
@@ -9325,6 +9319,12 @@
         ]
       },
       {
+        "s": "TSXV:WED.PR.A",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSXV:WLTR.H",
         "f": [
           "no longer trading"
@@ -9386,6 +9386,12 @@
       },
       {
         "s": "TSXV:ZMS.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ZZE.H",
         "f": [
           "no longer trading"
         ]
