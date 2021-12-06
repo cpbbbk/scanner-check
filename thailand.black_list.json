@@ -1726,12 +1726,6 @@
         ]
       },
       {
-        "s": "SET:JP.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:JR.F",
         "f": [
           "no longer trading"
@@ -3198,8 +3192,7 @@
       {
         "s": "SET:SAWANG.F",
         "f": [
-          "equal bars",
-          "no longer trading"
+          "equal bars"
         ]
       },
       {
