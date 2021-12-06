@@ -3205,12 +3205,6 @@
         ]
       },
       {
-        "s": "NEO:GDPY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:GDPY.B",
         "f": [
           "no longer trading"
@@ -8653,6 +8647,12 @@
         ]
       },
       {
+        "s": "TSXV:FRS.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:FTM.H",
         "f": [
           "no longer trading"
@@ -9206,6 +9206,12 @@
       },
       {
         "s": "TSXV:STUV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:SVP.H",
         "f": [
           "no longer trading"
         ]
