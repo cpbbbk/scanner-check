@@ -3241,6 +3241,12 @@
         ]
       },
       {
+        "s": "NEO:GETT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:GFCO",
         "f": [
           "no longer trading"
@@ -4681,12 +4687,6 @@
         ]
       },
       {
-        "s": "NEO:MFX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:MGC.H",
         "f": [
           "no longer trading"
@@ -5371,6 +5371,12 @@
         ]
       },
       {
+        "s": "NEO:OZAU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:PAL",
         "f": [
           "no longer trading"
@@ -5524,12 +5530,6 @@
         "s": "NEO:PHI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:PHT.P",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6385,6 +6385,12 @@
         ]
       },
       {
+        "s": "NEO:SBMI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:SBO.H",
         "f": [
           "no longer trading"
@@ -7000,6 +7006,12 @@
         "s": "NEO:TONY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:TORA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -8497,6 +8509,12 @@
         ]
       },
       {
+        "s": "TSXV:GETT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSXV:GLIN.P",
         "f": [
           "no longer trading"
@@ -8683,12 +8701,6 @@
         ]
       },
       {
-        "s": "TSXV:MFX",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "TSXV:MHI",
         "f": [
           "no longer trading"
@@ -8770,6 +8782,12 @@
         "s": "TSXV:OVO.P",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:OZAU",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -8911,6 +8929,12 @@
         ]
       },
       {
+        "s": "TSXV:SBMI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:SBO.H",
         "f": [
           "no longer trading"
@@ -9026,6 +9050,12 @@
       },
       {
         "s": "TSXV:TLC.P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "TSXV:TORA",
         "f": [
           "empty symbol"
         ]
