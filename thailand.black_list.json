@@ -2756,12 +2756,6 @@
         ]
       },
       {
-        "s": "SET:PPPM.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SET:PPS.F",
         "f": [
           "no longer trading"
@@ -4313,12 +4307,6 @@
       },
       {
         "s": "SET:U.F",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SET:U.Q",
         "f": [
           "no longer trading"
         ]
