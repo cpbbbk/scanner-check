@@ -8485,6 +8485,12 @@
         ]
       },
       {
+        "s": "TSXV:GRTO.P",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSXV:GTD.H",
         "f": [
           "no longer trading"
@@ -8630,6 +8636,12 @@
       },
       {
         "s": "TSXV:MFS.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:MFX",
         "f": [
           "no longer trading"
         ]
@@ -8840,6 +8852,12 @@
       },
       {
         "s": "TSXV:SDC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:SFX",
         "f": [
           "no longer trading"
         ]
