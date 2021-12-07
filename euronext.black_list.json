@@ -73,6 +73,12 @@
         ]
       },
       {
+        "s": "EURONEXT:AMAL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:APM",
         "f": [
           "no longer trading"
@@ -82,6 +88,12 @@
         "s": "EURONEXT:ARDO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:BETZ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -133,6 +145,12 @@
         ]
       },
       {
+        "s": "EURONEXT:CLMA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:CTCT1",
         "f": [
           "empty symbol"
@@ -157,7 +175,25 @@
         ]
       },
       {
+        "s": "EURONEXT:DGEN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DIGI",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:DSC2S",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:DTOX",
         "f": [
           "empty symbol"
         ]
@@ -190,6 +226,12 @@
         "s": "EURONEXT:EMD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:EMQQ",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -358,6 +400,12 @@
         "s": "EURONEXT:IQEC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:ITEK",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1051,9 +1099,21 @@
         ]
       },
       {
+        "s": "EURONEXT:S0FT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:SGRO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:SKYY",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1099,6 +1159,12 @@
         ]
       },
       {
+        "s": "EURONEXT:TRYP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "EURONEXT:U10HK",
         "f": [
           "no longer trading"
@@ -1138,6 +1204,18 @@
         "s": "EURONEXT:VERIZ",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:WELL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "EURONEXT:ZERO",
+        "f": [
+          "empty symbol"
         ]
       }
     ]
