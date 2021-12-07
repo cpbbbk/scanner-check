@@ -397,12 +397,6 @@
         ]
       },
       {
-        "s": "LSE:0HOW",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0HQI",
         "f": [
           "no longer trading"
@@ -1681,12 +1675,6 @@
         ]
       },
       {
-        "s": "LSE:4GBL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:500D",
         "f": [
           "empty symbol"
@@ -2885,6 +2873,12 @@
       },
       {
         "s": "LSE:ZHEH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSIN:0A2D",
         "f": [
           "no longer trading"
         ]
