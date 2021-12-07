@@ -1,22 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "SET:TQM.F",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "SET:B52.R",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "SET:B52",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    }
-  ]
+  "black_list": []
 }
