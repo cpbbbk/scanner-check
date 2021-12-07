@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "NGM:FOUT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:ABTO",
         "f": [
           "no longer trading"
@@ -56,6 +50,12 @@
       },
       {
         "s": "OMXSTO:AFKO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:AGASO",
         "f": [
           "no longer trading"
         ]
@@ -295,12 +295,6 @@
         ]
       },
       {
-        "s": "OMXSTO:NORBTO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:NORTHO",
         "f": [
           "no longer trading"
@@ -428,12 +422,6 @@
       },
       {
         "s": "OMXSTO:SAGAO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:SATSO",
         "f": [
           "no longer trading"
         ]
