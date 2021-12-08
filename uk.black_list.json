@@ -379,12 +379,6 @@
         ]
       },
       {
-        "s": "LSE:0HW6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0HX1",
         "f": [
           "no longer trading"
@@ -2698,6 +2692,12 @@
         ]
       },
       {
+        "s": "LSE:TPOA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:TPOB",
         "f": [
           "equal bars"
@@ -2903,6 +2903,12 @@
       },
       {
         "s": "LSIN:CEIR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
