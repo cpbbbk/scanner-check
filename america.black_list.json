@@ -637,6 +637,12 @@
         ]
       },
       {
+        "s": "NASDAQ:BRKHU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:BRLIU",
         "f": [
           "no longer trading"
@@ -818,6 +824,12 @@
       },
       {
         "s": "NASDAQ:IGAP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:INTS",
         "f": [
           "empty symbol"
         ]
@@ -1099,6 +1111,12 @@
         ]
       },
       {
+        "s": "OTC:ASDRF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:ASGRF",
         "f": [
           "no longer trading"
@@ -1171,9 +1189,21 @@
         ]
       },
       {
+        "s": "OTC:CUAUF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:DMKBB",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:EAGRF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -1342,6 +1372,12 @@
         "s": "OTC:NAUFF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:NKGFF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
