@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "AMEX:VNAM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CBOT:EHF2022",
         "f": [
           "equal bars"
@@ -769,12 +763,6 @@
         ]
       },
       {
-        "s": "NASDAQ:GLAQU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NASDAQ:GPCOU",
         "f": [
           "no longer trading"
@@ -1036,12 +1024,6 @@
         "s": "NYSE:ONE",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:PORT.U",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1442,12 +1424,6 @@
       },
       {
         "s": "OTC:SNLGF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:SOCGM",
         "f": [
           "no longer trading"
         ]
