@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "AMEX:MOTG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:PHGE.U",
         "f": [
           "no longer trading"
@@ -952,12 +946,6 @@
         "s": "NYSE:ACAQ",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:CORS.U",
-        "f": [
-          "no longer trading"
         ]
       },
       {
