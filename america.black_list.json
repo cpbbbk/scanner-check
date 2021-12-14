@@ -775,7 +775,25 @@
         ]
       },
       {
+        "s": "NASDAQ:IMMX",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:INTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVCBU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NASDAQ:IVCPU",
         "f": [
           "empty symbol"
         ]
@@ -1456,6 +1474,12 @@
         "s": "OTC:WELPM",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:WIBFF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
