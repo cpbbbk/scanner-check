@@ -25,12 +25,6 @@
         ]
       },
       {
-        "s": "AMEX:DEIF",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "AMEX:DFRA",
         "f": [
           "empty symbol"
@@ -847,12 +841,6 @@
         ]
       },
       {
-        "s": "NASDAQ:LAX",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:LDOC",
         "f": [
           "empty symbol"
@@ -878,12 +866,6 @@
       },
       {
         "s": "NASDAQ:OCEA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:PCX",
         "f": [
           "empty symbol"
         ]
@@ -946,12 +928,6 @@
         "s": "NASDAQ:TEAD",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:THCAU",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1358,18 +1334,6 @@
       },
       {
         "s": "OTC:PAFRY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:PEMSF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:PGPEF",
         "f": [
           "no longer trading"
         ]
