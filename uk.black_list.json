@@ -715,6 +715,12 @@
         ]
       },
       {
+        "s": "LSE:BFSP",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:BG79",
         "f": [
           "empty symbol"
@@ -820,12 +826,6 @@
         "s": "LSE:EDGI",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:EMDH",
-        "f": [
-          "empty symbol"
         ]
       },
       {
