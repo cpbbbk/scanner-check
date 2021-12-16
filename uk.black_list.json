@@ -1486,12 +1486,6 @@
         ]
       },
       {
-        "s": "LSE:TORG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:TPOB",
         "f": [
           "equal bars"
@@ -1734,6 +1728,12 @@
       },
       {
         "s": "LSIN:SAUD",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:SDIC",
         "f": [
           "equal bars"
         ]
