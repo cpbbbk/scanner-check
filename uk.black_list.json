@@ -151,12 +151,6 @@
         ]
       },
       {
-        "s": "LSE:0LKB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0MKV",
         "f": [
           "no longer trading"
@@ -1625,6 +1619,12 @@
       },
       {
         "s": "LSIN:CEIR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
