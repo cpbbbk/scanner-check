@@ -73,12 +73,6 @@
         ]
       },
       {
-        "s": "OMXSTO:ARCHO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:ARRO",
         "f": [
           "no longer trading"
@@ -178,12 +172,6 @@
         "s": "OMXSTO:HAVIO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:HEART",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -343,6 +331,12 @@
         ]
       },
       {
+        "s": "OMXSTO:PARBO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OMXSTO:PHLYO",
         "f": [
           "no longer trading"
@@ -490,12 +484,6 @@
         "s": "OMXSTO:VVLO",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OMXSTO:W5",
-        "f": [
-          "empty symbol"
         ]
       },
       {
