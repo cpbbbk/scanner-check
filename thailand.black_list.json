@@ -1029,7 +1029,19 @@
         ]
       },
       {
+        "s": "SET:CSR",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:CSR.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:CSR.R",
         "f": [
           "no longer trading"
         ]
@@ -1278,9 +1290,21 @@
         ]
       },
       {
+        "s": "SET:FE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:FE.F",
         "f": [
           "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:FE.R",
+        "f": [
           "no longer trading"
         ]
       },
@@ -1510,6 +1534,12 @@
       },
       {
         "s": "SET:GTB.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:GULF.F",
         "f": [
           "no longer trading"
         ]
@@ -2285,6 +2315,12 @@
       },
       {
         "s": "SET:MILL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:MINT.F",
         "f": [
           "no longer trading"
         ]
