@@ -1,13 +1,19 @@
 {
     "black_list": [
       {
-        "s": "OSL:NOC",
+        "s": "OSL:GLEX",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "OSL:OCY",
+        "s": "OSL:HSHIP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OSL:NOC",
         "f": [
           "no longer trading"
         ]
