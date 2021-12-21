@@ -2593,12 +2593,6 @@
         ]
       },
       {
-        "s": "NEO:ENEV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:ENRG",
         "f": [
           "no longer trading"
@@ -2944,18 +2938,6 @@
         "s": "NEO:FLX",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:FLX.B",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:FLX.U",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6758,12 +6740,6 @@
       },
       {
         "s": "NEO:SURF.U",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:SUU.H",
         "f": [
           "empty symbol"
         ]
