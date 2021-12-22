@@ -1937,6 +1937,12 @@
         ]
       },
       {
+        "s": "SET:KEX.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SET:KGI.F",
         "f": [
           "no longer trading"
@@ -1968,6 +1974,12 @@
       },
       {
         "s": "SET:KOOL.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SET:KTB.F",
         "f": [
           "no longer trading"
         ]
