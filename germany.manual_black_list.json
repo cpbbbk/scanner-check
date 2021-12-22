@@ -1,28 +1,3 @@
 {
-  "black_list": [
-    {
-      "s": "MUN:TH9",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "FWB:9LR",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "BER:DTG",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    },
-    {
-      "s": "BER:BBY",
-      "f": [
-        "change values are higher than limit (auto ban)"
-      ]
-    }
-  ]
+  "black_list": []
 }
