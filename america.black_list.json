@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "AMEX:FEUL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "AMEX:NUVO",
         "f": [
           "empty symbol"
@@ -649,6 +655,12 @@
         ]
       },
       {
+        "s": "NASDAQ:NHIC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NASDAQ:NUBIU",
         "f": [
           "empty symbol"
@@ -854,6 +866,12 @@
       },
       {
         "s": "NYSE:DOUG/I",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NYSE:FCRW",
         "f": [
           "empty symbol"
         ]
@@ -1231,6 +1249,12 @@
         ]
       },
       {
+        "s": "OTC:REEEF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:RYWCF",
         "f": [
           "no longer trading"
@@ -1282,6 +1306,12 @@
         "s": "OTC:SOLBF",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:SPRCF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
