@@ -1,3 +1,22 @@
 {
-  "black_list": []
+  "black_list": [
+    {
+      "s": "MUN:VIR",
+      "f": [
+        "change values are higher than limit (auto ban)"
+      ]
+    },
+    {
+      "s": "BER:DTG",
+      "f": [
+        "change values are higher than limit (auto ban)"
+      ]
+    },
+    {
+      "s": "MUN:TH9",
+      "f": [
+        "change values are higher than limit (auto ban)"
+      ]
+    }
+  ]
 }
