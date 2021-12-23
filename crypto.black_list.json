@@ -7,6 +7,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADABUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ADAUSDT_PREMIUM",
         "f": [
           "price null"
@@ -92,12 +98,6 @@
       },
       {
         "s": "BINANCE:BLZUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:BNBBUSD_PREMIUM",
         "f": [
           "price null"
         ]
@@ -193,13 +193,13 @@
         ]
       },
       {
-        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "s": "BINANCE:DODOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:DODOUSDT_PREMIUM",
+        "s": "BINANCE:DOTUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -211,7 +211,19 @@
         ]
       },
       {
+        "s": "BINANCE:ENJUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ENSUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:EOSUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -224,6 +236,12 @@
       },
       {
         "s": "BINANCE:FLMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:FTMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -337,7 +355,31 @@
         ]
       },
       {
+        "s": "BINANCE:LPTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:LRCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MATICUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:MKRUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -350,6 +392,12 @@
       },
       {
         "s": "BINANCE:NEARUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:NEOUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -391,13 +439,13 @@
         ]
       },
       {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
+        "s": "BINANCE:RVNUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "s": "BINANCE:SCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -416,6 +464,12 @@
       },
       {
         "s": "BINANCE:SNXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:SOLBUSD_PREMIUM",
         "f": [
           "price null"
         ]
@@ -457,7 +511,7 @@
         ]
       },
       {
-        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "s": "BINANCE:TLMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -482,6 +536,12 @@
       },
       {
         "s": "BINANCE:UNIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:VETUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -6287,12 +6347,6 @@
         ]
       },
       {
-        "s": "BITTREX:PLAUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "BITTREX:RENBTCEUR",
         "f": [
           "no longer trading"
@@ -6374,12 +6428,6 @@
         "s": "FTX:BNBBEARUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "FTX:ETHE0325",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6815,6 +6863,12 @@
         ]
       },
       {
+        "s": "POLONIEX:BLZUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:BRGTRX",
         "f": [
           "no longer trading"
@@ -6845,9 +6899,21 @@
         ]
       },
       {
+        "s": "POLONIEX:GFUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "POLONIEX:RUNEUSDT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "POLONIEX:SFPUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
