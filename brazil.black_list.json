@@ -385,6 +385,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:BOVV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:BPAR3",
         "f": [
           "no longer trading"
@@ -406,6 +412,12 @@
         "s": "BMFBOVESPA:BRAP99",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:BRAX",
+        "f": [
+          "no longer trading"
         ]
       },
       {
@@ -1250,6 +1262,12 @@
       },
       {
         "s": "BMFBOVESPA:FIGE4F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:FIND",
         "f": [
           "no longer trading"
         ]
