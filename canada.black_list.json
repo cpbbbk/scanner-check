@@ -793,12 +793,6 @@
         ]
       },
       {
-        "s": "NEO:APHE.P",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:APL",
         "f": [
           "no longer trading"
@@ -2122,6 +2116,12 @@
         "s": "NEO:CTN",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NEO:CTRL.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -4174,12 +4174,6 @@
         "s": "NEO:KETA",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:KGF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6571,18 +6565,6 @@
         ]
       },
       {
-        "s": "NEO:SPACE.F",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:SPACE.M",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:SPD",
         "f": [
           "no longer trading"
@@ -8038,6 +8020,12 @@
         "s": "TSXV:CGLD",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:CTRL.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
