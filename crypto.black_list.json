@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "BINANCE:1000SHIBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:1INCHUSDT_PREMIUM",
         "f": [
           "price null"
@@ -13,7 +19,7 @@
         ]
       },
       {
-        "s": "BINANCE:ADABUSD_PREMIUM",
+        "s": "BINANCE:AKROUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -37,7 +43,7 @@
         ]
       },
       {
-        "s": "BINANCE:ARUSDT_PREMIUM",
+        "s": "BINANCE:ARPAUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -97,6 +103,18 @@
         ]
       },
       {
+        "s": "BINANCE:BLZUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:BNBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BTCSTUSDTPERP",
         "f": [
           "no longer trading"
@@ -121,6 +139,12 @@
         ]
       },
       {
+        "s": "BINANCE:CELRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHRUSDT_PREMIUM",
         "f": [
           "price null"
@@ -128,12 +152,6 @@
       },
       {
         "s": "BINANCE:CHZUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -205,7 +223,7 @@
         ]
       },
       {
-        "s": "BINANCE:ENSUSDT_PREMIUM",
+        "s": "BINANCE:ENJUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -260,6 +278,12 @@
       },
       {
         "s": "BINANCE:GTCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:HBARUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -337,6 +361,12 @@
         ]
       },
       {
+        "s": "BINANCE:LINKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:LITUSDT_PREMIUM",
         "f": [
           "price null"
@@ -350,12 +380,6 @@
       },
       {
         "s": "BINANCE:LRCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:LTCUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -445,12 +469,6 @@
         ]
       },
       {
-        "s": "BINANCE:REEFUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:RENUSDT_PREMIUM",
         "f": [
           "price null"
@@ -517,13 +535,19 @@
         ]
       },
       {
+        "s": "BINANCE:SOLUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SRMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
       },
       {
-        "s": "BINANCE:STORJUSDT_PREMIUM",
+        "s": "BINANCE:STMXUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -536,6 +560,12 @@
       },
       {
         "s": "BINANCE:THETAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:TLMUSDT_PREMIUM",
         "f": [
           "price null"
         ]
@@ -559,6 +589,12 @@
         ]
       },
       {
+        "s": "BINANCE:UNIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:VETUSDT_PREMIUM",
         "f": [
           "price null"
@@ -577,18 +613,6 @@
         ]
       },
       {
-        "s": "BINANCE:XLMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
-        "s": "BINANCE:XMRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:XRPUSDT_PREMIUM",
         "f": [
           "price null"
@@ -602,6 +626,12 @@
       },
       {
         "s": "BINANCE:YFIIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
+        "s": "BINANCE:YFIUSDT_PREMIUM",
         "f": [
           "price null"
         ]
