@@ -307,6 +307,24 @@
         ]
       },
       {
+        "s": "CME:WDC1!",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "CME:WDCG2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "CME:WDCG2023",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "CME:WDCG2024",
         "f": [
           "equal bars"
@@ -587,12 +605,6 @@
         "s": "NASDAQ:GMFIU",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:GRCYU",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -1407,12 +1419,6 @@
       },
       {
         "s": "OTC:VCOR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:VIHD",
         "f": [
           "no longer trading"
         ]
