@@ -187,12 +187,6 @@
         ]
       },
       {
-        "s": "CSE:EMPH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "CSE:EVG",
         "f": [
           "no longer trading"
@@ -5113,12 +5107,6 @@
         ]
       },
       {
-        "s": "NEO:MM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:MMC",
         "f": [
           "empty symbol"
@@ -7051,12 +7039,6 @@
         ]
       },
       {
-        "s": "NEO:SG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:SGA",
         "f": [
           "no longer trading"
@@ -7240,12 +7222,6 @@
         "s": "NEO:SPACE.A",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:SPD",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -8161,12 +8137,6 @@
         ]
       },
       {
-        "s": "NEO:WCC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:WCE",
         "f": [
           "no longer trading"
@@ -8863,6 +8833,12 @@
         ]
       },
       {
+        "s": "TSX:HTA.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:HUBL.U",
         "f": [
           "no longer trading"
@@ -8948,6 +8924,12 @@
       },
       {
         "s": "TSX:RPD.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:RWU.B",
         "f": [
           "no longer trading"
         ]
@@ -9715,6 +9697,12 @@
         ]
       },
       {
+        "s": "TSXV:MVM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:NAP.H",
         "f": [
           "no longer trading"
@@ -9811,6 +9799,12 @@
         ]
       },
       {
+        "s": "TSXV:PAV.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:PEH.H",
         "f": [
           "no longer trading"
@@ -9872,6 +9866,12 @@
       },
       {
         "s": "TSXV:PQE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:PSYF.P",
         "f": [
           "no longer trading"
         ]
@@ -10088,6 +10088,12 @@
       },
       {
         "s": "TSXV:TVR.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:UHO",
         "f": [
           "no longer trading"
         ]
