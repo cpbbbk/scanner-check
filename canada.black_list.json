@@ -259,12 +259,6 @@
         ]
       },
       {
-        "s": "CSE:LP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "CSE:MANS",
         "f": [
           "no longer trading"
@@ -1222,12 +1216,6 @@
         "s": "NEO:BDOP",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:BEAN",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -3547,12 +3535,6 @@
         ]
       },
       {
-        "s": "NEO:GCN",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:GCP",
         "f": [
           "no longer trading"
@@ -4375,12 +4357,6 @@
         ]
       },
       {
-        "s": "NEO:IMP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:INE.PR.C",
         "f": [
           "no longer trading"
@@ -4640,12 +4616,6 @@
       },
       {
         "s": "NEO:KETA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:KGL",
         "f": [
           "no longer trading"
         ]
@@ -5368,12 +5338,6 @@
         "s": "NEO:MTAV",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:MTB",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -8947,6 +8911,12 @@
         ]
       },
       {
+        "s": "TSX:QQCE.F",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:SCW.UN",
         "f": [
           "no longer trading"
@@ -8965,6 +8935,12 @@
         ]
       },
       {
+        "s": "TSX:XFS.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:XSHG",
         "f": [
           "no longer trading"
@@ -8978,6 +8954,12 @@
       },
       {
         "s": "TSX:ZQB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:AAD.P",
         "f": [
           "no longer trading"
         ]
@@ -9002,6 +8984,12 @@
       },
       {
         "s": "TSXV:AMH",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ANKH.P",
         "f": [
           "no longer trading"
         ]
@@ -9109,7 +9097,19 @@
         ]
       },
       {
+        "s": "TSXV:CZZ",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:DRC.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:DUR.P",
         "f": [
           "no longer trading"
         ]
@@ -9152,6 +9152,12 @@
       },
       {
         "s": "TSXV:GAC.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:GAR.H",
         "f": [
           "no longer trading"
         ]
@@ -9241,6 +9247,18 @@
         ]
       },
       {
+        "s": "TSXV:JHC.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:JUB",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:JWCA.H",
         "f": [
           "no longer trading"
@@ -9283,6 +9301,12 @@
         ]
       },
       {
+        "s": "TSXV:MERC.P",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:MFS.H",
         "f": [
           "no longer trading"
@@ -9308,6 +9332,12 @@
       },
       {
         "s": "TSXV:NGH.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:NL",
         "f": [
           "no longer trading"
         ]
@@ -9415,6 +9445,12 @@
         ]
       },
       {
+        "s": "TSXV:SNF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:SS.H",
         "f": [
           "no longer trading"
@@ -9424,6 +9460,12 @@
         "s": "TSXV:SSC.H",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:TBLZ.P",
+        "f": [
+          "empty symbol"
         ]
       },
       {
