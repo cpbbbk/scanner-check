@@ -3073,12 +3073,6 @@
         ]
       },
       {
-        "s": "NEO:EXG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:EXM",
         "f": [
           "empty symbol"
@@ -4724,12 +4718,6 @@
       },
       {
         "s": "NEO:KSUM.H",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:KTR",
         "f": [
           "no longer trading"
         ]
@@ -8617,12 +8605,6 @@
         ]
       },
       {
-        "s": "NEO:XFS",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:XFS.U",
         "f": [
           "no longer trading"
@@ -8947,6 +8929,24 @@
         ]
       },
       {
+        "s": "TSX:CINC.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:FIVE.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:GIQU.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:KDC",
         "f": [
           "empty symbol"
@@ -8959,6 +8959,12 @@
         ]
       },
       {
+        "s": "TSX:PUD.B",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:PVS.PR.B",
         "f": [
           "no longer trading"
@@ -8966,6 +8972,24 @@
       },
       {
         "s": "TSX:SCW.UN",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:TLF.U",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:XSHU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:ZQB",
         "f": [
           "no longer trading"
         ]
@@ -9205,6 +9229,12 @@
         ]
       },
       {
+        "s": "TSXV:MCF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSXV:MFS.H",
         "f": [
           "no longer trading"
@@ -9254,6 +9284,12 @@
       },
       {
         "s": "TSXV:PEH.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:PGO.H",
         "f": [
           "no longer trading"
         ]
