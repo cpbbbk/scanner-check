@@ -319,12 +319,6 @@
         ]
       },
       {
-        "s": "LSE:0HUZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0HW9",
         "f": [
           "no longer trading"
@@ -2360,6 +2354,12 @@
         ]
       },
       {
+        "s": "LSE:MXCN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:NLMA",
         "f": [
           "no longer trading"
@@ -2745,12 +2745,6 @@
         ]
       },
       {
-        "s": "LSIN:0MLB",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSIN:0MN3",
         "f": [
           "equal bars"
@@ -2830,12 +2824,6 @@
       },
       {
         "s": "LSIN:CEIR",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
