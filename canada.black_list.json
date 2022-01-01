@@ -8851,6 +8851,18 @@
         ]
       },
       {
+        "s": "TSX:BLOV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSX:CINC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSX:KDC",
         "f": [
           "empty symbol"
@@ -9068,6 +9080,12 @@
       },
       {
         "s": "TSXV:HPL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:HSC.P",
         "f": [
           "no longer trading"
         ]
