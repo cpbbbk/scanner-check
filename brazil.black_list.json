@@ -13,12 +13,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:A1FL34",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:A1GN34",
         "f": [
           "no longer trading"
@@ -385,6 +379,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:BRCO11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:BRGE11",
         "f": [
           "no longer trading"
@@ -436,6 +436,12 @@
         "s": "BMFBOVESPA:BRHT11B",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:BRIM11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1075,9 +1081,9 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:ENMT4F",
+        "s": "BMFBOVESPA:ENGI4F",
         "f": [
-          "no longer trading"
+          "invalid symbol"
         ]
       },
       {
@@ -1471,12 +1477,6 @@
         ]
       },
       {
-        "s": "BMFBOVESPA:H1RL34",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BMFBOVESPA:H1SI34",
         "f": [
           "no longer trading"
@@ -1564,6 +1564,12 @@
         "s": "BMFBOVESPA:HOOT3F",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:HREC11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1861,6 +1867,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:KISU11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:KLAS3",
         "f": [
           "empty symbol"
@@ -1876,6 +1888,12 @@
         "s": "BMFBOVESPA:KMPR34",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:KNSC11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -1936,6 +1954,12 @@
         "s": "BMFBOVESPA:LECA11B",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:LFTT11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -2557,6 +2581,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:PLCR11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:PLPF11",
         "f": [
           "empty symbol"
@@ -2761,6 +2791,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:RBVA11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:RCRI11B",
         "f": [
           "no longer trading"
@@ -2770,6 +2806,18 @@
         "s": "BMFBOVESPA:RCTA6L",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:REIT11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:RFOF11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -2977,6 +3025,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:SPTW11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:SRXM34",
         "f": [
           "no longer trading"
@@ -3109,6 +3163,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:TSER11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:TSNC11",
         "f": [
           "empty symbol"
@@ -3151,6 +3211,12 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:URPR11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:USIM6",
         "f": [
           "no longer trading"
@@ -3169,9 +3235,21 @@
         ]
       },
       {
+        "s": "BMFBOVESPA:VCRR11",
+        "f": [
+          "invalid symbol"
+        ]
+      },
+      {
         "s": "BMFBOVESPA:VERE11",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:VINO11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
@@ -3232,6 +3310,12 @@
         "s": "BMFBOVESPA:VSPT4F",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BMFBOVESPA:VTLT11",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
