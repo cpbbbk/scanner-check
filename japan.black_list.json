@@ -67,6 +67,12 @@
         ]
       },
       {
+        "s": "FSE:2503",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "FSE:2924",
         "f": [
           "no longer trading"
@@ -1522,6 +1528,12 @@
         ]
       },
       {
+        "s": "NAG:8616",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NAG:8725",
         "f": [
           "no longer trading"
@@ -1810,6 +1822,12 @@
         ]
       },
       {
+        "s": "SAPSE:7011",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SAPSE:7013",
         "f": [
           "no longer trading"
@@ -1960,6 +1978,12 @@
         ]
       },
       {
+        "s": "TSE:1485",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "TSE:1490",
         "f": [
           "no longer trading"
@@ -1967,6 +1991,12 @@
       },
       {
         "s": "TSE:1585",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSE:2068",
         "f": [
           "no longer trading"
         ]
@@ -2128,12 +2158,6 @@
         ]
       },
       {
-        "s": "TSE:7135",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "TSE:7170",
         "f": [
           "no longer trading"
@@ -2203,12 +2227,6 @@
         "s": "TSE:9146",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "TSE:9147",
-        "f": [
-          "empty symbol"
         ]
       },
       {
