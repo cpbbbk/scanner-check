@@ -6367,12 +6367,6 @@
         ]
       },
       {
-        "s": "NEO:PJT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "NEO:PLA",
         "f": [
           "no longer trading"
@@ -8641,6 +8635,12 @@
         ]
       },
       {
+        "s": "NEO:VOL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:VOY",
         "f": [
           "no longer trading"
@@ -9439,6 +9439,12 @@
         ]
       },
       {
+        "s": "TSX:PMZ.UN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "TSX:PVS.PR.B",
         "f": [
           "no longer trading"
@@ -10208,6 +10214,12 @@
       },
       {
         "s": "TSXV:VLV",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:VOL",
         "f": [
           "no longer trading"
         ]
