@@ -1753,12 +1753,6 @@
         ]
       },
       {
-        "s": "LSE:0VOU",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0VPX",
         "f": [
           "no longer trading"
@@ -3316,6 +3310,12 @@
       },
       {
         "s": "LSIN:0MN3",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:0MWM",
         "f": [
           "equal bars"
         ]
