@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "MOEX:AEO-RM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "MOEX:APPS-RM",
         "f": [
           "empty symbol"
@@ -260,12 +254,6 @@
       },
       {
         "s": "MOEX:MPWR-RM",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "MOEX:MTCH-RM",
         "f": [
           "empty symbol"
         ]
