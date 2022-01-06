@@ -7,6 +7,12 @@
         ]
       },
       {
+        "s": "FX_IDC:ARSBRL",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "FX_IDC:AWGUSD",
         "f": [
           "equal bars"
@@ -86,12 +92,6 @@
       },
       {
         "s": "FX_IDC:HKDMOP",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "FX_IDC:HUFBAM",
         "f": [
           "equal bars"
         ]
