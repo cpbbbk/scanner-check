@@ -2444,12 +2444,6 @@
         ]
       },
       {
-        "s": "LSE:IGDA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:JARB",
         "f": [
           "no longer trading"
@@ -2901,6 +2895,12 @@
         ]
       },
       {
+        "s": "LSE:TPOA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "LSE:TPOB",
         "f": [
           "equal bars"
@@ -2908,6 +2908,12 @@
       },
       {
         "s": "LSE:TPON",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSE:TPVD",
         "f": [
           "equal bars"
         ]
@@ -3021,12 +3027,6 @@
         ]
       },
       {
-        "s": "LSIN:0MWM",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "LSIN:0OFR",
         "f": [
           "equal bars"
@@ -3100,12 +3100,6 @@
       },
       {
         "s": "LSIN:CEIR",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
