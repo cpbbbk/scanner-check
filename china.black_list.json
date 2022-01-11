@@ -1,21 +1,9 @@
 {
     "black_list": [
       {
-        "s": "SSE:516810",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "SZSE:000780",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "SZSE:001234",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -50,30 +38,6 @@
       },
       {
         "s": "SZSE:140009",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SZSE:159728",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SZSE:159743",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SZSE:301136",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "SZSE:301196",
         "f": [
           "empty symbol"
         ]
