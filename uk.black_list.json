@@ -601,12 +601,6 @@
         ]
       },
       {
-        "s": "LSE:0JJP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0JKV",
         "f": [
           "no longer trading"
@@ -991,12 +985,6 @@
         ]
       },
       {
-        "s": "LSE:0P07",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0P3K",
         "f": [
           "no longer trading"
@@ -1123,12 +1111,6 @@
         ]
       },
       {
-        "s": "LSE:0R44",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0RBL",
         "f": [
           "no longer trading"
@@ -1238,12 +1220,6 @@
       },
       {
         "s": "LSE:0UHO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0UIT",
         "f": [
           "no longer trading"
         ]
@@ -2950,6 +2926,12 @@
       },
       {
         "s": "LSIN:CEIR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
