@@ -37,12 +37,6 @@
         ]
       },
       {
-        "s": "BINANCE:AAVEUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ADABUSDPERP_OI",
         "f": [
           "skip open interest"
@@ -133,12 +127,6 @@
         ]
       },
       {
-        "s": "BINANCE:ANKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ANTUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -223,12 +211,6 @@
         ]
       },
       {
-        "s": "BINANCE:AVAXUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:AXSPERP_OI",
         "f": [
           "skip open interest"
@@ -262,6 +244,12 @@
         "s": "BINANCE:BANDUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:BANDUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -499,12 +487,6 @@
         ]
       },
       {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:COTIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -526,6 +508,12 @@
         "s": "BINANCE:CRVUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:CRVUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -811,12 +799,6 @@
         ]
       },
       {
-        "s": "BINANCE:FTMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:FTTBUSDPERP_OI",
         "f": [
           "skip open interest"
@@ -1009,12 +991,6 @@
         ]
       },
       {
-        "s": "BINANCE:LINAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:LINKH2022_OI",
         "f": [
           "skip open interest"
@@ -1165,12 +1141,6 @@
         ]
       },
       {
-        "s": "BINANCE:MKRUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:MTLUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1210,12 +1180,6 @@
         "s": "BINANCE:NKNUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:NKNUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1264,6 +1228,12 @@
         "s": "BINANCE:ONEUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ONEUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1357,15 +1327,15 @@
         ]
       },
       {
-        "s": "BINANCE:RUNEUSDTPERP_OI",
+        "s": "BINANCE:RSRUSDT_PREMIUM",
         "f": [
-          "skip open interest"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "s": "BINANCE:RUNEUSDTPERP_OI",
         "f": [
-          "price null"
+          "skip open interest"
         ]
       },
       {
@@ -1531,12 +1501,6 @@
         ]
       },
       {
-        "s": "BINANCE:TLMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:TOMOUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1570,12 +1534,6 @@
         "s": "BINANCE:TRXUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:TRXUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1711,12 +1669,6 @@
         ]
       },
       {
-        "s": "BINANCE:XTZUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:YFIIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1732,12 +1684,6 @@
         "s": "BINANCE:YFIUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:YFIUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
