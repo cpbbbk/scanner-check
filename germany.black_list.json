@@ -50,6 +50,12 @@
         ]
       },
       {
+        "s": "BER:SLT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BER:SMWN",
         "f": [
           "equal bars"
@@ -93,6 +99,12 @@
       },
       {
         "s": "DUS:HOC",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "DUS:SLT",
         "f": [
           "no longer trading"
         ]
@@ -278,6 +290,12 @@
         ]
       },
       {
+        "s": "MUN:NOX",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "MUN:OTA",
         "f": [
           "equal bars"
@@ -297,6 +315,12 @@
       },
       {
         "s": "MUN:TLG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SWB:SLT",
         "f": [
           "no longer trading"
         ]
@@ -443,6 +467,12 @@
         "s": "XETR:LMLS",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:LU97533482",
+        "f": [
+          "empty symbol"
         ]
       },
       {
