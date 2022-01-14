@@ -6253,6 +6253,12 @@
         ]
       },
       {
+        "s": "BSE:SMPL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "BSE:SMPLXTR",
         "f": [
           "no longer trading"
@@ -6650,6 +6656,12 @@
       },
       {
         "s": "BSE:SWRNASE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:SYNCOM",
         "f": [
           "no longer trading"
         ]
@@ -7903,12 +7915,6 @@
         ]
       },
       {
-        "s": "NSE:DIL",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NSE:DQE",
         "f": [
           "no longer trading"
@@ -8221,6 +8227,12 @@
         ]
       },
       {
+        "s": "NSE:PHILIPCARB",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NSE:POWERFUL",
         "f": [
           "no longer trading"
@@ -8377,6 +8389,12 @@
         ]
       },
       {
+        "s": "NSE:SMPL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NSE:SONAHISONA",
         "f": [
           "no longer trading"
@@ -8396,6 +8414,12 @@
       },
       {
         "s": "NSE:SUJANAUNI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "NSE:SYNCOM",
         "f": [
           "no longer trading"
         ]
