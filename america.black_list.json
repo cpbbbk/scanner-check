@@ -421,6 +421,12 @@
         ]
       },
       {
+        "s": "NASDAQ:NSTS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:NUBIU",
         "f": [
           "empty symbol"
@@ -499,6 +505,12 @@
         ]
       },
       {
+        "s": "NASDAQ:SUNFU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:SVA",
         "f": [
           "no longer trading"
@@ -532,6 +544,12 @@
         "s": "NASDAQ:THCAU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:TKLF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -691,6 +709,18 @@
         ]
       },
       {
+        "s": "OTC:BYAGF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:BYFMF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:CDXXF",
         "f": [
           "no longer trading"
@@ -748,6 +778,12 @@
         "s": "OTC:EFBI",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:ELBMF",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -865,6 +901,18 @@
         ]
       },
       {
+        "s": "OTC:HMBL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "OTC:HSTI",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:IESFY",
         "f": [
           "no longer trading"
@@ -884,6 +932,12 @@
       },
       {
         "s": "OTC:JMPHF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:JRVMF",
         "f": [
           "no longer trading"
         ]
@@ -979,6 +1033,12 @@
         ]
       },
       {
+        "s": "OTC:OGOFF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:ORTIF",
         "f": [
           "no longer trading"
@@ -1039,6 +1099,12 @@
         ]
       },
       {
+        "s": "OTC:ROOOF",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "OTC:RQIHF",
         "f": [
           "no longer trading"
@@ -1094,6 +1160,12 @@
       },
       {
         "s": "OTC:SOCGM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:STVGF",
         "f": [
           "no longer trading"
         ]
