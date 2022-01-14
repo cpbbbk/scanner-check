@@ -699,7 +699,7 @@
       {
         "s": "NEO:ALCU",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -742,12 +742,6 @@
         "s": "NEO:ALTS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:AMEN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -2215,6 +2209,12 @@
         ]
       },
       {
+        "s": "NEO:CYX.H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "NEO:CZ.H",
         "f": [
           "empty symbol"
@@ -2488,12 +2488,6 @@
         "s": "NEO:EDGE.U",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:EDM",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -3597,7 +3591,7 @@
       {
         "s": "NEO:GYSR.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -3661,7 +3655,13 @@
         ]
       },
       {
-        "s": "NEO:HBGYF",
+        "s": "NEO:HBGYF.B",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:HBGYF.C",
         "f": [
           "empty symbol"
         ]
@@ -4243,12 +4243,6 @@
         ]
       },
       {
-        "s": "NEO:KEC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:KEON.H",
         "f": [
           "no longer trading"
@@ -4497,7 +4491,7 @@
       {
         "s": "NEO:LWR.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -5314,12 +5308,6 @@
         "s": "NEO:NZ",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:OC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -6901,24 +6889,6 @@
         ]
       },
       {
-        "s": "NEO:SRIC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:SRII",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NEO:SRIU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NEO:SS.H",
         "f": [
           "no longer trading"
@@ -8127,7 +8097,7 @@
       {
         "s": "NEO:YDX.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -8270,12 +8240,6 @@
       },
       {
         "s": "TSX:KDC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "TSX:KEC",
         "f": [
           "empty symbol"
         ]
@@ -8463,7 +8427,7 @@
       {
         "s": "TSXV:GYSR.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -8523,7 +8487,7 @@
       {
         "s": "TSXV:LWR.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -8703,7 +8667,7 @@
       {
         "s": "TSXV:YDX.H",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
