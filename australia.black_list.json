@@ -205,9 +205,9 @@
         ]
       },
       {
-        "s": "ASX:FGO",
+        "s": "ASX:FEG",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -286,12 +286,6 @@
         "s": "ASX:HWH",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ICNN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -493,6 +487,12 @@
         ]
       },
       {
+        "s": "ASX:ODE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:OGA",
         "f": [
           "no longer trading"
@@ -541,15 +541,15 @@
         ]
       },
       {
-        "s": "ASX:PEKDA",
+        "s": "ASX:PET",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:PET",
+        "s": "ASX:PG1N",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
@@ -718,6 +718,12 @@
         "s": "ASX:TRY",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:TTIN",
+        "f": [
+          "empty symbol"
         ]
       },
       {
