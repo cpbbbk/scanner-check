@@ -733,12 +733,6 @@
         ]
       },
       {
-        "s": "LSE:0K69",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0KBU",
         "f": [
           "no longer trading"
@@ -1460,6 +1454,12 @@
       },
       {
         "s": "LSE:0V9N",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:0VFA",
         "f": [
           "no longer trading"
         ]
@@ -2338,6 +2338,18 @@
         "s": "LSE:GVMH",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:HAGG",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:HAGS",
+        "f": [
+          "empty symbol"
         ]
       },
       {
