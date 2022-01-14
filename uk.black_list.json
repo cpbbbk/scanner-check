@@ -105,7 +105,7 @@
       {
         "s": "LSE:0DB6",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -475,12 +475,6 @@
         ]
       },
       {
-        "s": "LSE:0HUI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:0HW6",
         "f": [
           "no longer trading"
@@ -699,7 +693,7 @@
       {
         "s": "LSE:0K3W",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -710,6 +704,12 @@
       },
       {
         "s": "LSE:0K50",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:0K69",
         "f": [
           "no longer trading"
         ]
@@ -783,7 +783,7 @@
       {
         "s": "LSE:0LLR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -963,7 +963,7 @@
       {
         "s": "LSE:0O66",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -975,7 +975,7 @@
       {
         "s": "LSE:0OD6",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -999,7 +999,7 @@
       {
         "s": "LSE:0OI0",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1323,7 +1323,7 @@
       {
         "s": "LSE:0UNA",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1411,12 +1411,6 @@
         ]
       },
       {
-        "s": "LSE:0VFA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0VKV",
         "f": [
           "no longer trading"
@@ -1460,12 +1454,6 @@
       },
       {
         "s": "LSE:0VR6",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0VR8",
         "f": [
           "no longer trading"
         ]
@@ -1515,7 +1503,7 @@
       {
         "s": "LSE:0Y2D",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -2293,18 +2281,6 @@
         ]
       },
       {
-        "s": "LSE:HAGG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:HAGS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:HHPG",
         "f": [
           "no longer trading"
@@ -2892,12 +2868,6 @@
         "s": "LSIN:0GB7",
         "f": [
           "equal bars"
-        ]
-      },
-      {
-        "s": "LSIN:0HGZ",
-        "f": [
-          "empty symbol"
         ]
       },
       {
