@@ -103,6 +103,12 @@
         ]
       },
       {
+        "s": "COMEX:LED1!",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "COMEX:LEDF2022",
         "f": [
           "equal bars"
@@ -331,6 +337,12 @@
         ]
       },
       {
+        "s": "NASDAQ:JUNS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:JW",
         "f": [
           "empty symbol"
@@ -415,6 +427,12 @@
         ]
       },
       {
+        "s": "NASDAQ:PPYAU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NASDAQ:RMGDU",
         "f": [
           "empty symbol"
@@ -466,6 +484,12 @@
         "s": "NASDAQ:TEKKU",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "NASDAQ:TETEU",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -776,12 +800,6 @@
       },
       {
         "s": "OTC:HIRRF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:HSTI",
         "f": [
           "no longer trading"
         ]
