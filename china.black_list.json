@@ -1,6 +1,18 @@
 {
     "black_list": [
       {
+        "s": "SSE:603227",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "SSE:605090",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "SZSE:000780",
         "f": [
           "no longer trading"
