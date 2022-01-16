@@ -37,15 +37,15 @@
         ]
       },
       {
-        "s": "BINANCE:ADABUSDPERP_OI",
+        "s": "BINANCE:AAVEUSDT_PREMIUM",
         "f": [
-          "skip open interest"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:ADABUSD_PREMIUM",
+        "s": "BINANCE:ADABUSDPERP_OI",
         "f": [
-          "price null"
+          "skip open interest"
         ]
       },
       {
@@ -73,6 +73,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AKROUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -88,12 +94,6 @@
         "s": "BINANCE:ALGOUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ALGOUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -127,12 +127,6 @@
         ]
       },
       {
-        "s": "BINANCE:ANTUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ARPAUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -148,12 +142,6 @@
         "s": "BINANCE:ARUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ARUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -235,6 +223,12 @@
         ]
       },
       {
+        "s": "BINANCE:BAKEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:BALUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -280,6 +274,12 @@
         "s": "BINANCE:BCHUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:BCHUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -445,6 +445,12 @@
         ]
       },
       {
+        "s": "BINANCE:CHRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHZUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -529,6 +535,12 @@
         ]
       },
       {
+        "s": "BINANCE:DASHUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DEFIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -565,9 +577,21 @@
         ]
       },
       {
+        "s": "BINANCE:DODOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DOGEBUSDPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:DOGEBUSD_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -580,6 +604,12 @@
         "s": "BINANCE:DOGEUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:DOGEUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -697,6 +727,12 @@
         ]
       },
       {
+        "s": "BINANCE:ETCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ETHBUSDPERP_OI",
         "f": [
           "skip open interest"
@@ -742,6 +778,12 @@
         "s": "BINANCE:FILUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:FILUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -829,12 +871,6 @@
         ]
       },
       {
-        "s": "BINANCE:HBARUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:HNTUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -853,21 +889,27 @@
         ]
       },
       {
+        "s": "BINANCE:HOTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ICPUSDTPERP_OI",
         "f": [
           "skip open interest"
         ]
       },
       {
-        "s": "BINANCE:ICPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ICXUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ICXUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -904,6 +946,12 @@
         "s": "BINANCE:KAVAUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:KAVAUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1099,27 +1147,21 @@
         ]
       },
       {
-        "s": "BINANCE:MATICUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:MKRUSDTPERP_OI",
         "f": [
           "skip open interest"
         ]
       },
       {
-        "s": "BINANCE:MTLUSDTPERP_OI",
+        "s": "BINANCE:MKRUSDT_PREMIUM",
         "f": [
-          "skip open interest"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:MTLUSDT_PREMIUM",
+        "s": "BINANCE:MTLUSDTPERP_OI",
         "f": [
-          "price null"
+          "skip open interest"
         ]
       },
       {
@@ -1132,6 +1174,12 @@
         "s": "BINANCE:NEARUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:NEARUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1249,12 +1297,6 @@
         ]
       },
       {
-        "s": "BINANCE:REEFUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:RENUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1273,15 +1315,15 @@
         ]
       },
       {
-        "s": "BINANCE:RLCUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ROSEUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ROSEUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1291,9 +1333,21 @@
         ]
       },
       {
+        "s": "BINANCE:RSRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RUNEUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:RUNEUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1351,6 +1405,12 @@
         ]
       },
       {
+        "s": "BINANCE:SKLUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SNXUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1369,6 +1429,12 @@
         ]
       },
       {
+        "s": "BINANCE:SOLBUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:SOLPERP_OI",
         "f": [
           "skip open interest"
@@ -1378,6 +1444,12 @@
         "s": "BINANCE:SOLUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:SOLUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1420,12 +1492,6 @@
         "s": "BINANCE:SUSHIUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:SUSHIUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1474,6 +1540,12 @@
         "s": "BINANCE:TOMOUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1555,6 +1627,12 @@
         ]
       },
       {
+        "s": "BINANCE:XEMUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:XLMPERP_OI",
         "f": [
           "skip open interest"
@@ -1627,6 +1705,12 @@
         ]
       },
       {
+        "s": "BINANCE:YFIIUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:YFIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1678,12 +1762,6 @@
         "s": "BINANCE:ZRXUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ZRXUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
