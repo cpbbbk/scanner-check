@@ -6295,12 +6295,6 @@
         ]
       },
       {
-        "s": "BSE:SOURCEIND",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BSE:SOWBHAGYA",
         "f": [
           "no longer trading"
@@ -8524,6 +8518,12 @@
         "s": "NSE:VLIFE_RE1",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "NSE:WFL",
+        "f": [
+          "invalid symbol"
         ]
       },
       {
