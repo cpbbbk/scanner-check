@@ -139,12 +139,6 @@
         ]
       },
       {
-        "s": "FWB:HOC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:IQL1",
         "f": [
           "no longer trading"
@@ -254,12 +248,6 @@
         ]
       },
       {
-        "s": "MUN:GFJ1",
-        "f": [
-          "equal bars"
-        ]
-      },
-      {
         "s": "MUN:HOC",
         "f": [
           "no longer trading"
@@ -297,12 +285,6 @@
       },
       {
         "s": "MUN:TLG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "SWB:SLT",
         "f": [
           "no longer trading"
         ]
@@ -362,12 +344,6 @@
         ]
       },
       {
-        "s": "XETR:BRH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "XETR:CCME",
         "f": [
           "equal bars"
@@ -416,13 +392,13 @@
         ]
       },
       {
-        "s": "XETR:HNK1",
+        "s": "XETR:FREN",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "XETR:HOC",
+        "s": "XETR:HNK1",
         "f": [
           "no longer trading"
         ]
@@ -431,6 +407,18 @@
         "s": "XETR:IBC8",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:IEBYQJ138",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:IEXGNMWE",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -461,6 +449,12 @@
         "s": "XETR:LMLS",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:LU240238926",
+        "f": [
+          "empty symbol"
         ]
       },
       {
