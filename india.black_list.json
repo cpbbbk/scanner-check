@@ -5773,6 +5773,12 @@
         ]
       },
       {
+        "s": "BSE:SDBL_RE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "BSE:SDC",
         "f": [
           "no longer trading"
@@ -7378,6 +7384,12 @@
         "s": "BSE:WEPSOLN_RE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "BSE:WFL",
+        "f": [
+          "empty symbol"
         ]
       },
       {
