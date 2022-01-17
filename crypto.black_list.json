@@ -157,21 +157,9 @@
         ]
       },
       {
-        "s": "BINANCE:ARUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ATAUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ATAUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -190,12 +178,6 @@
         "s": "BINANCE:AUDIOUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:AUDIOUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -235,12 +217,6 @@
         ]
       },
       {
-        "s": "BINANCE:BAKEUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:BALUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -256,12 +232,6 @@
         "s": "BINANCE:BANDUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:BANDUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -439,15 +409,15 @@
         ]
       },
       {
-        "s": "BINANCE:CELRUSDTPERP_OI",
+        "s": "BINANCE:CELOUSDT_PREMIUM",
         "f": [
-          "skip open interest"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:CELRUSDT_PREMIUM",
+        "s": "BINANCE:CELRUSDTPERP_OI",
         "f": [
-          "price null"
+          "skip open interest"
         ]
       },
       {
@@ -472,12 +442,6 @@
         "s": "BINANCE:COMPUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -604,6 +568,12 @@
         "s": "BINANCE:DOGEUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:DOGEUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -805,12 +775,6 @@
         ]
       },
       {
-        "s": "BINANCE:GALAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:GRTUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -826,6 +790,12 @@
         "s": "BINANCE:GTCUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:GTCUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -853,15 +823,15 @@
         ]
       },
       {
-        "s": "BINANCE:ICPUSDTPERP_OI",
+        "s": "BINANCE:HOTUSDT_PREMIUM",
         "f": [
-          "skip open interest"
+          "price null"
         ]
       },
       {
-        "s": "BINANCE:ICPUSDT_PREMIUM",
+        "s": "BINANCE:ICPUSDTPERP_OI",
         "f": [
-          "price null"
+          "skip open interest"
         ]
       },
       {
@@ -1093,15 +1063,15 @@
         ]
       },
       {
-        "s": "BINANCE:MATICUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:MKRUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:MKRUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1201,6 +1171,12 @@
         ]
       },
       {
+        "s": "BINANCE:ONTUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:PEOPLEUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1249,12 +1225,6 @@
         ]
       },
       {
-        "s": "BINANCE:RENUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:RLCUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1270,12 +1240,6 @@
         "s": "BINANCE:ROSEUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ROSEUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1429,12 +1393,6 @@
         ]
       },
       {
-        "s": "BINANCE:SXPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:THETAPERP_OI",
         "f": [
           "skip open interest"
@@ -1444,12 +1402,6 @@
         "s": "BINANCE:THETAUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:THETAUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1633,12 +1585,6 @@
         ]
       },
       {
-        "s": "BINANCE:YFIIUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:YFIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1666,12 +1612,6 @@
         "s": "BINANCE:ZENUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ZENUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -8237,6 +8177,12 @@
         ]
       },
       {
+        "s": "MERCADO:BLZBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MERCADO:CTSIBRL",
         "f": [
           "empty symbol"
@@ -8255,13 +8201,37 @@
         ]
       },
       {
+        "s": "MERCADO:FLOKIBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MERCADO:GALABRL",
         "f": [
           "empty symbol"
         ]
       },
       {
+        "s": "MERCADO:GNOBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:GODSBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MERCADO:IMXBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:KP3RBRL",
         "f": [
           "empty symbol"
         ]
@@ -8291,6 +8261,36 @@
         ]
       },
       {
+        "s": "MERCADO:MCBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:MIRBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:OXTBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:PLABRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:POLSBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "MERCADO:RADBRL",
         "f": [
           "empty symbol"
@@ -8304,6 +8304,24 @@
       },
       {
         "s": "MERCADO:SHIBBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:SPELLBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:SUPERBRL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "MERCADO:WLUNABRL",
         "f": [
           "empty symbol"
         ]
