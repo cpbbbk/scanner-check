@@ -49,18 +49,6 @@
         ]
       },
       {
-        "s": "ASX:AVRO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:BD1",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:BGP",
         "f": [
           "no longer trading"
@@ -152,12 +140,6 @@
       },
       {
         "s": "ASX:EMUCA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:EQEDA",
         "f": [
           "no longer trading"
         ]
@@ -259,12 +241,6 @@
         ]
       },
       {
-        "s": "ASX:IDZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:IEQ",
         "f": [
           "no longer trading"
@@ -274,12 +250,6 @@
         "s": "ASX:IMS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:INPN",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -314,12 +284,6 @@
       },
       {
         "s": "ASX:IVO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:JDR",
         "f": [
           "no longer trading"
         ]
@@ -373,12 +337,6 @@
         ]
       },
       {
-        "s": "ASX:MBKNC",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:MCX",
         "f": [
           "no longer trading"
@@ -421,15 +379,21 @@
         ]
       },
       {
-        "s": "ASX:NCZDA",
+        "s": "ASX:NC1",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
         "s": "ASX:NSE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:NWENA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -475,12 +439,6 @@
         ]
       },
       {
-        "s": "ASX:PG1N",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:PNL",
         "f": [
           "no longer trading"
@@ -502,12 +460,6 @@
         "s": "ASX:RBD",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:RDNO",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -602,12 +554,6 @@
       },
       {
         "s": "ASX:TPO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:TPSDD",
         "f": [
           "no longer trading"
         ]
