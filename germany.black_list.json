@@ -73,6 +73,12 @@
         ]
       },
       {
+        "s": "DUS:OTA",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "DUS:SLT",
         "f": [
           "no longer trading"
@@ -116,6 +122,12 @@
       },
       {
         "s": "FWB:ANGA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "FWB:C3W",
         "f": [
           "no longer trading"
         ]
@@ -189,6 +201,12 @@
       },
       {
         "s": "HAN:HLG",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "HAN:SLT",
         "f": [
           "no longer trading"
         ]
@@ -308,6 +326,12 @@
         ]
       },
       {
+        "s": "XETR:APXJ",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "XETR:BIO1",
         "f": [
           "empty symbol"
@@ -363,6 +387,12 @@
       },
       {
         "s": "XETR:FREN",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "XETR:HGGA",
         "f": [
           "empty symbol"
         ]
