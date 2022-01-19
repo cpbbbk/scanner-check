@@ -7,18 +7,6 @@
         ]
       },
       {
-        "s": "LSE:0A1T",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0A7T",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0A8N",
         "f": [
           "no longer trading"
@@ -26,12 +14,6 @@
       },
       {
         "s": "LSE:0A8U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0D1X",
         "f": [
           "no longer trading"
         ]
@@ -64,12 +46,6 @@
         "s": "LSE:0GB8",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "LSE:0GP7",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -115,12 +91,6 @@
         ]
       },
       {
-        "s": "LSE:0JEZ",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0JYL",
         "f": [
           "no longer trading"
@@ -140,12 +110,6 @@
       },
       {
         "s": "LSE:0LLF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0MS9",
         "f": [
           "no longer trading"
         ]
@@ -217,18 +181,6 @@
         ]
       },
       {
-        "s": "LSE:0R6B",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0RBL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0U96",
         "f": [
           "no longer trading"
@@ -253,12 +205,6 @@
         ]
       },
       {
-        "s": "LSE:0VAG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "LSE:0VFA",
         "f": [
           "no longer trading"
@@ -266,12 +212,6 @@
       },
       {
         "s": "LSE:0XAA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0Y10",
         "f": [
           "no longer trading"
         ]
@@ -1636,6 +1576,12 @@
       },
       {
         "s": "LSIN:CEIR",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
+        "s": "LSIN:CFHS",
         "f": [
           "equal bars"
         ]
