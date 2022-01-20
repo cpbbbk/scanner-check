@@ -19,6 +19,12 @@
         ]
       },
       {
+        "s": "NGM:HODL",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NGM:LATF.BTA.B",
         "f": [
           "empty symbol"
@@ -26,12 +32,6 @@
       },
       {
         "s": "NGM:RFAST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NGM:SNX",
         "f": [
           "no longer trading"
         ]
@@ -67,12 +67,6 @@
         ]
       },
       {
-        "s": "OMXSTO:ANORAO",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OMXSTO:ARCHO",
         "f": [
           "no longer trading"
@@ -82,6 +76,12 @@
         "s": "OMXSTO:AWDRO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:BONZUN_BTU",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -220,6 +220,12 @@
         "s": "OMXSTO:KCCO",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "OMXSTO:KDEV_BTA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
