@@ -43,6 +43,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADABUSD_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ADAH2022_OI",
         "f": [
           "skip open interest"
@@ -97,12 +103,6 @@
         ]
       },
       {
-        "s": "BINANCE:ALPHAUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ANKRUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -124,12 +124,6 @@
         "s": "BINANCE:ARPAUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:ARPAUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -202,12 +196,6 @@
         "s": "BINANCE:BAKEUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:BAKEUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -421,12 +409,6 @@
         ]
       },
       {
-        "s": "BINANCE:COMPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:COTIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -481,6 +463,12 @@
         ]
       },
       {
+        "s": "BINANCE:DASHUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DEFIUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -505,6 +493,12 @@
         ]
       },
       {
+        "s": "BINANCE:DODOUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DOGEBUSDPERP_OI",
         "f": [
           "skip open interest"
@@ -520,12 +514,6 @@
         "s": "BINANCE:DOGEUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:DOGEUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -847,21 +835,9 @@
         ]
       },
       {
-        "s": "BINANCE:KEEPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:KLAYUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:KLAYUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -997,6 +973,12 @@
         ]
       },
       {
+        "s": "BINANCE:MASKUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:MATICPERP_OI",
         "f": [
           "skip open interest"
@@ -1012,6 +994,12 @@
         "s": "BINANCE:MKRUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:MKRUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1237,12 +1225,6 @@
         ]
       },
       {
-        "s": "BINANCE:SFPUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:SKLUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1360,12 +1342,6 @@
         "s": "BINANCE:TOMOUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:TOMOUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1510,6 +1486,12 @@
         "s": "BINANCE:YFIIUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:YFIIUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -7613,6 +7595,12 @@
         ]
       },
       {
+        "s": "COINEX:BABYUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "COINEX:BOOUSDT",
         "f": [
           "empty symbol"
@@ -7650,6 +7638,12 @@
       },
       {
         "s": "COINEX:GFIUSDT",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "COINEX:HEROUSDT",
         "f": [
           "empty symbol"
         ]
