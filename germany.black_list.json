@@ -25,6 +25,12 @@
         ]
       },
       {
+        "s": "BER:RCMN",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "BER:SCA",
         "f": [
           "no longer trading"
@@ -248,6 +254,12 @@
         ]
       },
       {
+        "s": "MUN:H9W",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "MUN:HS6",
         "f": [
           "equal bars"
@@ -461,6 +473,12 @@
         "s": "XETR:SLT",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:SPV2",
+        "f": [
+          "empty symbol"
         ]
       },
       {
