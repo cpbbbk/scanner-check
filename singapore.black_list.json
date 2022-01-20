@@ -385,12 +385,6 @@
         ]
       },
       {
-        "s": "SGX:B07",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SGX:B0Z",
         "f": [
           "no longer trading"
@@ -655,12 +649,6 @@
         ]
       },
       {
-        "s": "SGX:M30",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "SGX:MMS",
         "f": [
           "no longer trading"
@@ -721,6 +709,18 @@
         ]
       },
       {
+        "s": "SGX:PGS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "SGX:PGU",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "SGX:PJX",
         "f": [
           "empty symbol"
@@ -748,6 +748,12 @@
         "s": "SGX:RC5",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "SGX:RCQU",
+        "f": [
+          "empty symbol"
         ]
       },
       {
