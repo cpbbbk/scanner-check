@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "LUXSE:APMT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LUXSE:BLUCO",
         "f": [
           "no longer trading"
@@ -290,6 +284,12 @@
       },
       {
         "s": "LUXSE:FR0013470853",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LUXSE:FTXHG",
         "f": [
           "no longer trading"
         ]
