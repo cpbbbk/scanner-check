@@ -19,12 +19,6 @@
         ]
       },
       {
-        "s": "BER:HOC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "BER:II8",
         "f": [
           "no longer trading"
@@ -67,12 +61,6 @@
         ]
       },
       {
-        "s": "BER:UCNA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "DUS:ED4",
         "f": [
           "no longer trading"
@@ -86,12 +74,6 @@
       },
       {
         "s": "DUS:HLG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "DUS:HOC",
         "f": [
           "no longer trading"
         ]
@@ -158,12 +140,6 @@
       },
       {
         "s": "FWB:GEY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "FWB:HOC",
         "f": [
           "no longer trading"
         ]
@@ -284,12 +260,6 @@
         ]
       },
       {
-        "s": "MUN:HOC",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "MUN:HS6",
         "f": [
           "equal bars"
@@ -326,12 +296,6 @@
         ]
       },
       {
-        "s": "SWB:SLT",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "XETR:1Q7",
         "f": [
           "no longer trading"
@@ -356,12 +320,6 @@
         ]
       },
       {
-        "s": "XETR:A3MQCV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "XETR:AM3F",
         "f": [
           "empty symbol"
@@ -383,12 +341,6 @@
         "s": "XETR:BNRN",
         "f": [
           "empty symbol"
-        ]
-      },
-      {
-        "s": "XETR:BRH",
-        "f": [
-          "no longer trading"
         ]
       },
       {
@@ -440,13 +392,13 @@
         ]
       },
       {
-        "s": "XETR:HNK1",
+        "s": "XETR:FREN",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "XETR:HOC",
+        "s": "XETR:HNK1",
         "f": [
           "no longer trading"
         ]
@@ -455,6 +407,12 @@
         "s": "XETR:IBC8",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:IEBYQJ138",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -485,6 +443,12 @@
         "s": "XETR:LMLS",
         "f": [
           "equal bars"
+        ]
+      },
+      {
+        "s": "XETR:LU238074860",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -549,12 +513,6 @@
       },
       {
         "s": "XETR:WBAH",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "XETR:WCM",
         "f": [
           "no longer trading"
         ]
