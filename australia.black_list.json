@@ -25,31 +25,13 @@
         ]
       },
       {
-        "s": "ASX:AJM",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:AMPPA",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "ASX:AOP",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "ASX:APG",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:APL",
         "f": [
           "no longer trading"
         ]
@@ -169,6 +151,12 @@
         ]
       },
       {
+        "s": "ASX:FATP",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:FE8",
         "f": [
           "no longer trading"
@@ -208,12 +196,6 @@
         "s": "ASX:GMC",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:GMDND",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -283,6 +265,18 @@
         ]
       },
       {
+        "s": "ASX:INY",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "ASX:INYO",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:IPC",
         "f": [
           "no longer trading"
@@ -307,7 +301,7 @@
         ]
       },
       {
-        "s": "ASX:IVG",
+        "s": "ASX:ITG",
         "f": [
           "empty symbol"
         ]
@@ -421,9 +415,21 @@
         ]
       },
       {
+        "s": "ASX:OSH",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:OVTDA",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:OXT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -493,12 +499,6 @@
         ]
       },
       {
-        "s": "ASX:RYDNA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:SCU",
         "f": [
           "no longer trading"
@@ -548,12 +548,6 @@
       },
       {
         "s": "ASX:SSLPA",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:STONA",
         "f": [
           "no longer trading"
         ]
@@ -656,12 +650,6 @@
       },
       {
         "s": "ASX:YTMAST",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:YTMDO1",
         "f": [
           "no longer trading"
         ]
