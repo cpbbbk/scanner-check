@@ -127,12 +127,6 @@
         ]
       },
       {
-        "s": "FWB:C3W",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "FWB:GEY",
         "f": [
           "no longer trading"
@@ -466,19 +460,21 @@
       {
         "s": "XETR:LMLS",
         "f": [
-          "equal bars"
-        ]
-      },
-      {
-        "s": "XETR:LU238074860",
-        "f": [
-          "empty symbol"
+          "equal bars",
+          "no longer trading"
         ]
       },
       {
         "s": "XETR:LYS6",
         "f": [
-          "equal bars"
+          "equal bars",
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "XETR:LYXT",
+        "f": [
+          "no longer trading"
         ]
       },
       {
