@@ -31,6 +31,12 @@
         ]
       },
       {
+        "s": "BINANCE:AAVEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ADABUSDPERP_OI",
         "f": [
           "skip open interest"
@@ -61,6 +67,12 @@
         ]
       },
       {
+        "s": "BINANCE:ADAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AKROUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -76,6 +88,12 @@
         "s": "BINANCE:ALGOUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ALGOUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -175,6 +193,12 @@
         ]
       },
       {
+        "s": "BINANCE:AVAXUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:AXSPERP_OI",
         "f": [
           "skip open interest"
@@ -202,6 +226,12 @@
         "s": "BINANCE:BANDUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:BANDUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -481,6 +511,12 @@
         ]
       },
       {
+        "s": "BINANCE:DGBUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:DODOUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -559,15 +595,15 @@
         ]
       },
       {
-        "s": "BINANCE:EGLDUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ENJUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ENJUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -823,6 +859,12 @@
         ]
       },
       {
+        "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KSMUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -832,6 +874,12 @@
         "s": "BINANCE:LINAUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -886,6 +934,12 @@
         "s": "BINANCE:LRCUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:LRCUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1003,6 +1057,12 @@
         ]
       },
       {
+        "s": "BINANCE:NKNUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:NUUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1117,6 +1177,12 @@
         ]
       },
       {
+        "s": "BINANCE:ROSEUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RSRUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1132,6 +1198,12 @@
         "s": "BINANCE:RVNUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:RVNUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1156,6 +1228,12 @@
         "s": "BINANCE:SFPUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:SFPUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1321,6 +1399,12 @@
         ]
       },
       {
+        "s": "BINANCE:VETUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:WAVESUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1348,6 +1432,12 @@
         "s": "BINANCE:XLMUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:XLMUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
