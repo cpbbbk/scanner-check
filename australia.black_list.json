@@ -193,15 +193,15 @@
         ]
       },
       {
-        "s": "ASX:FEG",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:FFC",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:FXG",
+        "f": [
+          "empty symbol"
         ]
       },
       {
@@ -265,15 +265,15 @@
         ]
       },
       {
-        "s": "ASX:HRR",
+        "s": "ASX:HORNC",
         "f": [
-          "no longer trading"
+          "empty symbol"
         ]
       },
       {
-        "s": "ASX:HTGAO",
+        "s": "ASX:HRR",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -292,12 +292,6 @@
         "s": "ASX:IMS",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:INY",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -322,12 +316,6 @@
         "s": "ASX:ISX",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:ITG",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -385,6 +373,12 @@
         ]
       },
       {
+        "s": "ASX:MEPXE",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "ASX:MIH",
         "f": [
           "no longer trading"
@@ -422,24 +416,6 @@
       },
       {
         "s": "ASX:OLI",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "ASX:OLLNA",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:OSH",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "ASX:OVTDA",
         "f": [
           "no longer trading"
         ]
@@ -601,12 +577,6 @@
         ]
       },
       {
-        "s": "ASX:TTIN",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "ASX:UUV",
         "f": [
           "no longer trading"
@@ -625,7 +595,7 @@
         ]
       },
       {
-        "s": "ASX:VORN",
+        "s": "ASX:VMM",
         "f": [
           "empty symbol"
         ]
@@ -640,6 +610,12 @@
         "s": "ASX:WBE",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "ASX:WBTNB",
+        "f": [
+          "empty symbol"
         ]
       },
       {
