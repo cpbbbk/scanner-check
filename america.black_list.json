@@ -151,6 +151,12 @@
         ]
       },
       {
+        "s": "COMEX:LEDV2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "DJ:DJUSCL",
         "f": [
           "no longer trading"
@@ -632,12 +638,6 @@
       },
       {
         "s": "NYSE:ATAQ.U",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:AVAN.U",
         "f": [
           "no longer trading"
         ]
