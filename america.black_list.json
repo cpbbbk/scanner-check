@@ -49,6 +49,12 @@
         ]
       },
       {
+        "s": "CBOT:EHG2022",
+        "f": [
+          "equal bars"
+        ]
+      },
+      {
         "s": "CME:BTCN2022",
         "f": [
           "empty symbol"
