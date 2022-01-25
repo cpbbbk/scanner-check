@@ -1,6 +1,12 @@
 {
     "black_list": [
       {
+        "s": "EURONEXT:AFRHU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:ALBOU",
         "f": [
           "no longer trading"
@@ -121,7 +127,7 @@
         ]
       },
       {
-        "s": "EURONEXT:FBEL",
+        "s": "EURONEXT:ESGH",
         "f": [
           "no longer trading"
         ]
@@ -188,6 +194,12 @@
       },
       {
         "s": "EURONEXT:HPAW",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:HSJD",
         "f": [
           "no longer trading"
         ]
@@ -643,6 +655,12 @@
         ]
       },
       {
+        "s": "EURONEXT:MLROU",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "EURONEXT:MLSBT",
         "f": [
           "no longer trading"
@@ -680,6 +698,12 @@
       },
       {
         "s": "EURONEXT:MLSMP",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:MLSRP",
         "f": [
           "no longer trading"
         ]
@@ -800,6 +824,12 @@
       },
       {
         "s": "EURONEXT:U710H",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "EURONEXT:UINE",
         "f": [
           "no longer trading"
         ]
