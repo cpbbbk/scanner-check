@@ -4,8 +4,6 @@
     "NSE:TATAMTRDVR": 30,
     "NSE:HMT": 30,
     "BSE:HMT": 30,
-    "BSE:JISLDVREQS": 30,
-    "NSE:JISLDVREQS": 30,
     "BSE:JOONKTOLL": 30,
     "BSE:TANTIACONS": 30,
     "BSE:RADAAN": 30,
@@ -30,5 +28,12 @@
     "BSE:KFBL": 30,
     "NSE:VISESHINFO": 30,
     "BSE:VOLTAMP": 30,
-    "NSE:VOLTAMP": 30
+    "NSE:VOLTAMP": 30,
+    "BSE:SPELS": 30,
+    "BSE:SEIL": 30,
+    "BSE:WFL": 30,
+    "BSE:MNKCMILTD": 30,
+    "NSE:IL_FSENGG": 30,
+    "BSE:VIRINCHI": 30,
+    "BSE:BINNY": 30
 }
