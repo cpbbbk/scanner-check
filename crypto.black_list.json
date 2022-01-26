@@ -79,12 +79,6 @@
         ]
       },
       {
-        "s": "BINANCE:AKROUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:ALGOUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -160,6 +154,12 @@
         "s": "BINANCE:ATAUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -340,6 +340,12 @@
         "s": "BINANCE:BTCDOMUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:BTCDOMUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1426,6 +1432,12 @@
         "s": "BINANCE:TOMOUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -7655,42 +7667,6 @@
         "s": "BYBIT:BTTUSDT",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "COINBASE:MPLEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:MPLUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:PLUEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:PLUUSDT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:UNFIEUR",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "COINBASE:UNFIUSDT",
-        "f": [
-          "empty symbol"
         ]
       },
       {
