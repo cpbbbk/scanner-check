@@ -1,12 +1,6 @@
 {
     "black_list": [
       {
-        "s": "LSE:0A0Y",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "LSE:0A8N",
         "f": [
           "no longer trading"
@@ -56,12 +50,6 @@
       },
       {
         "s": "LSE:0FBL",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0FQN",
         "f": [
           "no longer trading"
         ]
@@ -127,6 +115,12 @@
         ]
       },
       {
+        "s": "LSE:0IEE",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:0IKZ",
         "f": [
           "no longer trading"
@@ -152,6 +146,12 @@
       },
       {
         "s": "LSE:0JYL",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:0KAS",
         "f": [
           "no longer trading"
         ]
@@ -199,13 +199,13 @@
         ]
       },
       {
-        "s": "LSE:0P07",
+        "s": "LSE:0Q7J",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:0Q7J",
+        "s": "LSE:0Q90",
         "f": [
           "no longer trading"
         ]
@@ -235,13 +235,13 @@
         ]
       },
       {
-        "s": "LSE:0RAA",
+        "s": "LSE:0R07",
         "f": [
           "no longer trading"
         ]
       },
       {
-        "s": "LSE:0RL5",
+        "s": "LSE:0RAA",
         "f": [
           "no longer trading"
         ]
@@ -265,13 +265,31 @@
         ]
       },
       {
+        "s": "LSE:0UUM",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:0UXL",
         "f": [
           "no longer trading"
         ]
       },
       {
+        "s": "LSE:0VCO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "LSE:0VFA",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "LSE:0VL8",
         "f": [
           "no longer trading"
         ]
@@ -308,12 +326,6 @@
       },
       {
         "s": "LSE:0Y71",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "LSE:0Y7W",
         "f": [
           "no longer trading"
         ]
@@ -844,6 +856,12 @@
         "s": "LSE:BCNA",
         "f": [
           "empty symbol"
+        ]
+      },
+      {
+        "s": "LSE:BD15",
+        "f": [
+          "no longer trading"
         ]
       },
       {
