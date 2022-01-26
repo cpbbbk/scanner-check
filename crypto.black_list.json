@@ -169,6 +169,12 @@
         ]
       },
       {
+        "s": "BINANCE:ATAUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:ATOMPERP_OI",
         "f": [
           "skip open interest"
@@ -427,9 +433,21 @@
         ]
       },
       {
+        "s": "BINANCE:CELRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:CHRUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:CHRUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -925,21 +943,27 @@
         ]
       },
       {
+        "s": "BINANCE:KNCUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:KSMUSDTPERP_OI",
         "f": [
           "skip open interest"
         ]
       },
       {
-        "s": "BINANCE:KSMUSDT_PREMIUM",
-        "f": [
-          "price null"
-        ]
-      },
-      {
         "s": "BINANCE:LINAUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:LINAUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -1048,12 +1072,6 @@
         "s": "BINANCE:LUNAUSDTPERP_OI",
         "f": [
           "skip open interest"
-        ]
-      },
-      {
-        "s": "BINANCE:LUNAUSDT_PREMIUM",
-        "f": [
-          "price null"
         ]
       },
       {
@@ -1291,6 +1309,12 @@
         ]
       },
       {
+        "s": "BINANCE:RSRUSDT_PREMIUM",
+        "f": [
+          "price null"
+        ]
+      },
+      {
         "s": "BINANCE:RUNEUSDTPERP_OI",
         "f": [
           "skip open interest"
@@ -1450,6 +1474,12 @@
         "s": "BINANCE:TOMOUSDTPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "BINANCE:TOMOUSDT_PREMIUM",
+        "f": [
+          "price null"
         ]
       },
       {
@@ -8297,6 +8327,12 @@
         "s": "KRAKEN:XRPUSDPERP_OI",
         "f": [
           "skip open interest"
+        ]
+      },
+      {
+        "s": "KUCOIN:MTSUSDT",
+        "f": [
+          "empty symbol"
         ]
       },
       {
