@@ -307,6 +307,12 @@
         ]
       },
       {
+        "s": "CSE:PUGS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "CSE:REO",
         "f": [
           "no longer trading"
@@ -1004,12 +1010,6 @@
       },
       {
         "s": "NEO:AWR",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "NEO:AXV",
         "f": [
           "no longer trading"
         ]
@@ -2804,6 +2804,12 @@
       },
       {
         "s": "NEO:FCMO.U",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
+        "s": "NEO:FCNS",
         "f": [
           "empty symbol"
         ]
@@ -5863,6 +5869,12 @@
         ]
       },
       {
+        "s": "NEO:PUGS",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:PVF.PR.U",
         "f": [
           "no longer trading"
@@ -8119,6 +8131,12 @@
         ]
       },
       {
+        "s": "NEO:ZACA",
+        "f": [
+          "empty symbol"
+        ]
+      },
+      {
         "s": "NEO:ZBBB",
         "f": [
           "no longer trading"
@@ -8632,6 +8650,12 @@
         "s": "TSXV:YSC.H",
         "f": [
           "no longer trading"
+        ]
+      },
+      {
+        "s": "TSXV:ZACA",
+        "f": [
+          "empty symbol"
         ]
       },
       {
