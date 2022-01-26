@@ -31,9 +31,9 @@
         ]
       },
       {
-        "s": "AMEX:SKYH",
+        "s": "AMEX:SPY",
         "f": [
-          "empty symbol"
+          "invalid symbol"
         ]
       },
       {
@@ -445,18 +445,6 @@
         ]
       },
       {
-        "s": "NASDAQ:CRDO",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:DMAT",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:DYCU",
         "f": [
           "empty symbol"
@@ -565,12 +553,6 @@
         ]
       },
       {
-        "s": "NASDAQ:ISHP",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NASDAQ:JAAC",
         "f": [
           "empty symbol"
@@ -668,12 +650,6 @@
       },
       {
         "s": "NASDAQ:RMGEU",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NASDAQ:SATL",
         "f": [
           "empty symbol"
         ]
@@ -793,18 +769,6 @@
         ]
       },
       {
-        "s": "NYSE:BIPI",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:ECCV",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
         "s": "NYSE:ENPC.U",
         "f": [
           "no longer trading"
@@ -826,18 +790,6 @@
         "s": "NYSE:KSU",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "NYSE:PAXS",
-        "f": [
-          "empty symbol"
-        ]
-      },
-      {
-        "s": "NYSE:SPE/PC",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -931,7 +883,19 @@
         ]
       },
       {
+        "s": "OTC:CDXXF",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:CNIGO",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
+        "s": "OTC:CNSC",
         "f": [
           "no longer trading"
         ]
@@ -1075,6 +1039,12 @@
         ]
       },
       {
+        "s": "OTC:INFT",
+        "f": [
+          "no longer trading"
+        ]
+      },
+      {
         "s": "OTC:IQAIF",
         "f": [
           "no longer trading"
@@ -1102,12 +1072,6 @@
         "s": "OTC:KDCCF",
         "f": [
           "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:KNGRF",
-        "f": [
-          "empty symbol"
         ]
       },
       {
@@ -1245,7 +1209,7 @@
       {
         "s": "OTC:RQIHF",
         "f": [
-          "empty symbol"
+          "no longer trading"
         ]
       },
       {
@@ -1267,19 +1231,7 @@
         ]
       },
       {
-        "s": "OTC:SHMY",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
         "s": "OTC:SLNFF",
-        "f": [
-          "no longer trading"
-        ]
-      },
-      {
-        "s": "OTC:SNLGF",
         "f": [
           "no longer trading"
         ]
